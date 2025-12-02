@@ -9,13 +9,17 @@ def extract_data(file_name):
         dir_path = os.path.dirname(__file__)
         # Construct file path
         file_path = os.path.join(dir_path, 'data',file_name)
+        # Check if path is valid
         if os.path.exists(file_path):
+            # Read csv and print first five rows
             data = pd.read_csv(file_path)
             print(data.head())
             return data
+        # Give feedback if path is not found
         else:
             print(f"File {file_name} not found in the data folder.")
-        
+
+    # Give error feedback if extraction fails
     except Exception as e:
         print("error exttracting data as{e}")
 
