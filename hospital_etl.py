@@ -2,6 +2,8 @@
 import pandas as pd
 import os
 
+# STEP 1: EXTRACTION
+
 # Extract data from the csv
 def extract_data(file_name):
     try:
@@ -23,6 +25,9 @@ def extract_data(file_name):
     except Exception as e:
         print("error exttracting data as{e}")
 
+# coming up next is transformation.....
+
+# STEP 2: TRANSFORMATION
 
 
 
