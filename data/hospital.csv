@@ -1,0 +1,1001 @@
+patient_id,patient_name,age,gender,sickness,visit_date,admission_date,doctor_report,treatment_status
+PAT00001,Elizabeth Cline,9,Female,Mumps,2023-06-15,,Patient was diagnosed with Otitis Media on 2023-06-15. The patient is currently under treatment.,Did Not Receive Treatment
+PAT00002,Jay Hall,13,Male,Peptic Ulcer Disease,2017-11-03,,Patient was diagnosed with Leishmaniasis on 2017-11-03. The patient is currently under observation.,Received Treatment
+PAT00003,Kyle Grant,12,Female,Dengue Fever,2019-02-02,,Patient was diagnosed with Tetanus Neonatorum on 2019-02-02. The patient is currently under treatment.,Received Treatment
+PAT00004,Jennifer Reynolds,50,Female,Lupus,2023-05-27,,Patient was diagnosed with Monkeypox on 2023-05-27. The patient is currently under treatment.,Received Treatment
+PAT00005,Valerie Hunt,2,Male,Macular Degeneration,,,Patient was diagnosed with Mumps on Unknown. The patient is currently under treatment.,Not Available
+PAT00006,Catherine Allen,41,Female,Rabies,2000-06-09,,Patient was diagnosed with Measles on 2000-06-09. The patient is currently under treatment.,Received Treatment
+PAT00007,Robert Russell,41,Female,Cystic Fibrosis,2011-11-30,2011-11-30,Patient was diagnosed with MERS on 2011-11-30. The patient is currently under treatment.,Received Treatment
+PAT00008,Natalie Burke,69,Female,Fungal Infection,1959-04-15,1959-04-15,Patient was diagnosed with Erectile Dysfunction on 1959-04-15. The patient is currently under treatment.,Did Not Receive Treatment
+PAT00009,John Rivers,51,Female,Anemia,2002-02-18,,Patient was diagnosed with Dehydration on 2002-02-18. The patient is currently under treatment.,Did Not Receive Treatment
+PAT00010,Tracy Greene,2,Female,Macular Degeneration,2025-09-04,,Patient was diagnosed with Typhoid Fever on 2025-09-04. The patient is currently under treatment.,Did Not Receive Treatment
+PAT00011,Anna Fox,3,Male,Uterine Fibroids,2025-07-17,,Patient was diagnosed with Cataract on 2025-07-17. The patient is currently under treatment.,Received Treatment
+PAT00012,Annette Taylor,28,Female,Schistosomiasis,,,Patient was diagnosed with Pertussis on Unknown. The patient is currently under treatment.,Not Available
+PAT00013,Larry Caldwell,36,Male,Hypothermia,1997-06-25,,Patient was diagnosed with Conjunctivitis on 1997-06-25. The patient is currently under observation.,Not Available
+PAT00014,Patricia Owens,48,Female,Burns,2002-12-29,,Patient was diagnosed with Pneumonia on 2002-12-29. The patient is currently under treatment.,Not Available
+PAT00015,Dominique Moore,62,,Stroke,2002-09-21,,Patient was diagnosed with Cystic Fibrosis on 2002-09-21. The patient is currently under treatment.,Received Treatment
+PAT00016,Sarah Morris,44,Male,Hepatitis B,1998-03-02,,Patient was diagnosed with Polycystic Ovary Syndrome (PCOS) on 1998-03-02. The patient is currently under treatment.,Received Treatment
+PAT00017,Andrew Phillips,80,Female,Allergies,1993-05-22,1993-05-22,Patient was diagnosed with Poliomyelitis on 1993-05-22. The patient is currently under treatment.,Received Treatment
+PAT00018,Lindsey Reed,41,Female,SARS,,,Patient was diagnosed with Plague on Unknown. The patient is currently under treatment.,Received Treatment
+PAT00019,Darren Morales,34,Female,NIL,2023-11-30,,Patient was diagnosed with DIABETES on 2023-11-30. The patient is currently under treatment.,Received Treatment
+PAT00020,Nancy Duran,38,Female,Influenza,2014-07-11,,Patient was diagnosed with Leishmaniasis on 2014-07-11. The patient is currently under treatment.,Received Treatment
+PAT00021,Laura Meza,28,Male,Dehydration,2008-11-25,2008-11-25,Patient was diagnosed with Sinusitis on 2008-11-25. The patient is currently under treatment.,Received Treatment
+PAT00022,Mark Moss,19,Female,Appendicitis,2007-10-20,,Patient was diagnosed with Common Cold on 2007-10-20. The patient is currently under treatment.,Received Treatment
+PAT00023,Philip Carter,48,Male,Anemia,1990-06-03,1990-06-03,Patient was diagnosed with Diabetes Mellitus on 1990-06-03. The patient is currently under treatment.,Received Treatment
+PAT00024,Christine Compton,62,Female,Influenza,2003-07-30,,Patient was diagnosed with Tetanus Neonatorum on 2003-07-30. The patient is currently under treatment.,Received Treatment
+PAT00025,Amanda Griffith,26,Male,MALARIA,2017-11-06,2017-11-06,Patient was diagnosed with Cholera on 2017-11-06. The patient is currently under treatment.,Received Treatment
+PAT00026,Melanie Odonnell,61,Male,Lassa fever,1965-12-01,,Patient was diagnosed with Urinary Tract Infection on 1965-12-01. The patient is currently under treatment.,Received Treatment
+PAT00027,Tyler Mcmillan,14,Female,Prostatitis,2022-12-17,,Patient was diagnosed with Appendicitis on 2022-12-17. The patient is currently under observation.,Received Treatment
+PAT00028,Timothy Pineda,9,Male,Coronary Artery Disease,2017-02-27,,Patient was diagnosed with Septicemia on 2017-02-27. The patient is currently under observation.,Did Not Receive Treatment
+PAT00029,Craig Wiley,70,Female,Septicemia,1977-10-06,,Patient was diagnosed with Ulcerative Colitis on 1977-10-06. The patient is currently under treatment.,Received Treatment
+PAT00030,Jennifer Rodriguez,42,Male,Osteomyelitis,1995-10-13,,Patient was diagnosed with Rabies on 1995-10-13. The patient is currently under treatment.,Received Treatment
+PAT00031,Robert Valdez,19,Female,Measles,2015-09-25,,Patient was diagnosed with Anemia on 2015-09-25. The patient is currently under observation.,Did Not Receive Treatment
+PAT00032,Katrina Contreras,54,Female,Uterine Fibroids,2006-03-04,,Patient was diagnosed with Tularemia on 2006-03-04. The patient is currently under treatment.,Received Treatment
+PAT00033,Roberto Mckee,79,Female,Crohn's Disease,1969-07-23,,Patient was diagnosed with Pertussis on 1969-07-23. The patient is currently under observation.,Did Not Receive Treatment
+PAT00034,Lisa Pittman,55,Male,TUBERCULOSIS,1979-05-13,,Patient was diagnosed with meningitis on 1979-05-13. The patient is currently under treatment.,Received Treatment
+PAT00035,Anthony Cardenas,67,Female,meningitis,1979-10-15,,Patient was diagnosed with COVID-19 on 1979-10-15. The patient is currently under treatment.,Received Treatment
+PAT00036,Megan Santos,55,Female,Diphtheria,1987-09-29,1987-09-29,Patient was diagnosed with Diphtheria on 1987-09-29. The patient is currently under treatment.,Received Treatment
+PAT00037,Donna Bullock,18,Female,Osteoporosis,2025-06-05,,Patient was diagnosed with Pneumonia on 2025-06-05. The patient is currently under treatment.,Received Treatment
+PAT00038,Natasha Davis,35,Male,Hypertension,1991-09-21,,Patient was diagnosed with Zika Virus on 1991-09-21. The patient is currently under observation.,Did Not Receive Treatment
+PAT00039,Kayla Smith,28,Female,Erectile Dysfunction,2014-07-18,2014-07-18,Patient was diagnosed with Fracture on 2014-07-18. The patient is currently under observation.,Did Not Receive Treatment
+PAT00040,Frank Sanders,97,Male,Otitis Media,1984-03-16,,Patient was diagnosed with Pneumonia on 1984-03-16. The patient is currently under treatment.,Received Treatment
+PAT00041,Amy Price,85,Male,Malnutrition,2006-04-11,,Patient was diagnosed with Urinary Tract Infection on 2006-04-11. The patient is currently under treatment.,Did Not Receive Treatment
+PAT00042,Kathleen Sanders,73,Male,Uterine Fibroids,2008-09-16,,Patient was diagnosed with Heart Failure on 2008-09-16. The patient is currently under treatment.,Received Treatment
+PAT00043,Brian Baird,58,Male,Crohn's Disease,1982-11-22,,Patient was diagnosed with Cataract on 1982-11-22. The patient is currently under treatment.,Did Not Receive Treatment
+PAT00044,,52,Female,Conjunctivitis,1999-05-27,,Patient was diagnosed with Asthma on 1999-05-27. The patient is currently under treatment.,Received Treatment
+PAT00045,Luis Mack,93,Female,Plague,1998-11-06,,Patient was diagnosed with Lice Infestation on 1998-11-06. The patient is currently under treatment.,Did Not Receive Treatment
+PAT00046,Melissa Morgan,9,Male,Dengue Fever,2023-03-09,2023-03-09,Patient was diagnosed with Bronchitis on 2023-03-09. The patient is currently under treatment.,Did Not Receive Treatment
+PAT00047,Phillip Hansen,48,Female,Septicemia,2000-01-09,2000-01-09,Patient was diagnosed with Cholera on 2000-01-09. The patient is currently under treatment.,Received Treatment
+PAT00048,Cynthia Payne,43,Female,Chickenpox,2024-01-13,,Patient was diagnosed with Laryngitis on 2024-01-13. The patient is currently under observation.,Received Treatment
+PAT00049,Erica Ward,51,Female,Cellulitis,2014-11-18,2014-11-18,Patient was diagnosed with Lupus on 2014-11-18. The patient is currently under treatment.,Received Treatment
+PAT00050,Kathryn Adkins,20,Male,Impetigo,2011-08-01,,Patient was diagnosed with Measles on 2011-08-01. The patient is currently under treatment.,Received Treatment
+PAT00051,Abigail Cruz,74,Male,Chronic Obstructive Pulmonary Disease (COPD),1989-01-30,1989-01-30,Patient was diagnosed with COVID-19 on 1989-01-30. The patient is currently under treatment.,Received Treatment
+PAT00052,,24,Male,Rheumatoid Arthritis,2003-12-18,,Patient was diagnosed with Cataract on 2003-12-18. The patient is currently under treatment.,Did Not Receive Treatment
+PAT00053,Joseph Bridges,37,Female,Leishmaniasis,2000-03-06,2000-03-06,Patient was diagnosed with Chickenpox on 2000-03-06. The patient is currently under treatment.,Received Treatment
+PAT00054,,10,Male,Osteomyelitis,2018-04-13,,Patient was diagnosed with Otitis Media on 2018-04-13. The patient is currently under treatment.,Received Treatment
+PAT00055,Michelle Cooper,31,Female,Conjunctivitis,1996-12-09,,Patient was diagnosed with Cellulitis on 1996-12-09. The patient is currently under observation.,Did Not Receive Treatment
+PAT00056,Wendy Brown,17,Female,Pneumonia,2023-06-19,,Patient was diagnosed with Osteomyelitis on 2023-06-19. The patient is currently under treatment.,Received Treatment
+PAT00057,Pamela Rogers,59,Male,MALARIA,1998-06-23,,Patient was diagnosed with Monkeypox on 1998-06-23. The patient is currently under treatment.,Received Treatment
+PAT00058,Jason Torres,12,Female,Uterine Fibroids,2019-12-27,,Patient was diagnosed with Appendicitis on 2019-12-27. The patient is currently under treatment.,Received Treatment
+PAT00059,Jay Jones,25,Male,Allergies,2008-12-23,,Patient was diagnosed with Mpox on 2008-12-23. The patient is currently under treatment.,Did Not Receive Treatment
+PAT00060,Daniel Jackson,5,Male,Influenza,2023-03-14,2023-03-14,Patient was diagnosed with Glaucoma on 2023-03-14. The patient is currently under observation.,Received Treatment
+PAT00061,Jennifer Reeves,34,Female,Mumps,1998-08-04,,Patient was diagnosed with Endometriosis on 1998-08-04. The patient is currently under treatment.,Received Treatment
+PAT00062,Joanne Lee,28,Female,Crohn's Disease,2008-06-24,,Patient was diagnosed with Leishmaniasis on 2008-06-24. The patient is currently under treatment.,Received Treatment
+PAT00063,Jonathan Gordon,78,Female,Prostate Cancer,2007-01-24,,Patient was diagnosed with Common Cold on 2007-01-24. The patient is currently under treatment.,Received Treatment
+PAT00064,Natalie Bryan,35,Male,Anxiety/Depression,2014-12-10,,Patient was diagnosed with Burns on 2014-12-10. The patient is currently under treatment.,Received Treatment
+PAT00065,Shelly Dennis,50,Male,Chickenpox,2007-06-19,,Patient was diagnosed with meningitis on 2007-06-19. The patient is currently under treatment.,Received Treatment
+PAT00066,Timothy Evans,47,Male,Tularemia,2003-06-12,,Patient was diagnosed with Obesity on 2003-06-12. The patient is currently under treatment.,Received Treatment
+PAT00067,Sara Smith,68,Male,Heat Stroke,2019-12-13,,Patient was diagnosed with Anemia on 2019-12-13. The patient is currently under treatment.,Received Treatment
+PAT00068,Jeffrey Middleton,86,Male,Coronary Artery Disease,1950-02-17,,Patient was diagnosed with Pertussis on 1950-02-17. The patient is currently under treatment.,Did Not Receive Treatment
+PAT00069,Geoffrey Murphy,11,Male,Uterine Fibroids,2021-01-03,,Patient was diagnosed with Lice Infestation on 2021-01-03. The patient is currently under observation.,Received Treatment
+PAT00070,Jason Espinoza,39,Male,Fever,2020-05-10,,Patient was diagnosed with Thyroid Disorder on 2020-05-10. The patient is currently under treatment.,Received Treatment
+PAT00071,James Tran,95,Male,Burns,1982-07-08,,Patient was diagnosed with Uterine Fibroids on 1982-07-08. The patient is currently under treatment.,Not Available
+PAT00072,Bryan Parker,74,Male,Sinusitis,2024-03-29,2024-03-29,Patient was diagnosed with Anthrax on 2024-03-29. The patient is currently under observation.,Received Treatment
+PAT00073,Nicolas Potter,44,Female,TUBERCULOSIS,1996-10-11,1996-10-11,Patient was diagnosed with Fungal Infection on 1996-10-11. The patient is currently under observation.,Received Treatment
+PAT00074,James Martinez,32,Female,Cellulitis,1994-04-09,,Patient was diagnosed with Lice Infestation on 1994-04-09. The patient is currently under treatment.,Not Available
+PAT00075,Cody Smith,76,Male,Peptic Ulcer Disease,1979-06-30,,Patient was diagnosed with Tonsillitis on 1979-06-30. The patient is currently under treatment.,Received Treatment
+PAT00076,John Williams,69,Male,Irritable Bowel Syndrome (IBS),1985-09-30,,Patient was diagnosed with Hepatitis C on 1985-09-30. The patient is currently under treatment.,Received Treatment
+PAT00077,Melanie Hill,8,Female,Filariasis,2022-09-09,,Patient was diagnosed with Ebola on 2022-09-09. The patient is currently under observation.,Received Treatment
+PAT00078,Chelsea Gibson,29,Female,Cystic Fibrosis,2006-03-28,,Patient was diagnosed with Malnutrition on 2006-03-28. The patient is currently under treatment.,Not Available
+PAT00079,Sean Lyons,41,Female,Mumps,2009-02-20,,Patient was diagnosed with Fungal Infection on 2009-02-20. The patient is currently under treatment.,Received Treatment
+PAT00080,David Mata,43,Male,Uterine Fibroids,,,Patient was diagnosed with Coronary Artery Disease on Unknown. The patient is currently under treatment.,Not Available
+PAT00081,Danielle Anderson,60,Male,Lice Infestation,1994-03-23,,Patient was diagnosed with Lassa fever on 1994-03-23. The patient is currently under treatment.,Not Available
+PAT00082,Lauren Kirk,61,Female,Uterine Fibroids,,,Patient was diagnosed with Erectile Dysfunction on Unknown. The patient is currently under treatment.,Received Treatment
+PAT00083,John Collins,32,Male,Irritable Bowel Syndrome (IBS),1997-01-23,,Patient was diagnosed with Tetanus on 1997-01-23. The patient is currently under treatment.,Did Not Receive Treatment
+PAT00084,Brian Taylor,24,Female,Hepatitis C,2024-06-28,,Patient was diagnosed with Hepatitis B on 2024-06-28. The patient is currently under treatment.,Received Treatment
+PAT00085,Brandon Mendoza,40,Male,Ebola,2019-07-17,,Patient was diagnosed with Polycystic Ovary Syndrome (PCOS) on 2019-07-17. The patient is currently under treatment.,Received Treatment
+PAT00086,Sandra Torres,22,Female,Poliomyelitis,,,Patient was diagnosed with Uterine Fibroids on Unknown. The patient is currently under treatment.,Received Treatment
+PAT00087,Carla Howard,61,Female,Obesity,1989-05-15,,Patient was diagnosed with Pneumonia on 1989-05-15. The patient is currently under observation.,Received Treatment
+PAT00088,Mark Wright,50,Male,TUBERCULOSIS,2006-02-09,,Patient was diagnosed with Leprosy on 2006-02-09. The patient is currently under treatment.,Received Treatment
+PAT00089,Victoria Ferguson,21,Male,Lassa fever,2017-10-10,,Patient was diagnosed with HIV/AIDS on 2017-10-10. The patient is currently under treatment.,Received Treatment
+PAT00090,Connie Whitehead,41,Female,Leishmaniasis,1988-06-13,,Patient was diagnosed with HIGH BLOOD PRESSURE on 1988-06-13. The patient is currently under observation.,Received Treatment
+PAT00091,Alec Davidson,36,Female,MALARIA,2017-02-05,,Patient was diagnosed with Leishmaniasis on 2017-02-05. The patient is currently under observation.,Did Not Receive Treatment
+PAT00092,Amy Bailey,52,Male,Hypothermia,,,Patient was diagnosed with Yellow Fever on Unknown. The patient is currently under treatment.,Received Treatment
+PAT00093,Tina Alvarado,3,Female,Anxiety/Depression,2025-05-22,,Patient was diagnosed with Fever on 2025-05-22. The patient is currently under observation.,Not Available
+PAT00094,Alexis Blackwell,30,Male,Common Cold,2008-09-24,,Patient was diagnosed with Burns on 2008-09-24. The patient is currently under treatment.,Received Treatment
+PAT00095,Alyssa Thomas,25,Male,Urinary Tract Infection,2010-12-17,,Patient was diagnosed with Uterine Fibroids on 2010-12-17. The patient is currently under treatment.,Did Not Receive Treatment
+PAT00096,Leah Miller,53,Female,Cellulitis,1999-12-11,1999-12-11,Patient was diagnosed with HEART DISEASE on 1999-12-11. The patient is currently under treatment.,Received Treatment
+PAT00097,Sabrina Brown,64,Female,Tetanus,2024-04-06,2024-04-06,Patient was diagnosed with Lice Infestation on 2024-04-06. The patient is currently under observation.,Not Available
+PAT00098,Robert Parsons,37,Female,MALARIA,2010-05-25,2010-05-25,Patient was diagnosed with Stroke on 2010-05-25. The patient is currently under observation.,Received Treatment
+PAT00099,Douglas Holt,32,Female,Shingles,2019-02-03,,Patient was diagnosed with Typhoid Fever on 2019-02-03. The patient is currently under observation.,Not Available
+PAT00100,,90,Female,Scabies,1980-06-27,,Patient was diagnosed with Rabies on 1980-06-27. The patient is currently under treatment.,Received Treatment
+PAT00101,,94,Female,Polycystic Ovary Syndrome (PCOS),1990-05-25,1990-05-25,Patient was diagnosed with Hepatitis B on 1990-05-25. The patient is currently under treatment.,Received Treatment
+PAT00102,Megan Wall,7,Female,Typhoid Fever,2025-09-13,,Patient was diagnosed with Measles on 2025-09-13. The patient is currently under treatment.,Not Available
+PAT00103,Frederick Santiago,48,Female,Fracture,1984-04-01,,Patient was diagnosed with Fever on 1984-04-01. The patient is currently under treatment.,Received Treatment
+PAT00104,Gabriel Brown,14,Male,Chikungunya,2023-01-18,,Patient was diagnosed with Anemia on 2023-01-18. The patient is currently under treatment.,Received Treatment
+PAT00105,Elijah Downs,25,Male,Shingles,2002-01-10,,Patient was diagnosed with Heart Failure on 2002-01-10. The patient is currently under treatment.,Not Available
+PAT00106,Amy Ward,71,Male,Hepatitis C,1999-12-26,1999-12-26,Patient was diagnosed with Anemia on 1999-12-26. The patient is currently under observation.,Received Treatment
+PAT00107,April Diaz,42,Male,Anemia,1999-08-19,,Patient was diagnosed with Rubella on 1999-08-19. The patient is currently under treatment.,Did Not Receive Treatment
+PAT00108,Amanda Pham,61,Female,Diabetes Mellitus,1968-08-17,,Patient was diagnosed with Glaucoma on 1968-08-17. The patient is currently under observation.,Received Treatment
+PAT00109,Carolyn Bass,2,Female,Tetanus Neonatorum,2024-03-13,2024-03-13,Patient was diagnosed with Hypothermia on 2024-03-13. The patient is currently under treatment.,Did Not Receive Treatment
+PAT00110,Brandy Mendez,19,Female,Asthma,2012-01-13,,Patient was diagnosed with Onchocerciasis on 2012-01-13. The patient is currently under treatment.,Received Treatment
+PAT00111,Daniel Smith,36,Female,Leishmaniasis,1994-01-30,1994-01-30,Patient was diagnosed with Cystic Fibrosis on 1994-01-30. The patient is currently under treatment.,Received Treatment
+PAT00112,,31,Female,Yellow Fever,2005-10-27,,Patient was diagnosed with Lice Infestation on 2005-10-27. The patient is currently under treatment.,Received Treatment
+PAT00113,Peter Walter,1,Female,Yellow Fever,2025-04-03,,Patient was diagnosed with Breast Cancer on 2025-04-03. The patient is currently under treatment.,Received Treatment
+PAT00114,Joann Jimenez,67,Male,Urinary Tract Infection,1972-09-06,1972-09-06,Patient was diagnosed with Plague on 1972-09-06. The patient is currently under treatment.,Did Not Receive Treatment
+PAT00115,Morgan Murphy,61,Male,Typhoid Fever,1967-09-05,,Patient was diagnosed with Urinary Tract Infection on 1967-09-05. The patient is currently under treatment.,Received Treatment
+PAT00116,Christopher Shields,63,Female,Shingles,2005-09-28,,Patient was diagnosed with Malnutrition on 2005-09-28. The patient is currently under treatment.,Received Treatment
+PAT00117,William Woods,41,Female,Conjunctivitis,1996-01-26,,Patient was diagnosed with Asthma on 1996-01-26. The patient is currently under treatment.,Received Treatment
+PAT00118,Valerie Taylor,2,Female,Sinusitis,2025-07-14,,Patient was diagnosed with Heat Stroke on 2025-07-14. The patient is currently under treatment.,Not Available
+PAT00119,Patrick Davis,46,Female,Lassa fever,2025-08-04,,Patient was diagnosed with Diabetes Mellitus on 2025-08-04. The patient is currently under treatment.,Received Treatment
+PAT00120,Ashley Tucker,84,Female,Pertussis,1971-11-10,,Patient was diagnosed with Hypertension on 1971-11-10. The patient is currently under observation.,Received Treatment
+PAT00121,Karen Arias,47,,Yellow Fever,1981-09-04,,Patient was diagnosed with Macular Degeneration on 1981-09-04. The patient is currently under treatment.,Received Treatment
+PAT00122,Stephanie Duran,74,Female,Osteoporosis,,,Patient was diagnosed with Heat Stroke on Unknown. The patient is currently under treatment.,Received Treatment
+PAT00123,Deborah Ryan,6,Male,Peptic Ulcer Disease,2022-07-30,,Patient was diagnosed with Sickle Cell Disease on 2022-07-30. The patient is currently under treatment.,Received Treatment
+PAT00124,Victoria Gomez,4,Male,Tetanus Neonatorum,2022-08-14,2022-08-14,Patient was diagnosed with Measles on 2022-08-14. The patient is currently under treatment.,Did Not Receive Treatment
+PAT00125,Sarah Brooks,6,Female,Crohn's Disease,2024-07-09,,Patient was diagnosed with Ebola on 2024-07-09. The patient is currently under treatment.,Received Treatment
+PAT00126,Greg Martin,97,Female,Macular Degeneration,1970-10-09,1970-10-09,Patient was diagnosed with Macular Degeneration on 1970-10-09. The patient is currently under treatment.,Not Available
+PAT00127,Kyle Love,75,Male,Influenza,2019-02-15,,Patient was diagnosed with Cellulitis on 2019-02-15. The patient is currently under treatment.,Received Treatment
+PAT00128,Anne Berg,16,Female,Zika Virus,2011-06-15,,Patient was diagnosed with Burns on 2011-06-15. The patient is currently under treatment.,Received Treatment
+PAT00129,James Fuller,86,Male,Otitis Media,1946-10-16,1946-10-16,Patient was diagnosed with Common Cold on 1946-10-16. The patient is currently under treatment.,Received Treatment
+PAT00130,Jeffrey Perez,59,Female,Heat Stroke,2019-03-04,,Patient was diagnosed with Chickenpox on 2019-03-04. The patient is currently under treatment.,Received Treatment
+PAT00131,Allison Robertson,88,Female,Shingles,1957-03-29,1957-03-29,Patient was diagnosed with SARS on 1957-03-29. The patient is currently under treatment.,Received Treatment
+PAT00132,Daniel Taylor,20,Female,Poliomyelitis,2006-02-13,,Patient was diagnosed with Diabetes Mellitus on 2006-02-13. The patient is currently under treatment.,Received Treatment
+PAT00133,Candace Anderson,75,Female,Cystic Fibrosis,2009-08-01,,Patient was diagnosed with Osteomyelitis on 2009-08-01. The patient is currently under treatment.,Received Treatment
+PAT00134,Anna Mcneil,26,,Typhoid Fever,2001-03-11,,Patient was diagnosed with SARS on 2001-03-11. The patient is currently under treatment.,Received Treatment
+PAT00135,Michelle Meyers,53,Female,Anthrax,1982-03-20,,Patient was diagnosed with Impetigo on 1982-03-20. The patient is currently under treatment.,Did Not Receive Treatment
+PAT00136,Jesus Porter,40,Male,COVID-19,2013-09-07,,Patient was diagnosed with Allergies on 2013-09-07. The patient is currently under treatment.,Not Available
+PAT00137,Danny Palmer,48,Male,Fracture,2004-11-24,2004-11-24,Patient was diagnosed with DIABETES on 2004-11-24. The patient is currently under treatment.,Received Treatment
+PAT00138,Jessica Thompson,47,Male,meningitis,1996-11-06,1996-11-06,Patient was diagnosed with Rheumatoid Arthritis on 1996-11-06. The patient is currently under observation.,Received Treatment
+PAT00139,Patrick Reed,73,Male,MERS,2018-01-03,,Patient was diagnosed with Lupus on 2018-01-03. The patient is currently under treatment.,Received Treatment
+PAT00140,Marvin Williams,72,Male,Osteomyelitis,2016-05-19,,Patient was diagnosed with Cholera on 2016-05-19. The patient is currently under observation.,Did Not Receive Treatment
+PAT00141,Samuel Stewart,62,Female,Diabetes Mellitus,,,Patient was diagnosed with Typhoid Fever on Unknown. The patient is currently under treatment.,Received Treatment
+PAT00142,Danielle Combs,31,Female,Polycystic Ovary Syndrome (PCOS),2012-08-15,2012-08-15,Patient was diagnosed with COVID-19 on 2012-08-15. The patient is currently under treatment.,Received Treatment
+PAT00143,,10,Male,Sickle Cell Disease,2025-07-02,,Patient was diagnosed with Onchocerciasis on 2025-07-02. The patient is currently under treatment.,Did Not Receive Treatment
+PAT00144,Rachel Sanders,5,Male,Diphtheria,2022-06-14,,Patient was diagnosed with Monkeypox on 2022-06-14. The patient is currently under treatment.,Received Treatment
+PAT00145,Craig Bennett,7,Female,Mpox,2024-12-31,,Patient was diagnosed with Lung Cancer on 2024-12-31. The patient is currently under treatment.,Did Not Receive Treatment
+PAT00146,Jason Moran,39,Male,Sinusitis,1998-07-14,,Patient was diagnosed with Tularemia on 1998-07-14. The patient is currently under treatment.,Received Treatment
+PAT00147,Zachary Howard,44,Male,Mpox,2008-05-06,,Patient was diagnosed with Fever on 2008-05-06. The patient is currently under treatment.,Received Treatment
+PAT00148,Matthew Johnson,60,Female,Osteoporosis,2008-06-12,2008-06-12,Patient was diagnosed with MERS on 2008-06-12. The patient is currently under treatment.,Received Treatment
+PAT00149,Bethany Montgomery,41,Female,Multiple Sclerosis,2002-04-13,,Patient was diagnosed with Mumps on 2002-04-13. The patient is currently under treatment.,Received Treatment
+PAT00150,Matthew Mathis,40,Female,Mumps,2019-03-06,2019-03-06,Patient was diagnosed with Scabies on 2019-03-06. The patient is currently under treatment.,Received Treatment
+PAT00151,Jennifer Tran,96,Male,Yellow Fever,1972-04-18,,Patient was diagnosed with TUBERCULOSIS on 1972-04-18. The patient is currently under observation.,Did Not Receive Treatment
+PAT00152,Jamie Martinez,29,Male,Ulcerative Colitis,2018-12-02,,Patient was diagnosed with Tetanus Neonatorum on 2018-12-02. The patient is currently under treatment.,Received Treatment
+PAT00153,Brian Acosta,36,Female,Burns,2023-04-30,,Patient was diagnosed with Irritable Bowel Syndrome (IBS) on 2023-04-30. The patient is currently under observation.,Received Treatment
+PAT00154,Thomas Davenport,53,Female,Prostatitis,,,Patient was diagnosed with Mpox on Unknown. The patient is currently under treatment.,Received Treatment
+PAT00155,Ann Jones,39,Female,HIV/AIDS,2016-10-21,,Patient was diagnosed with Fever on 2016-10-21. The patient is currently under treatment.,Did Not Receive Treatment
+PAT00156,George Lewis,85,Female,Tetanus Neonatorum,1984-07-24,,Patient was diagnosed with Influenza on 1984-07-24. The patient is currently under treatment.,Received Treatment
+PAT00157,Kristina Wilson,57,Female,Erectile Dysfunction,1971-01-18,,Patient was diagnosed with Urinary Tract Infection on 1971-01-18. The patient is currently under observation.,Received Treatment
+PAT00158,Daniel Woods,18,Female,Cellulitis,2008-07-17,,Patient was diagnosed with Dengue Fever on 2008-07-17. The patient is currently under treatment.,Not Available
+PAT00159,Eric Graham,9,Male,Mumps,2020-11-10,,Patient was diagnosed with Lice Infestation on 2020-11-10. The patient is currently under observation.,Received Treatment
+PAT00160,Colleen Lewis,60,Male,DIABETES,1974-05-08,,Patient was diagnosed with Tonsillitis on 1974-05-08. The patient is currently under treatment.,Did Not Receive Treatment
+PAT00161,Stephanie Allen,1,Female,Thyroid Disorder,2025-08-27,,Patient was diagnosed with HIV/AIDS on 2025-08-27. The patient is currently under observation.,Received Treatment
+PAT00162,Melissa Hicks,77,Male,Wound Infection,1986-05-02,,Patient was diagnosed with Chickenpox on 1986-05-02. The patient is currently under treatment.,Received Treatment
+PAT00163,Taylor Martinez,69,Female,Urinary Tract Infection,1976-05-26,,Patient was diagnosed with Cholera on 1976-05-26. The patient is currently under treatment.,Did Not Receive Treatment
+PAT00164,James White,78,Female,Endometriosis,1950-11-20,,Patient was diagnosed with Stroke on 1950-11-20. The patient is currently under observation.,Received Treatment
+PAT00165,Chad Flores,95,Male,Cholera,2005-02-28,,Patient was diagnosed with Pertussis on 2005-02-28. The patient is currently under treatment.,Received Treatment
+PAT00166,Paula Ferrell,34,Female,Chikungunya,2014-11-14,,Patient was diagnosed with Thyroid Disorder on 2014-11-14. The patient is currently under treatment.,Received Treatment
+PAT00167,Renee Kelley,77,Female,Crohn's Disease,1991-01-16,,Patient was diagnosed with Conjunctivitis on 1991-01-16. The patient is currently under treatment.,Received Treatment
+PAT00168,Patricia Santos,30,Female,Lassa fever,2006-11-30,,Patient was diagnosed with Yellow Fever on 2006-11-30. The patient is currently under treatment.,Received Treatment
+PAT00169,Donna Fitzpatrick,15,Female,Dengue Fever,2014-10-14,,Patient was diagnosed with Rubella on 2014-10-14. The patient is currently under treatment.,Received Treatment
+PAT00170,Jessica Mills,22,Female,SARS,2016-11-12,,Patient was diagnosed with Cataract on 2016-11-12. The patient is currently under treatment.,Received Treatment
+PAT00171,Kathy English,2,Male,Monkeypox,2025-08-28,,Patient was diagnosed with Cholera on 2025-08-28. The patient is currently under observation.,Received Treatment
+PAT00172,Thomas Yang,92,Male,MERS,2016-08-04,,Patient was diagnosed with Asthma on 2016-08-04. The patient is currently under observation.,Received Treatment
+PAT00173,Diana Griffin,22,Female,Bronchitis,2007-09-16,,Patient was diagnosed with Impetigo on 2007-09-16. The patient is currently under treatment.,Received Treatment
+PAT00174,Troy Moore,1,,Rabies,2024-11-11,2024-11-11,Patient was diagnosed with Erectile Dysfunction on 2024-11-11. The patient is currently under treatment.,Received Treatment
+PAT00175,Jessica Hall,24,Male,Macular Degeneration,2009-10-23,2009-10-23,Patient was diagnosed with Schistosomiasis on 2009-10-23. The patient is currently under observation.,Received Treatment
+PAT00176,Allen Ali,35,Male,Leishmaniasis,1998-12-05,,Patient was diagnosed with Common Cold on 1998-12-05. The patient is currently under treatment.,Received Treatment
+PAT00177,Travis Shaw,17,Female,Cholera,2015-04-04,,Patient was diagnosed with Monkeypox on 2015-04-04. The patient is currently under treatment.,Not Available
+PAT00178,Pamela Delgado,36,Female,Ebola,2009-07-30,2009-07-30,Patient was diagnosed with Macular Degeneration on 2009-07-30. The patient is currently under treatment.,Not Available
+PAT00179,Olivia Macdonald,15,Female,Anaphylaxis,2014-10-26,,Patient was diagnosed with Peptic Ulcer Disease on 2014-10-26. The patient is currently under treatment.,Received Treatment
+PAT00180,,6,Male,Sinusitis,2025-07-22,2025-07-22,Patient was diagnosed with Heart Failure on 2025-07-22. The patient is currently under treatment.,Received Treatment
+PAT00181,Stacey Johnson,59,Female,Hypothermia,1991-09-09,,Patient was diagnosed with Chikungunya on 1991-09-09. The patient is currently under treatment.,Received Treatment
+PAT00182,Gregory Schneider,46,Male,Anemia,1983-12-10,,Patient was diagnosed with Hepatitis C on 1983-12-10. The patient is currently under treatment.,Received Treatment
+PAT00183,John Chambers,26,Male,Polycystic Ovary Syndrome (PCOS),2001-01-17,,Patient was diagnosed with Mpox on 2001-01-17. The patient is currently under treatment.,Did Not Receive Treatment
+PAT00184,Tammy Reynolds,29,Female,Interstitial Cystitis,2001-08-14,,Patient was diagnosed with Heat Stroke on 2001-08-14. The patient is currently under treatment.,Received Treatment
+PAT00185,Maria Garcia,5,Male,Allergies,2022-01-08,,Patient was diagnosed with Laryngitis on 2022-01-08. The patient is currently under treatment.,Received Treatment
+PAT00186,Christopher Pierce,79,Female,Cellulitis,2013-09-12,2013-09-12,Patient was diagnosed with Impetigo on 2013-09-12. The patient is currently under treatment.,Received Treatment
+PAT00187,Gerald Ramos,75,Male,Endometriosis,1979-08-22,1979-08-22,Patient was diagnosed with Pneumonia on 1979-08-22. The patient is currently under treatment.,Did Not Receive Treatment
+PAT00188,David Benson,76,Male,Dehydration,1958-11-04,,Patient was diagnosed with Schistosomiasis on 1958-11-04. The patient is currently under treatment.,Received Treatment
+PAT00189,Kimberly Lewis,62,Male,Cystic Fibrosis,1985-11-25,,Patient was diagnosed with Cataract on 1985-11-25. The patient is currently under treatment.,Received Treatment
+PAT00190,James Roach,45,Male,Conjunctivitis,1982-04-20,1982-04-20,Patient was diagnosed with Hepatitis B on 1982-04-20. The patient is currently under treatment.,Received Treatment
+PAT00191,Kirsten Moore,60,Male,Monkeypox,1986-05-21,,Patient was diagnosed with MALARIA on 1986-05-21. The patient is currently under treatment.,Received Treatment
+PAT00192,Brandi Jackson,52,Male,Anthrax,,,Patient was diagnosed with Chickenpox on Unknown. The patient is currently under treatment.,Received Treatment
+PAT00193,Travis Montoya,59,Female,Lung Cancer,2024-09-14,,Patient was diagnosed with Crohn's Disease on 2024-09-14. The patient is currently under treatment.,Received Treatment
+PAT00194,Cheryl Nelson,44,Female,Allergies,2024-04-01,,Patient was diagnosed with Rubella on 2024-04-01. The patient is currently under treatment.,Received Treatment
+PAT00195,Timothy Black,7,Male,Breast Cancer,2021-09-17,2021-09-17,Patient was diagnosed with Diabetes Mellitus on 2021-09-17. The patient is currently under observation.,Not Available
+PAT00196,Jason Robbins,16,Male,Cellulitis,2018-03-12,,Patient was diagnosed with Mumps on 2018-03-12. The patient is currently under treatment.,Received Treatment
+PAT00197,Donna Anderson,57,Female,Monkeypox,2021-07-05,,Patient was diagnosed with meningitis on 2021-07-05. The patient is currently under treatment.,Received Treatment
+PAT00198,Meagan Taylor,32,Male,Thyroid Disorder,2013-07-27,,Patient was diagnosed with Scabies on 2013-07-27. The patient is currently under treatment.,Did Not Receive Treatment
+PAT00199,Gary Wong,44,Female,Arthritis,2007-08-07,,Patient was diagnosed with Shingles on 2007-08-07. The patient is currently under treatment.,Received Treatment
+PAT00200,Christopher Carr,36,Male,Hepatitis B,2001-05-31,,Patient was diagnosed with Anaphylaxis on 2001-05-31. The patient is currently under treatment.,Received Treatment
+PAT00201,Charles Jimenez,45,Female,Pneumonia,1987-03-18,,Patient was diagnosed with HIGH BLOOD PRESSURE on 1987-03-18. The patient is currently under observation.,Not Available
+PAT00202,Kevin Owen,23,Male,Peptic Ulcer Disease,2012-12-11,,Patient was diagnosed with HIGH BLOOD PRESSURE on 2012-12-11. The patient is currently under observation.,Received Treatment
+PAT00203,Caitlyn Pennington,43,Male,Sinusitis,2002-04-16,,Patient was diagnosed with Chronic Obstructive Pulmonary Disease (COPD) on 2002-04-16. The patient is currently under treatment.,Not Available
+PAT00204,Kyle Harris,15,Male,Rubella,2013-01-26,2013-01-26,Patient was diagnosed with Appendicitis on 2013-01-26. The patient is currently under treatment.,Received Treatment
+PAT00205,Steven Lucas,33,Male,Leishmaniasis,2020-10-23,,Patient was diagnosed with Common Cold on 2020-10-23. The patient is currently under observation.,Received Treatment
+PAT00206,Christine Gallegos,0,Male,Glaucoma,2025-11-11,,Patient was diagnosed with Urinary Tract Infection on 2025-11-11. The patient is currently under treatment.,Received Treatment
+PAT00207,Roger Perez,40,Male,Prostate Cancer,1988-12-11,,Patient was diagnosed with MERS on 1988-12-11. The patient is currently under treatment.,Not Available
+PAT00208,Elizabeth Simmons,36,Male,Shingles,2015-09-19,,Patient was diagnosed with Hepatitis B on 2015-09-19. The patient is currently under treatment.,Received Treatment
+PAT00209,Jessica Hernandez,38,Female,DIABETES,2013-10-03,,Patient was diagnosed with Prostatitis on 2013-10-03. The patient is currently under treatment.,Received Treatment
+PAT00210,Sarah Vargas,97,Male,Rabies,1932-11-13,,Patient was diagnosed with Yellow Fever on 1932-11-13. The patient is currently under treatment.,Received Treatment
+PAT00211,Kevin Smith,35,Female,Wound Infection,2005-01-26,,Patient was diagnosed with Pneumonia on 2005-01-26. The patient is currently under observation.,Did Not Receive Treatment
+PAT00212,Teresa Mcconnell,36,Female,Schistosomiasis,,,Patient was diagnosed with Plague on Unknown. The patient is currently under treatment.,Received Treatment
+PAT00213,Melissa Flores,57,Male,Cellulitis,1970-06-10,1970-06-10,Patient was diagnosed with Cystic Fibrosis on 1970-06-10. The patient is currently under treatment.,Received Treatment
+PAT00214,Todd Carlson,63,Female,HIGH BLOOD PRESSURE,1996-07-15,,Patient was diagnosed with Multiple Sclerosis on 1996-07-15. The patient is currently under treatment.,Received Treatment
+PAT00215,Henry Davis,96,Male,MERS,1966-07-08,1966-07-08,Patient was diagnosed with Urinary Tract Infection on 1966-07-08. The patient is currently under treatment.,Received Treatment
+PAT00216,Gabriel Schultz,78,Male,DIABETES,1985-10-18,,Patient was diagnosed with Rubella on 1985-10-18. The patient is currently under treatment.,Received Treatment
+PAT00217,John Johnson,53,Male,Heat Stroke,1979-11-12,,Patient was diagnosed with Anxiety/Depression on 1979-11-12. The patient is currently under treatment.,Received Treatment
+PAT00218,Jonathan Curtis,99,Male,Bronchitis,1955-04-19,,Patient was diagnosed with TUBERCULOSIS on 1955-04-19. The patient is currently under treatment.,Received Treatment
+PAT00219,Mary Smith,85,Male,Dengue Fever,2003-06-15,,Patient was diagnosed with Onchocerciasis on 2003-06-15. The patient is currently under treatment.,Received Treatment
+PAT00220,Marc Mayo,96,Female,Laryngitis,1937-06-13,,Patient was diagnosed with Hypothermia on 1937-06-13. The patient is currently under treatment.,Received Treatment
+PAT00221,Wendy Gonzalez,60,Male,Lupus,1966-01-18,1966-01-18,Patient was diagnosed with Tularemia on 1966-01-18. The patient is currently under treatment.,Received Treatment
+PAT00222,James Kirk,12,Male,DIABETES,2016-07-21,,Patient was diagnosed with Chikungunya on 2016-07-21. The patient is currently under treatment.,Not Available
+PAT00223,Elizabeth Brady,11,Female,HEART DISEASE,2019-09-16,,Patient was diagnosed with Zika Virus on 2019-09-16. The patient is currently under treatment.,Received Treatment
+PAT00224,Heather Clarke,1,Male,Erectile Dysfunction,2025-06-12,,Patient was diagnosed with Pneumonia on 2025-06-12. The patient is currently under treatment.,Did Not Receive Treatment
+PAT00225,Kelli Santos,23,Female,Yellow Fever,2014-10-15,,Patient was diagnosed with Mumps on 2014-10-15. The patient is currently under treatment.,Did Not Receive Treatment
+PAT00226,Michael Cabrera,18,Male,Fungal Infection,2014-12-01,,Patient was diagnosed with Coronary Artery Disease on 2014-12-01. The patient is currently under treatment.,Did Not Receive Treatment
+PAT00227,Zachary Williams,48,Female,Diphtheria,2024-07-28,,Patient was diagnosed with Wound Infection on 2024-07-28. The patient is currently under treatment.,Received Treatment
+PAT00228,Kristen Campbell,21,Female,Leprosy,2019-03-14,,Patient was diagnosed with Onchocerciasis on 2019-03-14. The patient is currently under treatment.,Did Not Receive Treatment
+PAT00229,Katherine Thompson,22,Male,Common Cold,2015-12-13,,Patient was diagnosed with Tularemia on 2015-12-13. The patient is currently under treatment.,Received Treatment
+PAT00230,Joshua Barton,41,Female,HEART DISEASE,1991-07-20,1991-07-20,Patient was diagnosed with Zika Virus on 1991-07-20. The patient is currently under treatment.,Did Not Receive Treatment
+PAT00231,Kimberly Adams,67,Female,Pertussis,2005-09-18,,Patient was diagnosed with Pneumonia on 2005-09-18. The patient is currently under treatment.,Received Treatment
+PAT00232,Vanessa Wilson,61,,Mpox,2005-11-26,,Patient was diagnosed with Polycystic Ovary Syndrome (PCOS) on 2005-11-26. The patient is currently under treatment.,Received Treatment
+PAT00233,,38,Female,Onchocerciasis,2015-06-14,,Patient was diagnosed with Interstitial Cystitis on 2015-06-14. The patient is currently under treatment.,Received Treatment
+PAT00234,Nicole Allen,72,Male,Shingles,1971-11-20,,Patient was diagnosed with TUBERCULOSIS on 1971-11-20. The patient is currently under treatment.,Did Not Receive Treatment
+PAT00235,Jennifer Scott,69,Female,Laryngitis,2010-11-05,,Patient was diagnosed with Pertussis on 2010-11-05. The patient is currently under treatment.,Received Treatment
+PAT00236,Kari Wolfe,71,Female,Septicemia,2013-09-26,,Patient was diagnosed with Prostate Cancer on 2013-09-26. The patient is currently under treatment.,Received Treatment
+PAT00237,Elizabeth Becker,75,Female,Common Cold,1997-02-11,,Patient was diagnosed with Hypothermia on 1997-02-11. The patient is currently under treatment.,Received Treatment
+PAT00238,,4,Female,Cellulitis,2022-10-30,,Patient was diagnosed with Rubella on 2022-10-30. The patient is currently under treatment.,Did Not Receive Treatment
+PAT00239,Catherine Bennett,33,Male,Appendicitis,,,Patient was diagnosed with HEART DISEASE on Unknown. The patient is currently under treatment.,Did Not Receive Treatment
+PAT00240,Kenneth Mccarthy,48,Female,Polycystic Ovary Syndrome (PCOS),1996-05-24,1996-05-24,Patient was diagnosed with Prostate Cancer on 1996-05-24. The patient is currently under treatment.,Received Treatment
+PAT00241,Amy Campbell,58,Female,Rabies,1987-04-30,,Patient was diagnosed with Malnutrition on 1987-04-30. The patient is currently under observation.,Did Not Receive Treatment
+PAT00242,Heather Cooper,84,Female,Heat Stroke,1948-01-02,,Patient was diagnosed with Cataract on 1948-01-02. The patient is currently under treatment.,Received Treatment
+PAT00243,Benjamin Day,10,Female,Leishmaniasis,2017-04-25,,Patient was diagnosed with Mpox on 2017-04-25. The patient is currently under treatment.,Received Treatment
+PAT00244,Patricia Burnett,22,Male,Heat Stroke,2009-06-20,,Patient was diagnosed with Breast Cancer on 2009-06-20. The patient is currently under treatment.,Received Treatment
+PAT00245,Timothy Martin,26,Male,Lung Cancer,2017-10-07,,Patient was diagnosed with Osteoporosis on 2017-10-07. The patient is currently under observation.,Did Not Receive Treatment
+PAT00246,Samantha Miller,28,Female,Tetanus,2023-01-13,,Patient was diagnosed with Anxiety/Depression on 2023-01-13. The patient is currently under treatment.,Did Not Receive Treatment
+PAT00247,Austin Willis,7,Male,Anemia,2021-09-04,,Patient was diagnosed with Ebola on 2021-09-04. The patient is currently under treatment.,Received Treatment
+PAT00248,Meredith Mclaughlin,62,Female,Monkeypox,,,Patient was diagnosed with Ebola on Unknown. The patient is currently under treatment.,Received Treatment
+PAT00249,Mark Hill,34,Male,Leprosy,1996-12-19,,Patient was diagnosed with HEART DISEASE on 1996-12-19. The patient is currently under treatment.,Received Treatment
+PAT00250,Jason Hansen,97,Male,Cystic Fibrosis,2014-08-04,,Patient was diagnosed with Bronchitis on 2014-08-04. The patient is currently under observation.,Received Treatment
+PAT00251,Angela Johnson,51,Female,Allergies,1994-09-25,,Patient was diagnosed with Breast Cancer on 1994-09-25. The patient is currently under treatment.,Received Treatment
+PAT00252,Roberta Thomas,31,Male,COVID-19,2004-12-27,,Patient was diagnosed with Impetigo on 2004-12-27. The patient is currently under treatment.,Received Treatment
+PAT00253,,45,Female,Breast Cancer,1990-08-03,,Patient was diagnosed with Interstitial Cystitis on 1990-08-03. The patient is currently under treatment.,Received Treatment
+PAT00254,Monica Gillespie,3,Male,Fever,2023-04-23,,Patient was diagnosed with Lice Infestation on 2023-04-23. The patient is currently under treatment.,Received Treatment
+PAT00255,Tina Martinez,71,Male,Typhoid Fever,1978-12-04,1978-12-04,Patient was diagnosed with Rabies on 1978-12-04. The patient is currently under treatment.,Received Treatment
+PAT00256,Michael Reyes,31,Male,Laryngitis,2015-06-19,2015-06-19,Patient was diagnosed with Fungal Infection on 2015-06-19. The patient is currently under treatment.,Not Available
+PAT00257,Norman Lowe,0,Female,Stroke,2025-11-11,,Patient was diagnosed with Influenza on 2025-11-11. The patient is currently under treatment.,Did Not Receive Treatment
+PAT00258,Dennis Warner,86,Male,Leukemia,2008-12-01,,Patient was diagnosed with Yellow Fever on 2008-12-01. The patient is currently under treatment.,Not Available
+PAT00259,Eric Clark,42,Female,Pneumonia,1993-11-02,,Patient was diagnosed with Lupus on 1993-11-02. The patient is currently under observation.,Received Treatment
+PAT00260,Alexis Murray,15,Male,Hypothermia,2013-03-27,,Patient was diagnosed with Endometriosis on 2013-03-27. The patient is currently under treatment.,Received Treatment
+PAT00261,Erika Pittman,49,Male,Multiple Sclerosis,2013-02-08,,Patient was diagnosed with Chickenpox on 2013-02-08. The patient is currently under observation.,Not Available
+PAT00262,Tammy Peterson,41,Male,Schistosomiasis,2024-05-16,2024-05-16,Patient was diagnosed with Glaucoma on 2024-05-16. The patient is currently under treatment.,Received Treatment
+PAT00263,Sarah Young,84,Female,Schistosomiasis,1947-12-08,,Patient was diagnosed with Chickenpox on 1947-12-08. The patient is currently under treatment.,Did Not Receive Treatment
+PAT00264,John Bell,43,Female,Common Cold,1999-01-12,,Patient was diagnosed with Lung Cancer on 1999-01-12. The patient is currently under treatment.,Received Treatment
+PAT00265,Donna Chang,50,Male,Leukemia,1997-01-02,,Patient was diagnosed with Plague on 1997-01-02. The patient is currently under treatment.,Received Treatment
+PAT00266,Matthew Carlson,39,Female,Burns,1991-09-03,1991-09-03,Patient was diagnosed with Diabetes Mellitus on 1991-09-03. The patient is currently under treatment.,Did Not Receive Treatment
+PAT00267,Richard Dennis,43,Male,Wound Infection,1991-01-31,,Patient was diagnosed with Prostatitis on 1991-01-31. The patient is currently under treatment.,Not Available
+PAT00268,Robert Robinson,22,Male,MALARIA,2016-03-22,2016-03-22,Patient was diagnosed with Tonsillitis on 2016-03-22. The patient is currently under treatment.,Received Treatment
+PAT00269,Melissa Black,26,Female,Osteoporosis,2018-06-17,2018-06-17,Patient was diagnosed with TUBERCULOSIS on 2018-06-17. The patient is currently under treatment.,Received Treatment
+PAT00270,William Manning,94,Female,Stroke,1938-09-08,,Patient was diagnosed with Hepatitis B on 1938-09-08. The patient is currently under treatment.,Received Treatment
+PAT00271,Jennifer Bell,32,Female,Anthrax,2003-02-14,,Patient was diagnosed with Appendicitis on 2003-02-14. The patient is currently under treatment.,Received Treatment
+PAT00272,Jennifer Kramer,75,Male,Peptic Ulcer Disease,2018-10-05,2018-10-05,Patient was diagnosed with Leprosy on 2018-10-05. The patient is currently under treatment.,Did Not Receive Treatment
+PAT00273,Jeffrey Reynolds,46,Female,Pertussis,2024-06-20,,Patient was diagnosed with Lung Cancer on 2024-06-20. The patient is currently under treatment.,Did Not Receive Treatment
+PAT00274,Courtney Cardenas,38,Female,Heat Stroke,2000-07-29,,Patient was diagnosed with Lung Cancer on 2000-07-29. The patient is currently under observation.,Received Treatment
+PAT00275,Dominique Valentine,59,Male,DIABETES,1996-11-26,1996-11-26,Patient was diagnosed with Measles on 1996-11-26. The patient is currently under treatment.,Not Available
+PAT00276,Daniel Hernandez,29,Female,Ulcerative Colitis,2021-07-10,,Patient was diagnosed with Multiple Sclerosis on 2021-07-10. The patient is currently under treatment.,Received Treatment
+PAT00277,Maria Lee,65,,Appendicitis,1972-03-06,,Patient was diagnosed with Cholera on 1972-03-06. The patient is currently under treatment.,Not Available
+PAT00278,Savannah Carter,31,Male,Measles,2008-04-19,,Patient was diagnosed with Typhoid Fever on 2008-04-19. The patient is currently under treatment.,Received Treatment
+PAT00279,Christopher Nielsen,44,Female,Chickenpox,1982-05-09,,Patient was diagnosed with Lupus on 1982-05-09. The patient is currently under treatment.,Not Available
+PAT00280,Kimberly Anderson,24,Female,Chronic Obstructive Pulmonary Disease (COPD),2009-09-16,,Patient was diagnosed with COVID-19 on 2009-09-16. The patient is currently under observation.,Did Not Receive Treatment
+PAT00281,Mandy Page,100,Male,Multiple Sclerosis,,,Patient was diagnosed with Mumps on Unknown. The patient is currently under treatment.,Received Treatment
+PAT00282,Timothy Gray,72,Female,Prostatitis,2011-01-25,2011-01-25,Patient was diagnosed with Leishmaniasis on 2011-01-25. The patient is currently under treatment.,Did Not Receive Treatment
+PAT00283,Melissa Knight,6,Female,Thyroid Disorder,2020-12-07,,Patient was diagnosed with Fever on 2020-12-07. The patient is currently under treatment.,Received Treatment
+PAT00284,Christopher Norton,20,Female,Schistosomiasis,2011-10-30,,Patient was diagnosed with Yellow Fever on 2011-10-30. The patient is currently under treatment.,Received Treatment
+PAT00285,Kristen Alexander,41,Male,Anaphylaxis,2015-02-17,,Patient was diagnosed with Chickenpox on 2015-02-17. The patient is currently under observation.,Received Treatment
+PAT00286,Kyle Scott,24,Male,Osteoporosis,2002-07-14,,Patient was diagnosed with Erectile Dysfunction on 2002-07-14. The patient is currently under treatment.,Received Treatment
+PAT00287,Lisa Richardson,77,Female,Coronary Artery Disease,1956-08-13,,Patient was diagnosed with Mpox on 1956-08-13. The patient is currently under treatment.,Did Not Receive Treatment
+PAT00288,Morgan Oneill,93,Male,NIL,1989-06-26,,Patient was diagnosed with Ulcerative Colitis on 1989-06-26. The patient is currently under treatment.,Received Treatment
+PAT00289,Pamela Dillon,14,Female,Wound Infection,2021-12-23,,Patient was diagnosed with Sickle Cell Disease on 2021-12-23. The patient is currently under treatment.,Received Treatment
+PAT00290,Johnny Lynch,68,Female,Hypertension,1993-04-09,,Patient was diagnosed with Irritable Bowel Syndrome (IBS) on 1993-04-09. The patient is currently under treatment.,Received Treatment
+PAT00291,Shelley Rodriguez,46,Female,Mpox,2000-05-18,,Patient was diagnosed with HIV/AIDS on 2000-05-18. The patient is currently under treatment.,Did Not Receive Treatment
+PAT00292,Vanessa Flynn,94,Male,Rabies,1969-04-17,,Patient was diagnosed with Fracture on 1969-04-17. The patient is currently under treatment.,Not Available
+PAT00293,Michael Thomas,81,Male,Anxiety/Depression,2021-10-10,,Patient was diagnosed with Septicemia on 2021-10-10. The patient is currently under observation.,Not Available
+PAT00294,Anthony Berg,18,Male,Rheumatoid Arthritis,2012-05-09,2012-05-09,Patient was diagnosed with Hepatitis C on 2012-05-09. The patient is currently under treatment.,Did Not Receive Treatment
+PAT00295,Ashley Gonzalez,68,Female,Cystic Fibrosis,2017-04-16,,Patient was diagnosed with Hypertension on 2017-04-16. The patient is currently under observation.,Received Treatment
+PAT00296,Vanessa Ball,60,,Ebola,1990-06-24,,Patient was diagnosed with Obesity on 1990-06-24. The patient is currently under treatment.,Received Treatment
+PAT00297,Tonya Stokes,83,Female,Cellulitis,1961-11-13,,Patient was diagnosed with Cholera on 1961-11-13. The patient is currently under treatment.,Did Not Receive Treatment
+PAT00298,Amy Torres,24,Female,Malnutrition,2019-11-02,,Patient was diagnosed with Zika Virus on 2019-11-02. The patient is currently under treatment.,Did Not Receive Treatment
+PAT00299,John Scott,36,Female,Macular Degeneration,2013-01-19,,Patient was diagnosed with Lice Infestation on 2013-01-19. The patient is currently under treatment.,Did Not Receive Treatment
+PAT00300,Mary Taylor,9,Female,Stroke,2021-01-15,,Patient was diagnosed with Poliomyelitis on 2021-01-15. The patient is currently under observation.,Not Available
+PAT00301,Cynthia Valentine,13,Male,Irritable Bowel Syndrome (IBS),2016-04-12,2016-04-12,Patient was diagnosed with Arthritis on 2016-04-12. The patient is currently under treatment.,Did Not Receive Treatment
+PAT00302,Matthew Dennis,17,Male,Chikungunya,2012-08-23,,Patient was diagnosed with Leishmaniasis on 2012-08-23. The patient is currently under treatment.,Received Treatment
+PAT00303,Brian Vaughn,48,Male,Sinusitis,2020-07-30,,Patient was diagnosed with Tularemia on 2020-07-30. The patient is currently under observation.,Received Treatment
+PAT00304,Nicholas Ali,74,Male,Wound Infection,2018-06-02,,Patient was diagnosed with Mumps on 2018-06-02. The patient is currently under treatment.,Not Available
+PAT00305,Tiffany Lewis,52,Male,Poliomyelitis,2008-04-30,,Patient was diagnosed with Coronary Artery Disease on 2008-04-30. The patient is currently under observation.,Not Available
+PAT00306,Shane Romero,29,Male,Pertussis,2010-07-07,2010-07-07,Patient was diagnosed with Bronchitis on 2010-07-07. The patient is currently under treatment.,Received Treatment
+PAT00307,Lauren Walsh,43,Male,Prostatitis,2010-01-30,2010-01-30,Patient was diagnosed with Multiple Sclerosis on 2010-01-30. The patient is currently under treatment.,Did Not Receive Treatment
+PAT00308,,37,Male,Zika Virus,2005-09-28,,Patient was diagnosed with Cataract on 2005-09-28. The patient is currently under observation.,Received Treatment
+PAT00309,Amy Escobar,29,Male,Tonsillitis,2005-10-30,,Patient was diagnosed with Anxiety/Depression on 2005-10-30. The patient is currently under observation.,Did Not Receive Treatment
+PAT00310,Mark Sherman,20,Female,Leprosy,2009-02-25,,Patient was diagnosed with Tetanus on 2009-02-25. The patient is currently under observation.,Did Not Receive Treatment
+PAT00311,Jody Watts,28,Female,Irritable Bowel Syndrome (IBS),2008-06-29,,Patient was diagnosed with Breast Cancer on 2008-06-29. The patient is currently under treatment.,Did Not Receive Treatment
+PAT00312,Jennifer Rivera,76,Female,Ebola,1963-11-13,,Patient was diagnosed with Fungal Infection on 1963-11-13. The patient is currently under treatment.,Did Not Receive Treatment
+PAT00313,Martha Bryan,14,Female,MERS,2016-08-12,,Patient was diagnosed with Diabetes Mellitus on 2016-08-12. The patient is currently under treatment.,Received Treatment
+PAT00314,Anna Williams,3,Male,Asthma,2025-01-15,2025-01-15,Patient was diagnosed with Leishmaniasis on 2025-01-15. The patient is currently under treatment.,Received Treatment
+PAT00315,Destiny Mcgee,21,Male,TUBERCULOSIS,2023-04-20,,Patient was diagnosed with Coronary Artery Disease on 2023-04-20. The patient is currently under treatment.,Received Treatment
+PAT00316,Samuel Robinson,82,Female,SARS,2017-11-24,,Patient was diagnosed with Peptic Ulcer Disease on 2017-11-24. The patient is currently under treatment.,Did Not Receive Treatment
+PAT00317,Kenneth Spencer,21,Male,HIGH BLOOD PRESSURE,2007-12-01,2007-12-01,Patient was diagnosed with COVID-19 on 2007-12-01. The patient is currently under observation.,Received Treatment
+PAT00318,,6,Female,Plague,2020-04-23,,Patient was diagnosed with Crohn's Disease on 2020-04-23. The patient is currently under treatment.,Received Treatment
+PAT00319,Shelly Lutz,2,Female,Hypothermia,2025-06-29,,Patient was diagnosed with Tularemia on 2025-06-29. The patient is currently under treatment.,Did Not Receive Treatment
+PAT00320,Christopher Silva,36,Male,Diabetes Mellitus,2012-11-22,,Patient was diagnosed with Leprosy on 2012-11-22. The patient is currently under treatment.,Received Treatment
+PAT00321,Joshua Barker,51,Male,Sickle Cell Disease,2014-01-02,2014-01-02,Patient was diagnosed with Tularemia on 2014-01-02. The patient is currently under treatment.,Did Not Receive Treatment
+PAT00322,Jared Acosta,62,Male,Heat Stroke,1990-09-21,,Patient was diagnosed with Diabetes Mellitus on 1990-09-21. The patient is currently under observation.,Received Treatment
+PAT00323,Melissa James,4,Female,Lassa fever,2024-02-21,,Patient was diagnosed with Dehydration on 2024-02-21. The patient is currently under treatment.,Not Available
+PAT00324,Rachel Frost,16,Male,Rubella,2025-09-04,,Patient was diagnosed with Filariasis on 2025-09-04. The patient is currently under treatment.,Received Treatment
+PAT00325,Casey Daniel,40,Female,Heat Stroke,2021-04-23,2021-04-23,Patient was diagnosed with HIV/AIDS on 2021-04-23. The patient is currently under treatment.,Received Treatment
+PAT00326,Jacqueline Griffith,31,Male,Glaucoma,2024-03-12,,Patient was diagnosed with Lupus on 2024-03-12. The patient is currently under observation.,Received Treatment
+PAT00327,Roger Tapia,41,Male,Osteoporosis,1996-04-07,,Patient was diagnosed with Bronchitis on 1996-04-07. The patient is currently under observation.,Received Treatment
+PAT00328,Crystal Evans,38,Female,Typhoid Fever,1988-06-03,,Patient was diagnosed with Impetigo on 1988-06-03. The patient is currently under treatment.,Did Not Receive Treatment
+PAT00329,Jacob Drake,12,Female,Cataract,2016-05-14,,Patient was diagnosed with Anemia on 2016-05-14. The patient is currently under observation.,Received Treatment
+PAT00330,Christine Olson,43,Female,Diphtheria,2004-12-11,,Patient was diagnosed with Wound Infection on 2004-12-11. The patient is currently under treatment.,Not Available
+PAT00331,Sarah Norton,39,Female,Arthritis,1988-06-02,,Patient was diagnosed with Anaphylaxis on 1988-06-02. The patient is currently under treatment.,Received Treatment
+PAT00332,,18,Male,Scabies,2015-05-30,,Patient was diagnosed with Hypertension on 2015-05-30. The patient is currently under treatment.,Received Treatment
+PAT00333,Darlene Lopez,27,Female,Hypothermia,2003-07-24,,Patient was diagnosed with Measles on 2003-07-24. The patient is currently under treatment.,Not Available
+PAT00334,Karen Goodman,1,Female,Laryngitis,2025-08-08,,Patient was diagnosed with Mpox on 2025-08-08. The patient is currently under treatment.,Received Treatment
+PAT00335,Mary Houston,89,Female,Cellulitis,2019-09-18,,Patient was diagnosed with Osteoporosis on 2019-09-18. The patient is currently under treatment.,Received Treatment
+PAT00336,Carlos Gilbert,5,Female,Prostatitis,2022-08-05,,Patient was diagnosed with Rubella on 2022-08-05. The patient is currently under treatment.,Received Treatment
+PAT00337,Margaret Smith,26,Male,Typhoid Fever,2004-02-05,,Patient was diagnosed with Sickle Cell Disease on 2004-02-05. The patient is currently under treatment.,Received Treatment
+PAT00338,,51,Male,Osteoporosis,1985-12-06,,Patient was diagnosed with Dengue Fever on 1985-12-06. The patient is currently under observation.,Not Available
+PAT00339,Amy Smith,52,Male,Appendicitis,2024-10-15,,Patient was diagnosed with Common Cold on 2024-10-15. The patient is currently under treatment.,Received Treatment
+PAT00340,Alan Herrera,84,Male,Anxiety/Depression,2010-12-15,,Patient was diagnosed with Onchocerciasis on 2010-12-15. The patient is currently under treatment.,Received Treatment
+PAT00341,Joseph Mason,55,Male,Asthma,1970-12-01,,Patient was diagnosed with Cellulitis on 1970-12-01. The patient is currently under treatment.,Received Treatment
+PAT00342,Michael Schmidt,81,Male,Diabetes Mellitus,1956-12-18,,Patient was diagnosed with Poliomyelitis on 1956-12-18. The patient is currently under treatment.,Received Treatment
+PAT00343,Ryan Martinez,54,Female,Cataract,1993-08-05,,Patient was diagnosed with Prostate Cancer on 1993-08-05. The patient is currently under observation.,Did Not Receive Treatment
+PAT00344,Paul Reese,43,Male,Macular Degeneration,2021-11-27,,Patient was diagnosed with Thyroid Disorder on 2021-11-27. The patient is currently under treatment.,Not Available
+PAT00345,Michael Ramirez,55,Male,Dengue Fever,1995-02-23,1995-02-23,Patient was diagnosed with Prostate Cancer on 1995-02-23. The patient is currently under treatment.,Not Available
+PAT00346,Virginia Russell,41,Female,Anaphylaxis,2014-08-11,,Patient was diagnosed with Anthrax on 2014-08-11. The patient is currently under observation.,Did Not Receive Treatment
+PAT00347,Melissa Brown,13,Female,Rabies,2014-09-08,,Patient was diagnosed with Rabies on 2014-09-08. The patient is currently under treatment.,Received Treatment
+PAT00348,Matthew Garcia,37,Female,Osteoporosis,2012-11-13,,Patient was diagnosed with Dengue Fever on 2012-11-13. The patient is currently under treatment.,Received Treatment
+PAT00349,Donna Lee,18,Female,Tonsillitis,2017-09-13,,Patient was diagnosed with Sickle Cell Disease on 2017-09-13. The patient is currently under treatment.,Received Treatment
+PAT00350,Gary Jones,24,Male,Shingles,2021-06-15,,Patient was diagnosed with Sickle Cell Disease on 2021-06-15. The patient is currently under treatment.,Did Not Receive Treatment
+PAT00351,Andrea Simmons,49,Female,meningitis,2012-12-31,2012-12-31,Patient was diagnosed with HIGH BLOOD PRESSURE on 2012-12-31. The patient is currently under treatment.,Received Treatment
+PAT00352,Amanda Waller,8,Male,HIV/AIDS,2020-02-16,2020-02-16,Patient was diagnosed with Cellulitis on 2020-02-16. The patient is currently under observation.,Received Treatment
+PAT00353,David Ferguson,86,Female,Pneumonia,1944-09-01,,Patient was diagnosed with Mpox on 1944-09-01. The patient is currently under treatment.,Received Treatment
+PAT00354,Jermaine Wright,31,Male,Peptic Ulcer Disease,2011-03-04,,Patient was diagnosed with Mumps on 2011-03-04. The patient is currently under treatment.,Received Treatment
+PAT00355,,28,Female,Urinary Tract Infection,2004-07-22,2004-07-22,Patient was diagnosed with meningitis on 2004-07-22. The patient is currently under observation.,Not Available
+PAT00356,Jimmy White,10,Male,Sickle Cell Disease,2018-05-24,,Patient was diagnosed with Lupus on 2018-05-24. The patient is currently under treatment.,Received Treatment
+PAT00357,Maria Blake,47,Female,Allergies,,,Patient was diagnosed with Heart Failure on Unknown. The patient is currently under treatment.,Received Treatment
+PAT00358,Larry Thomas,92,Male,Prostatitis,2023-12-14,,Patient was diagnosed with MALARIA on 2023-12-14. The patient is currently under treatment.,Not Available
+PAT00359,Jack Mclaughlin,19,Female,Tetanus,2022-09-22,,Patient was diagnosed with Anaphylaxis on 2022-09-22. The patient is currently under observation.,Received Treatment
+PAT00360,Crystal Green,52,Male,Lung Cancer,2019-06-09,,Patient was diagnosed with Sinusitis on 2019-06-09. The patient is currently under treatment.,Received Treatment
+PAT00361,Angela Watson,67,Male,Zika Virus,1999-03-22,,Patient was diagnosed with Common Cold on 1999-03-22. The patient is currently under observation.,Received Treatment
+PAT00362,Larry Allen,84,Male,Anemia,1990-09-13,,Patient was diagnosed with Multiple Sclerosis on 1990-09-13. The patient is currently under treatment.,Not Available
+PAT00363,Steven Moran,9,Female,Macular Degeneration,,,Patient was diagnosed with COVID-19 on Unknown. The patient is currently under treatment.,Received Treatment
+PAT00364,Emily Brady,19,Male,Pneumonia,2019-07-21,2019-07-21,Patient was diagnosed with COVID-19 on 2019-07-21. The patient is currently under treatment.,Received Treatment
+PAT00365,Evan Cook,21,Female,Shingles,2024-09-27,,Patient was diagnosed with Uterine Fibroids on 2024-09-27. The patient is currently under treatment.,Did Not Receive Treatment
+PAT00366,Devin Mccormick,55,Male,Malnutrition,1981-02-19,,Patient was diagnosed with Septicemia on 1981-02-19. The patient is currently under treatment.,Received Treatment
+PAT00367,Linda Holder,21,Female,Prostatitis,2006-04-09,,Patient was diagnosed with Chronic Obstructive Pulmonary Disease (COPD) on 2006-04-09. The patient is currently under treatment.,Received Treatment
+PAT00368,Leon Waters,14,Female,Osteoporosis,2024-07-06,,Patient was diagnosed with Leprosy on 2024-07-06. The patient is currently under treatment.,Received Treatment
+PAT00369,Victor Jones,54,Female,Cholera,2003-09-16,,Patient was diagnosed with Hypothermia on 2003-09-16. The patient is currently under treatment.,Received Treatment
+PAT00370,Pamela Duran,80,Female,Influenza,1958-06-04,,Patient was diagnosed with Leprosy on 1958-06-04. The patient is currently under observation.,Not Available
+PAT00371,Richard Mcbride,68,Female,Coronary Artery Disease,1983-01-11,,Patient was diagnosed with Anaphylaxis on 1983-01-11. The patient is currently under treatment.,Received Treatment
+PAT00372,Courtney Cox,33,Male,Rheumatoid Arthritis,2003-06-27,,Patient was diagnosed with Tonsillitis on 2003-06-27. The patient is currently under treatment.,Received Treatment
+PAT00373,Natalie Vasquez,1,Female,Impetigo,2025-05-11,2025-05-11,Patient was diagnosed with Glaucoma on 2025-05-11. The patient is currently under treatment.,Received Treatment
+PAT00374,Samuel Bean,88,Male,Onchocerciasis,,,Patient was diagnosed with Wound Infection on Unknown. The patient is currently under treatment.,Received Treatment
+PAT00375,Angela Huynh,62,Male,Tonsillitis,2015-12-23,2015-12-23,Patient was diagnosed with Burns on 2015-12-23. The patient is currently under observation.,Received Treatment
+PAT00376,Jeremy Haney,47,Male,Lassa fever,2001-11-04,,Patient was diagnosed with Tetanus on 2001-11-04. The patient is currently under treatment.,Not Available
+PAT00377,Gail Torres,16,Male,Leukemia,2020-08-29,2020-08-29,Patient was diagnosed with Hepatitis C on 2020-08-29. The patient is currently under treatment.,Did Not Receive Treatment
+PAT00378,Brittney Walsh,79,Female,Leishmaniasis,1978-03-07,,Patient was diagnosed with SARS on 1978-03-07. The patient is currently under treatment.,Received Treatment
+PAT00379,James Hughes,29,Female,Measles,2007-12-08,,Patient was diagnosed with Fungal Infection on 2007-12-08. The patient is currently under treatment.,Received Treatment
+PAT00380,Allison Clark,32,Female,Rubella,2002-08-08,,Patient was diagnosed with Endometriosis on 2002-08-08. The patient is currently under treatment.,Received Treatment
+PAT00381,Anne Young,19,Female,Leishmaniasis,2016-01-03,,Patient was diagnosed with Diphtheria on 2016-01-03. The patient is currently under treatment.,Received Treatment
+PAT00382,Meghan Wilson,26,Female,Zika Virus,2008-04-05,,Patient was diagnosed with Polycystic Ovary Syndrome (PCOS) on 2008-04-05. The patient is currently under observation.,Received Treatment
+PAT00383,Bryan Scott,8,,Fracture,2021-03-23,,Patient was diagnosed with Poliomyelitis on 2021-03-23. The patient is currently under treatment.,Did Not Receive Treatment
+PAT00384,Randy Johnson,59,Female,Malnutrition,2020-05-03,,Patient was diagnosed with Pertussis on 2020-05-03. The patient is currently under observation.,Received Treatment
+PAT00385,Whitney Wolf,14,Male,Cholera,2023-04-12,,Patient was diagnosed with Bronchitis on 2023-04-12. The patient is currently under treatment.,Received Treatment
+PAT00386,Julie Garcia,57,Male,Chickenpox,1981-05-28,,Patient was diagnosed with Heat Stroke on 1981-05-28. The patient is currently under treatment.,Received Treatment
+PAT00387,,52,Male,Asthma,2015-04-24,,Patient was diagnosed with Measles on 2015-04-24. The patient is currently under treatment.,Received Treatment
+PAT00388,Fernando Baker,63,,Osteoporosis,2006-04-26,,Patient was diagnosed with Leishmaniasis on 2006-04-26. The patient is currently under treatment.,Not Available
+PAT00389,Jennifer Lewis,24,Male,Urinary Tract Infection,2021-05-04,,Patient was diagnosed with Fracture on 2021-05-04. The patient is currently under treatment.,Did Not Receive Treatment
+PAT00390,Ronald Brown,57,Female,Osteoporosis,1996-11-27,,Patient was diagnosed with Stroke on 1996-11-27. The patient is currently under observation.,Received Treatment
+PAT00391,Steven Santiago,50,Male,Fungal Infection,,,Patient was diagnosed with Rheumatoid Arthritis on Unknown. The patient is currently under treatment.,Not Available
+PAT00392,James Arias,40,Female,Multiple Sclerosis,2010-10-31,2010-10-31,Patient was diagnosed with Lassa fever on 2010-10-31. The patient is currently under treatment.,Received Treatment
+PAT00393,Timothy Maddox,28,Male,meningitis,2013-12-25,,Patient was diagnosed with Rubella on 2013-12-25. The patient is currently under treatment.,Did Not Receive Treatment
+PAT00394,Alex Perez,23,Male,Thyroid Disorder,2025-01-05,,Patient was diagnosed with Leprosy on 2025-01-05. The patient is currently under treatment.,Received Treatment
+PAT00395,Ricky Carey,59,Male,Macular Degeneration,1977-11-04,,Patient was diagnosed with Tetanus on 1977-11-04. The patient is currently under treatment.,Received Treatment
+PAT00396,William Walker,60,Male,Leukemia,1966-06-27,,Patient was diagnosed with Mumps on 1966-06-27. The patient is currently under treatment.,Received Treatment
+PAT00397,Jonathan Lee,55,Female,Poliomyelitis,2001-06-26,,Patient was diagnosed with Bronchitis on 2001-06-26. The patient is currently under treatment.,Received Treatment
+PAT00398,Rodney Johnson,38,Male,Prostatitis,2003-11-16,,Patient was diagnosed with Hepatitis C on 2003-11-16. The patient is currently under treatment.,Did Not Receive Treatment
+PAT00399,Chris Roberson,52,Male,Glaucoma,1983-03-28,,Patient was diagnosed with Hepatitis B on 1983-03-28. The patient is currently under treatment.,Received Treatment
+PAT00400,Martin Cohen,37,Female,Hepatitis B,2005-06-13,,Patient was diagnosed with Macular Degeneration on 2005-06-13. The patient is currently under treatment.,Not Available
+PAT00401,Christine Estes,75,Male,NIL,1987-03-20,,Patient was diagnosed with Cholera on 1987-03-20. The patient is currently under treatment.,Did Not Receive Treatment
+PAT00402,,16,Male,Sinusitis,2024-04-10,,Patient was diagnosed with Endometriosis on 2024-04-10. The patient is currently under observation.,Received Treatment
+PAT00403,Jeffrey Gibson,37,Male,COVID-19,2021-10-12,,Patient was diagnosed with Leprosy on 2021-10-12. The patient is currently under treatment.,Received Treatment
+PAT00404,,70,Male,Rubella,2013-06-09,,Patient was diagnosed with Dengue Fever on 2013-06-09. The patient is currently under treatment.,Received Treatment
+PAT00405,David Rhodes,7,Male,Macular Degeneration,2024-05-05,2024-05-05,Patient was diagnosed with Mpox on 2024-05-05. The patient is currently under treatment.,Received Treatment
+PAT00406,Christine Johnson,51,,Dehydration,1989-09-26,,Patient was diagnosed with Fever on 1989-09-26. The patient is currently under treatment.,Did Not Receive Treatment
+PAT00407,Kayla Forbes,72,Male,Stroke,2000-10-14,2000-10-14,Patient was diagnosed with Hepatitis B on 2000-10-14. The patient is currently under treatment.,Received Treatment
+PAT00408,Beverly Franklin,77,Male,Irritable Bowel Syndrome (IBS),1965-12-09,,Patient was diagnosed with Hypertension on 1965-12-09. The patient is currently under treatment.,Not Available
+PAT00409,Melissa Carey,94,Male,Scabies,2002-06-26,,Patient was diagnosed with Scabies on 2002-06-26. The patient is currently under treatment.,Did Not Receive Treatment
+PAT00410,Toni Sanders,20,Male,Leishmaniasis,2022-05-29,,Patient was diagnosed with Dengue Fever on 2022-05-29. The patient is currently under treatment.,Received Treatment
+PAT00411,Christian Lane,32,Female,Influenza,1995-11-13,,Patient was diagnosed with Rheumatoid Arthritis on 1995-11-13. The patient is currently under observation.,Received Treatment
+PAT00412,Tracy Collins,48,Male,Fracture,1988-02-22,,Patient was diagnosed with Chronic Obstructive Pulmonary Disease (COPD) on 1988-02-22. The patient is currently under observation.,Received Treatment
+PAT00413,David Rocha,61,Female,Interstitial Cystitis,1994-04-29,1994-04-29,Patient was diagnosed with Uterine Fibroids on 1994-04-29. The patient is currently under treatment.,Received Treatment
+PAT00414,Rebecca Norris,64,Male,Pneumonia,1973-07-07,,Patient was diagnosed with Leukemia on 1973-07-07. The patient is currently under treatment.,Received Treatment
+PAT00415,Johnathan Rogers,34,Female,Laryngitis,2007-01-04,2007-01-04,Patient was diagnosed with Bronchitis on 2007-01-04. The patient is currently under treatment.,Received Treatment
+PAT00416,Carol Pittman,22,Female,Stroke,2023-04-10,,Patient was diagnosed with Hepatitis B on 2023-04-10. The patient is currently under treatment.,Received Treatment
+PAT00417,Samantha Carter,69,Female,Fungal Infection,1987-11-17,,Patient was diagnosed with Osteoporosis on 1987-11-17. The patient is currently under observation.,Received Treatment
+PAT00418,Tom Montoya,66,Female,Fungal Infection,1991-12-15,,Patient was diagnosed with Tetanus Neonatorum on 1991-12-15. The patient is currently under treatment.,Received Treatment
+PAT00419,Dustin Summers,13,Female,Hypertension,2014-12-25,2014-12-25,Patient was diagnosed with Tularemia on 2014-12-25. The patient is currently under treatment.,Received Treatment
+PAT00420,Jonathan Kelly,26,Male,Diabetes Mellitus,2011-01-21,2011-01-21,Patient was diagnosed with Macular Degeneration on 2011-01-21. The patient is currently under observation.,Received Treatment
+PAT00421,Nicholas Shah,38,Female,Chikungunya,2018-04-13,,Patient was diagnosed with Fever on 2018-04-13. The patient is currently under treatment.,Did Not Receive Treatment
+PAT00422,Laurie Zimmerman,21,Female,Endometriosis,2007-03-29,,Patient was diagnosed with Lung Cancer on 2007-03-29. The patient is currently under treatment.,Received Treatment
+PAT00423,Patricia Gillespie,3,Female,Plague,,,Patient was diagnosed with Scabies on Unknown. The patient is currently under treatment.,Did Not Receive Treatment
+PAT00424,,38,Female,Septicemia,2025-04-07,,Patient was diagnosed with Poliomyelitis on 2025-04-07. The patient is currently under observation.,Received Treatment
+PAT00425,Alexis Brown,10,Male,Ulcerative Colitis,2025-04-26,,Patient was diagnosed with Chronic Obstructive Pulmonary Disease (COPD) on 2025-04-26. The patient is currently under treatment.,Received Treatment
+PAT00426,Emily Baker,61,Female,Schistosomiasis,2022-12-29,2022-12-29,Patient was diagnosed with Scabies on 2022-12-29. The patient is currently under treatment.,Received Treatment
+PAT00427,Amanda Garcia,40,Male,Tetanus Neonatorum,2020-05-16,,Patient was diagnosed with DIABETES on 2020-05-16. The patient is currently under treatment.,Received Treatment
+PAT00428,Cassandra Vaughn,7,Male,Rabies,2023-10-26,,Patient was diagnosed with Fungal Infection on 2023-10-26. The patient is currently under treatment.,Received Treatment
+PAT00429,Tammy Graves,63,Male,Osteoporosis,2020-11-27,2020-11-27,Patient was diagnosed with Pneumonia on 2020-11-27. The patient is currently under observation.,Not Available
+PAT00430,Craig Walsh,18,Male,Sickle Cell Disease,2009-06-01,,Patient was diagnosed with Chickenpox on 2009-06-01. The patient is currently under treatment.,Not Available
+PAT00431,Alan Wallace,68,Male,Diabetes Mellitus,1973-09-27,1973-09-27,Patient was diagnosed with Breast Cancer on 1973-09-27. The patient is currently under treatment.,Received Treatment
+PAT00432,Jeffrey Smith,59,Female,Coronary Artery Disease,1985-12-21,,Patient was diagnosed with Stroke on 1985-12-21. The patient is currently under treatment.,Did Not Receive Treatment
+PAT00433,Michele Shannon,16,Female,Asthma,2024-06-18,,Patient was diagnosed with Anxiety/Depression on 2024-06-18. The patient is currently under observation.,Received Treatment
+PAT00434,Logan Carson,96,Female,Anemia,1969-03-06,,Patient was diagnosed with Impetigo on 1969-03-06. The patient is currently under treatment.,Received Treatment
+PAT00435,Jennifer Donovan,74,Male,Lice Infestation,1995-08-19,,Patient was diagnosed with Dengue Fever on 1995-08-19. The patient is currently under treatment.,Received Treatment
+PAT00436,Nicholas Ellis,24,Female,Pertussis,2006-04-10,,Patient was diagnosed with Allergies on 2006-04-10. The patient is currently under observation.,Did Not Receive Treatment
+PAT00437,George Burton,49,Male,HIGH BLOOD PRESSURE,1986-09-03,,Patient was diagnosed with Asthma on 1986-09-03. The patient is currently under treatment.,Received Treatment
+PAT00438,Jenna Carney,29,Male,Influenza,2007-06-10,,Patient was diagnosed with Dengue Fever on 2007-06-10. The patient is currently under treatment.,Did Not Receive Treatment
+PAT00439,Jacqueline Ford,30,Male,Wound Infection,2018-11-19,,Patient was diagnosed with Leishmaniasis on 2018-11-19. The patient is currently under observation.,Received Treatment
+PAT00440,Kelly Garcia,1,Female,Prostate Cancer,2025-09-09,,Patient was diagnosed with Chikungunya on 2025-09-09. The patient is currently under treatment.,Received Treatment
+PAT00441,Ronald Hernandez,52,Female,Tetanus Neonatorum,1991-11-03,,Patient was diagnosed with Lupus on 1991-11-03. The patient is currently under treatment.,Not Available
+PAT00442,Megan Berry,21,Female,Anthrax,,,Patient was diagnosed with Heart Failure on Unknown. The patient is currently under treatment.,Received Treatment
+PAT00443,Kelly Mayo,31,Female,Zika Virus,2021-06-09,,Patient was diagnosed with Thyroid Disorder on 2021-06-09. The patient is currently under treatment.,Received Treatment
+PAT00444,Cynthia Rodriguez,55,Male,HEART DISEASE,1989-12-07,,Patient was diagnosed with Anthrax on 1989-12-07. The patient is currently under observation.,Received Treatment
+PAT00445,Alexander Mcintyre,56,Male,Zika Virus,1980-08-08,,Patient was diagnosed with Osteoporosis on 1980-08-08. The patient is currently under treatment.,Did Not Receive Treatment
+PAT00446,Joseph Peterson,6,Male,meningitis,2022-01-26,,Patient was diagnosed with Burns on 2022-01-26. The patient is currently under observation.,Did Not Receive Treatment
+PAT00447,,37,Female,Arthritis,2005-11-20,,Patient was diagnosed with Glaucoma on 2005-11-20. The patient is currently under treatment.,Received Treatment
+PAT00448,Anita Castro,6,,Burns,2025-10-02,,Patient was diagnosed with MERS on 2025-10-02. The patient is currently under treatment.,Received Treatment
+PAT00449,Gina Rojas,8,Female,Pertussis,,,Patient was diagnosed with Otitis Media on Unknown. The patient is currently under treatment.,Not Available
+PAT00450,Karina Matthews,46,Male,Rubella,1981-01-05,,Patient was diagnosed with Fever on 1981-01-05. The patient is currently under treatment.,Received Treatment
+PAT00451,Cheryl Simon,62,Female,Coronary Artery Disease,1993-04-17,1993-04-17,Patient was diagnosed with Leukemia on 1993-04-17. The patient is currently under treatment.,Received Treatment
+PAT00452,,23,Female,Coronary Artery Disease,2010-07-14,,Patient was diagnosed with Tonsillitis on 2010-07-14. The patient is currently under treatment.,Not Available
+PAT00453,Christine Lewis,12,Female,Impetigo,2020-01-04,,Patient was diagnosed with Diabetes Mellitus on 2020-01-04. The patient is currently under treatment.,Did Not Receive Treatment
+PAT00454,Cassandra Taylor,50,Female,Pertussis,1995-12-14,,Patient was diagnosed with Prostate Cancer on 1995-12-14. The patient is currently under treatment.,Received Treatment
+PAT00455,Rachel Dougherty,25,Male,Prostatitis,2014-07-13,,Patient was diagnosed with Impetigo on 2014-07-13. The patient is currently under treatment.,Received Treatment
+PAT00456,Brenda Bauer,12,Male,meningitis,2018-09-02,,Patient was diagnosed with Anxiety/Depression on 2018-09-02. The patient is currently under treatment.,Not Available
+PAT00457,Richard Cox,13,Female,Lassa fever,2022-03-20,,Patient was diagnosed with Laryngitis on 2022-03-20. The patient is currently under observation.,Received Treatment
+PAT00458,Julia Johnson,42,Female,Pneumonia,2022-08-03,,Patient was diagnosed with Bronchitis on 2022-08-03. The patient is currently under treatment.,Received Treatment
+PAT00459,,36,Female,Tetanus Neonatorum,2004-05-29,2004-05-29,Patient was diagnosed with Leprosy on 2004-05-29. The patient is currently under treatment.,Received Treatment
+PAT00460,Eric Gutierrez,62,Female,Common Cold,2013-01-19,,Patient was diagnosed with Interstitial Cystitis on 2013-01-19. The patient is currently under treatment.,Received Treatment
+PAT00461,Lisa Anderson,92,Female,SARS,1957-08-26,,Patient was diagnosed with Measles on 1957-08-26. The patient is currently under treatment.,Received Treatment
+PAT00462,Stephanie Wolf,12,Male,Erectile Dysfunction,2018-12-04,,Patient was diagnosed with Impetigo on 2018-12-04. The patient is currently under treatment.,Received Treatment
+PAT00463,Adriana White,96,Female,Chronic Obstructive Pulmonary Disease (COPD),,,Patient was diagnosed with Prostate Cancer on Unknown. The patient is currently under observation.,Did Not Receive Treatment
+PAT00464,Ashley Vega,36,Male,Multiple Sclerosis,2015-07-24,,Patient was diagnosed with Onchocerciasis on 2015-07-24. The patient is currently under treatment.,Not Available
+PAT00465,Kenneth Guerra,6,Female,Fungal Infection,2021-07-04,,Patient was diagnosed with Cholera on 2021-07-04. The patient is currently under observation.,Received Treatment
+PAT00466,Cory Guzman,1,Male,Typhoid Fever,2025-06-15,2025-06-15,Patient was diagnosed with Uterine Fibroids on 2025-06-15. The patient is currently under treatment.,Not Available
+PAT00467,Michelle Shaw,62,Female,Stroke,1974-12-03,,Patient was diagnosed with Yellow Fever on 1974-12-03. The patient is currently under treatment.,Received Treatment
+PAT00468,Sarah Thompson,12,Female,Lassa fever,2017-12-14,,Patient was diagnosed with Plague on 2017-12-14. The patient is currently under observation.,Received Treatment
+PAT00469,Henry Adams,23,Male,Cataract,2024-06-19,2024-06-19,Patient was diagnosed with Onchocerciasis on 2024-06-19. The patient is currently under treatment.,Received Treatment
+PAT00470,Amy Pratt,62,Female,Zika Virus,2020-12-21,,Patient was diagnosed with Impetigo on 2020-12-21. The patient is currently under treatment.,Received Treatment
+PAT00471,Angela Medina,32,Female,Irritable Bowel Syndrome (IBS),2007-05-29,2007-05-29,Patient was diagnosed with Arthritis on 2007-05-29. The patient is currently under treatment.,Received Treatment
+PAT00472,Richard Brown,32,Female,DIABETES,2018-06-17,,Patient was diagnosed with Fracture on 2018-06-17. The patient is currently under treatment.,Received Treatment
+PAT00473,Danielle Waters,24,Female,Filariasis,2014-10-18,2014-10-18,Patient was diagnosed with TUBERCULOSIS on 2014-10-18. The patient is currently under treatment.,Received Treatment
+PAT00474,Gail Christian,42,Female,Tetanus,2002-02-01,,Patient was diagnosed with meningitis on 2002-02-01. The patient is currently under treatment.,Received Treatment
+PAT00475,Kathleen King,24,Male,SARS,2018-10-17,,Patient was diagnosed with MERS on 2018-10-17. The patient is currently under observation.,Received Treatment
+PAT00476,Andrew Villanueva,34,Female,DIABETES,2002-01-24,,Patient was diagnosed with Uterine Fibroids on 2002-01-24. The patient is currently under treatment.,Received Treatment
+PAT00477,Anthony Burns,37,Female,Scabies,2022-10-17,2022-10-17,Patient was diagnosed with Septicemia on 2022-10-17. The patient is currently under treatment.,Received Treatment
+PAT00478,Stephanie Lester,52,Male,Pneumonia,1982-10-22,,Patient was diagnosed with Heat Stroke on 1982-10-22. The patient is currently under observation.,Did Not Receive Treatment
+PAT00479,Glenn Mcclain,15,Female,Interstitial Cystitis,2014-05-14,,Patient was diagnosed with Fracture on 2014-05-14. The patient is currently under treatment.,Received Treatment
+PAT00480,Jennifer Smith,14,,Fungal Infection,2024-02-13,,Patient was diagnosed with Prostatitis on 2024-02-13. The patient is currently under observation.,Did Not Receive Treatment
+PAT00481,Bradley Moore,68,Female,Anaphylaxis,1975-10-08,,Patient was diagnosed with Peptic Ulcer Disease on 1975-10-08. The patient is currently under treatment.,Received Treatment
+PAT00482,Lacey Graham,8,Male,Leukemia,,,Patient was diagnosed with Plague on Unknown. The patient is currently under treatment.,Received Treatment
+PAT00483,Wendy Carter,80,Male,Influenza,1979-05-18,,Patient was diagnosed with Erectile Dysfunction on 1979-05-18. The patient is currently under treatment.,Received Treatment
+PAT00484,Wayne Potter,5,Female,Appendicitis,2020-11-12,2020-11-12,Patient was diagnosed with Multiple Sclerosis on 2020-11-12. The patient is currently under treatment.,Received Treatment
+PAT00485,Ralph Rice,56,Male,Typhoid Fever,1979-11-09,,Patient was diagnosed with Diphtheria on 1979-11-09. The patient is currently under treatment.,Not Available
+PAT00486,Gloria Ford,73,Female,Dengue Fever,1994-10-14,,Patient was diagnosed with Ebola on 1994-10-14. The patient is currently under observation.,Received Treatment
+PAT00487,Arthur Brown,84,Male,Conjunctivitis,2016-11-14,2016-11-14,Patient was diagnosed with DIABETES on 2016-11-14. The patient is currently under observation.,Not Available
+PAT00488,David Green,22,Female,Scabies,2005-06-22,,Patient was diagnosed with Pneumonia on 2005-06-22. The patient is currently under observation.,Received Treatment
+PAT00489,Edward Smith,21,Male,SARS,2025-05-19,,Patient was diagnosed with MERS on 2025-05-19. The patient is currently under treatment.,Received Treatment
+PAT00490,William West,52,Female,Cystic Fibrosis,2005-11-24,,Patient was diagnosed with Hypothermia on 2005-11-24. The patient is currently under treatment.,Received Treatment
+PAT00491,Caleb Estrada,97,Male,Leukemia,1974-05-13,,Patient was diagnosed with Fever on 1974-05-13. The patient is currently under treatment.,Received Treatment
+PAT00492,Grace Fowler,85,Female,Arthritis,1955-03-08,,Patient was diagnosed with Cystic Fibrosis on 1955-03-08. The patient is currently under treatment.,Received Treatment
+PAT00493,Sheila Mclaughlin,35,Female,Measles,2015-12-17,,Patient was diagnosed with DIABETES on 2015-12-17. The patient is currently under treatment.,Received Treatment
+PAT00494,Melissa Sanders,45,Male,Erectile Dysfunction,1994-01-18,,Patient was diagnosed with Erectile Dysfunction on 1994-01-18. The patient is currently under treatment.,Received Treatment
+PAT00495,Jessica Bennett,64,Male,Chronic Obstructive Pulmonary Disease (COPD),1973-09-12,,Patient was diagnosed with Hepatitis C on 1973-09-12. The patient is currently under treatment.,Received Treatment
+PAT00496,Michael Gray,24,Male,Appendicitis,2011-07-24,,Patient was diagnosed with Lice Infestation on 2011-07-24. The patient is currently under treatment.,Received Treatment
+PAT00497,Christina Morris,62,Female,Appendicitis,2004-05-21,,Patient was diagnosed with Laryngitis on 2004-05-21. The patient is currently under treatment.,Received Treatment
+PAT00498,Alyssa Miller,54,Male,Arthritis,,,Patient was diagnosed with Urinary Tract Infection on Unknown. The patient is currently under treatment.,Received Treatment
+PAT00499,Stephen Werner,4,Male,Endometriosis,2022-05-08,2022-05-08,Patient was diagnosed with Thyroid Disorder on 2022-05-08. The patient is currently under treatment.,Received Treatment
+PAT00500,Heather Hernandez,13,Female,Common Cold,2015-08-23,2015-08-23,Patient was diagnosed with Fungal Infection on 2015-08-23. The patient is currently under treatment.,Not Available
+PAT00501,Zachary Simmons,25,Male,Common Cold,2002-07-07,,Patient was diagnosed with HIV/AIDS on 2002-07-07. The patient is currently under observation.,Received Treatment
+PAT00502,Paul Cervantes,32,Male,Hypertension,2007-04-12,,Patient was diagnosed with Breast Cancer on 2007-04-12. The patient is currently under treatment.,Received Treatment
+PAT00503,Jamie Torres,28,Male,Endometriosis,2021-06-17,2021-06-17,Patient was diagnosed with Stroke on 2021-06-17. The patient is currently under observation.,Received Treatment
+PAT00504,Edward Woods,35,Male,Sickle Cell Disease,2013-07-22,,Patient was diagnosed with Typhoid Fever on 2013-07-22. The patient is currently under observation.,Not Available
+PAT00505,Duane Bowman,64,Female,Septicemia,1974-08-20,1974-08-20,Patient was diagnosed with Measles on 1974-08-20. The patient is currently under treatment.,Received Treatment
+PAT00506,,0,Female,Chickenpox,2025-11-11,,Patient was diagnosed with Mumps on 2025-11-11. The patient is currently under treatment.,Received Treatment
+PAT00507,Brittany Kramer,26,Female,Typhoid Fever,2005-08-19,2005-08-19,Patient was diagnosed with Endometriosis on 2005-08-19. The patient is currently under treatment.,Received Treatment
+PAT00508,Kelly Castillo,98,Female,Chronic Obstructive Pulmonary Disease (COPD),2016-04-16,,Patient was diagnosed with Crohn's Disease on 2016-04-16. The patient is currently under treatment.,Received Treatment
+PAT00509,Daniel Gillespie,48,Female,Conjunctivitis,2019-12-21,,Patient was diagnosed with Conjunctivitis on 2019-12-21. The patient is currently under treatment.,Not Available
+PAT00510,Elizabeth Morales,36,Female,Pertussis,2022-08-22,2022-08-22,Patient was diagnosed with Osteomyelitis on 2022-08-22. The patient is currently under treatment.,Received Treatment
+PAT00511,Brian Johnson,17,Male,Tetanus Neonatorum,2025-09-24,,Patient was diagnosed with Cataract on 2025-09-24. The patient is currently under treatment.,Received Treatment
+PAT00512,Valerie Ellis,24,Female,Hypothermia,2013-02-01,,Patient was diagnosed with Poliomyelitis on 2013-02-01. The patient is currently under treatment.,Did Not Receive Treatment
+PAT00513,Andrew Valdez,8,Male,Poliomyelitis,2018-10-25,,Patient was diagnosed with COVID-19 on 2018-10-25. The patient is currently under treatment.,Did Not Receive Treatment
+PAT00514,William Forbes,44,Female,Uterine Fibroids,2011-01-22,,Patient was diagnosed with Poliomyelitis on 2011-01-22. The patient is currently under observation.,Received Treatment
+PAT00515,Timothy Fisher,8,Male,Heat Stroke,2019-12-02,2019-12-02,Patient was diagnosed with Tonsillitis on 2019-12-02. The patient is currently under treatment.,Not Available
+PAT00516,Christopher Adams,53,Male,Diabetes Mellitus,2022-01-24,2022-01-24,Patient was diagnosed with HIGH BLOOD PRESSURE on 2022-01-24. The patient is currently under treatment.,Received Treatment
+PAT00517,James Jones,1,Male,TUBERCULOSIS,2024-12-26,,Patient was diagnosed with Fungal Infection on 2024-12-26. The patient is currently under treatment.,Did Not Receive Treatment
+PAT00518,Ashley Abbott,5,Male,Onchocerciasis,2021-05-09,,Patient was diagnosed with Tetanus on 2021-05-09. The patient is currently under treatment.,Not Available
+PAT00519,Peter King,16,Female,Hypothermia,2024-12-15,,Patient was diagnosed with Sickle Cell Disease on 2024-12-15. The patient is currently under treatment.,Received Treatment
+PAT00520,Holly Allen,9,Female,Heat Stroke,2023-03-09,,Patient was diagnosed with Breast Cancer on 2023-03-09. The patient is currently under observation.,Received Treatment
+PAT00521,Bryan Kirby,41,Female,Burns,2008-01-13,2008-01-13,Patient was diagnosed with Impetigo on 2008-01-13. The patient is currently under treatment.,Received Treatment
+PAT00522,Steven Vance,16,Male,Hepatitis C,2018-02-27,,Patient was diagnosed with Poliomyelitis on 2018-02-27. The patient is currently under treatment.,Received Treatment
+PAT00523,Robert Dudley,51,Female,Anaphylaxis,2004-12-23,2004-12-23,Patient was diagnosed with Measles on 2004-12-23. The patient is currently under treatment.,Received Treatment
+PAT00524,Christina Medina,30,Female,Plague,,,Patient was diagnosed with Lung Cancer on Unknown. The patient is currently under treatment.,Received Treatment
+PAT00525,Jeffrey Durham,64,,Diphtheria,,,Patient was diagnosed with Ulcerative Colitis on Unknown. The patient is currently under treatment.,Did Not Receive Treatment
+PAT00526,David Henry,39,Female,Erectile Dysfunction,2025-01-23,,Patient was diagnosed with Rubella on 2025-01-23. The patient is currently under treatment.,Received Treatment
+PAT00527,Michael Duke,2,Male,Tetanus Neonatorum,2025-10-21,,Patient was diagnosed with Polycystic Ovary Syndrome (PCOS) on 2025-10-21. The patient is currently under treatment.,Received Treatment
+PAT00528,Jeffrey Walker,42,Female,Zika Virus,2009-09-06,,Patient was diagnosed with Impetigo on 2009-09-06. The patient is currently under treatment.,Received Treatment
+PAT00529,Jeff Rivera,69,Male,COVID-19,1960-03-18,,Patient was diagnosed with Heart Failure on 1960-03-18. The patient is currently under treatment.,Received Treatment
+PAT00530,Bobby Ramos,35,Male,Rheumatoid Arthritis,1995-10-02,1995-10-02,Patient was diagnosed with Lassa fever on 1995-10-02. The patient is currently under treatment.,Received Treatment
+PAT00531,Robert Mcmahon,10,Female,Hepatitis B,2019-05-31,,Patient was diagnosed with Fever on 2019-05-31. The patient is currently under treatment.,Received Treatment
+PAT00532,Grace Daniels,62,Male,Plague,1968-06-22,,Patient was diagnosed with Lassa fever on 1968-06-22. The patient is currently under treatment.,Received Treatment
+PAT00533,Michael Lester,53,Female,Anemia,1975-09-02,,Patient was diagnosed with Lassa fever on 1975-09-02. The patient is currently under observation.,Did Not Receive Treatment
+PAT00534,Gregory Henry,66,Female,Hepatitis C,2002-11-28,,Patient was diagnosed with Urinary Tract Infection on 2002-11-28. The patient is currently under treatment.,Received Treatment
+PAT00535,,41,Female,Rheumatoid Arthritis,2002-06-30,2002-06-30,Patient was diagnosed with Chickenpox on 2002-06-30. The patient is currently under treatment.,Not Available
+PAT00536,Brian Morgan,64,Male,Erectile Dysfunction,2009-04-30,,Patient was diagnosed with Onchocerciasis on 2009-04-30. The patient is currently under treatment.,Received Treatment
+PAT00537,Matthew Martinez,59,Male,Sinusitis,1993-02-08,1993-02-08,Patient was diagnosed with Uterine Fibroids on 1993-02-08. The patient is currently under observation.,Received Treatment
+PAT00538,Haley Benitez,21,Female,Burns,2012-10-07,,Patient was diagnosed with Pneumonia on 2012-10-07. The patient is currently under treatment.,Did Not Receive Treatment
+PAT00539,Walter Beck,58,Female,Chikungunya,1982-11-22,,Patient was diagnosed with Cystic Fibrosis on 1982-11-22. The patient is currently under treatment.,Received Treatment
+PAT00540,Nancy Tucker,78,Male,Hypothermia,2007-06-05,,Patient was diagnosed with Macular Degeneration on 2007-06-05. The patient is currently under treatment.,Received Treatment
+PAT00541,Jennifer Perez,46,Male,Diabetes Mellitus,2001-12-02,,Patient was diagnosed with HIV/AIDS on 2001-12-02. The patient is currently under treatment.,Received Treatment
+PAT00542,Amanda Pace,65,Male,HIGH BLOOD PRESSURE,2017-11-24,,Patient was diagnosed with DIABETES on 2017-11-24. The patient is currently under observation.,Not Available
+PAT00543,Aaron Howell,21,Female,Septicemia,2021-08-02,,Patient was diagnosed with Multiple Sclerosis on 2021-08-02. The patient is currently under treatment.,Not Available
+PAT00544,Emily Wilson,83,Male,Fracture,1945-04-19,,Patient was diagnosed with Septicemia on 1945-04-19. The patient is currently under treatment.,Did Not Receive Treatment
+PAT00545,Ruben Padilla,43,Male,Onchocerciasis,2022-03-30,,Patient was diagnosed with Scabies on 2022-03-30. The patient is currently under treatment.,Received Treatment
+PAT00546,John Jennings,46,Male,meningitis,1999-01-10,,Patient was diagnosed with Measles on 1999-01-10. The patient is currently under treatment.,Did Not Receive Treatment
+PAT00547,Miguel Harris,19,Female,MERS,2017-04-26,,Patient was diagnosed with Pertussis on 2017-04-26. The patient is currently under observation.,Not Available
+PAT00548,,38,Male,Appendicitis,2006-10-22,,Patient was diagnosed with HEART DISEASE on 2006-10-22. The patient is currently under treatment.,Received Treatment
+PAT00549,Tommy Reynolds,69,Male,Hypothermia,2001-01-13,,Patient was diagnosed with Breast Cancer on 2001-01-13. The patient is currently under observation.,Received Treatment
+PAT00550,Taylor Torres,0,Male,Schistosomiasis,2025-11-11,,Patient was diagnosed with Bronchitis on 2025-11-11. The patient is currently under treatment.,Did Not Receive Treatment
+PAT00551,Tyler French,43,Female,HIGH BLOOD PRESSURE,2007-04-20,,Patient was diagnosed with Rheumatoid Arthritis on 2007-04-20. The patient is currently under treatment.,Received Treatment
+PAT00552,Briana Cooley,15,Female,Chronic Obstructive Pulmonary Disease (COPD),2014-08-15,,Patient was diagnosed with Lung Cancer on 2014-08-15. The patient is currently under treatment.,Received Treatment
+PAT00553,Andre Stone,24,Male,Prostate Cancer,2014-12-11,,Patient was diagnosed with Onchocerciasis on 2014-12-11. The patient is currently under treatment.,Did Not Receive Treatment
+PAT00554,Nathan Smith,32,Female,Heart Failure,2017-12-11,,Patient was diagnosed with Lice Infestation on 2017-12-11. The patient is currently under observation.,Did Not Receive Treatment
+PAT00555,Dominique Crawford,49,Male,Schistosomiasis,1997-01-04,,Patient was diagnosed with Crohn's Disease on 1997-01-04. The patient is currently under observation.,Received Treatment
+PAT00556,Andrew Wall,25,Male,Cystic Fibrosis,2010-06-08,,Patient was diagnosed with Tetanus Neonatorum on 2010-06-08. The patient is currently under treatment.,Received Treatment
+PAT00557,Danielle Walker,16,Male,Obesity,2015-09-06,,Patient was diagnosed with Macular Degeneration on 2015-09-06. The patient is currently under observation.,Received Treatment
+PAT00558,Joel Brady,47,Male,DIABETES,2006-01-24,,Patient was diagnosed with Laryngitis on 2006-01-24. The patient is currently under treatment.,Received Treatment
+PAT00559,Deborah Evans,31,Female,Fungal Infection,2015-03-26,,Patient was diagnosed with Thyroid Disorder on 2015-03-26. The patient is currently under observation.,Received Treatment
+PAT00560,Felicia Fox,12,Female,Common Cold,2017-07-28,,Patient was diagnosed with Fever on 2017-07-28. The patient is currently under treatment.,Received Treatment
+PAT00561,Kimberly Duke,73,Male,Leukemia,1957-07-07,,Patient was diagnosed with Uterine Fibroids on 1957-07-07. The patient is currently under treatment.,Received Treatment
+PAT00562,Lori Alvarez,49,Female,Chickenpox,1989-08-29,,Patient was diagnosed with Fracture on 1989-08-29. The patient is currently under treatment.,Did Not Receive Treatment
+PAT00563,Trevor Moore,57,Female,Zika Virus,1974-11-07,1974-11-07,Patient was diagnosed with Heart Failure on 1974-11-07. The patient is currently under treatment.,Received Treatment
+PAT00564,Angela Morris,44,Female,Crohn's Disease,1998-05-08,,Patient was diagnosed with Peptic Ulcer Disease on 1998-05-08. The patient is currently under treatment.,Received Treatment
+PAT00565,Sharon Deleon,22,Female,Thyroid Disorder,2003-12-05,,Patient was diagnosed with Conjunctivitis on 2003-12-05. The patient is currently under treatment.,Received Treatment
+PAT00566,Linda Phillips,20,Male,HIGH BLOOD PRESSURE,2020-04-16,,Patient was diagnosed with Fungal Infection on 2020-04-16. The patient is currently under observation.,Did Not Receive Treatment
+PAT00567,Ryan Chavez,18,Male,Sinusitis,2021-06-03,,Patient was diagnosed with Breast Cancer on 2021-06-03. The patient is currently under observation.,Received Treatment
+PAT00568,Katrina Roy,6,Male,Monkeypox,2025-04-18,2025-04-18,Patient was diagnosed with Urinary Tract Infection on 2025-04-18. The patient is currently under treatment.,Did Not Receive Treatment
+PAT00569,Brittney Stephens,51,Male,Hypothermia,1984-01-10,,Patient was diagnosed with SARS on 1984-01-10. The patient is currently under treatment.,Did Not Receive Treatment
+PAT00570,Jorge Austin,100,Male,Burns,1974-06-13,1974-06-13,Patient was diagnosed with Conjunctivitis on 1974-06-13. The patient is currently under treatment.,Received Treatment
+PAT00571,Joseph Taylor,10,Male,Obesity,2016-02-18,,Patient was diagnosed with Tetanus Neonatorum on 2016-02-18. The patient is currently under treatment.,Received Treatment
+PAT00572,Haley Spencer,100,Male,Onchocerciasis,2008-07-03,,Patient was diagnosed with Schistosomiasis on 2008-07-03. The patient is currently under treatment.,Did Not Receive Treatment
+PAT00573,Patrick Lowe,19,Female,Polycystic Ovary Syndrome (PCOS),2019-08-13,,Patient was diagnosed with Allergies on 2019-08-13. The patient is currently under treatment.,Received Treatment
+PAT00574,Elizabeth Anderson,36,Female,Rabies,2018-04-21,,Patient was diagnosed with Hepatitis B on 2018-04-21. The patient is currently under observation.,Not Available
+PAT00575,Derek Jones,28,Female,Tonsillitis,2001-09-18,,Patient was diagnosed with Lice Infestation on 2001-09-18. The patient is currently under treatment.,Received Treatment
+PAT00576,Stephen Kemp,47,Male,Prostatitis,2003-06-22,,Patient was diagnosed with Erectile Dysfunction on 2003-06-22. The patient is currently under treatment.,Received Treatment
+PAT00577,Marcus Mitchell,8,Male,Stroke,2019-11-21,,Patient was diagnosed with Heat Stroke on 2019-11-21. The patient is currently under treatment.,Received Treatment
+PAT00578,Gwendolyn Simmons,2,Female,Uterine Fibroids,,,Patient was diagnosed with Dehydration on Unknown. The patient is currently under observation.,Received Treatment
+PAT00579,Julie Ewing,4,Male,Measles,2022-05-30,,Patient was diagnosed with Obesity on 2022-05-30. The patient is currently under treatment.,Received Treatment
+PAT00580,Tom Morrow,76,Female,Cataract,2010-05-18,,Patient was diagnosed with Pneumonia on 2010-05-18. The patient is currently under treatment.,Received Treatment
+PAT00581,Jacqueline Parker,70,Male,Obesity,1962-09-18,,Patient was diagnosed with Cellulitis on 1962-09-18. The patient is currently under treatment.,Received Treatment
+PAT00582,Martin Gutierrez,71,Female,Conjunctivitis,2018-01-27,2018-01-27,Patient was diagnosed with Endometriosis on 2018-01-27. The patient is currently under treatment.,Received Treatment
+PAT00583,Megan Hart,66,Male,Burns,,,Patient was diagnosed with Septicemia on Unknown. The patient is currently under observation.,Received Treatment
+PAT00584,James West,13,Female,Endometriosis,2020-05-16,2020-05-16,Patient was diagnosed with Impetigo on 2020-05-16. The patient is currently under treatment.,Not Available
+PAT00585,Elizabeth Gomez,86,Female,Monkeypox,2014-04-08,,Patient was diagnosed with Hypothermia on 2014-04-08. The patient is currently under treatment.,Did Not Receive Treatment
+PAT00586,Meagan Benjamin,63,Female,Hepatitis C,1977-04-09,,Patient was diagnosed with Heart Failure on 1977-04-09. The patient is currently under observation.,Did Not Receive Treatment
+PAT00587,James Bell,23,Male,Cholera,2006-05-28,,Patient was diagnosed with Dehydration on 2006-05-28. The patient is currently under treatment.,Received Treatment
+PAT00588,Alex Lowe,2,Male,COVID-19,2024-01-30,,Patient was diagnosed with Anaphylaxis on 2024-01-30. The patient is currently under treatment.,Received Treatment
+PAT00589,Reginald Jimenez,32,Female,Anemia,2002-09-28,2002-09-28,Patient was diagnosed with Leukemia on 2002-09-28. The patient is currently under treatment.,Received Treatment
+PAT00590,Travis Strickland,94,Female,Anxiety/Depression,1995-10-10,,Patient was diagnosed with MALARIA on 1995-10-10. The patient is currently under observation.,Did Not Receive Treatment
+PAT00591,Alexander Grimes,19,Female,Peptic Ulcer Disease,2019-04-30,2019-04-30,Patient was diagnosed with Asthma on 2019-04-30. The patient is currently under treatment.,Received Treatment
+PAT00592,Brian Duran,17,Male,Laryngitis,2009-05-23,,Patient was diagnosed with Anemia on 2009-05-23. The patient is currently under observation.,Received Treatment
+PAT00593,,8,Female,Crohn's Disease,2022-12-01,,Patient was diagnosed with Ebola on 2022-12-01. The patient is currently under observation.,Received Treatment
+PAT00594,Sally Williams,15,Female,MALARIA,2011-12-31,,Patient was diagnosed with Thyroid Disorder on 2011-12-31. The patient is currently under treatment.,Did Not Receive Treatment
+PAT00595,Henry Archer,35,Female,Arthritis,2010-10-12,2010-10-12,Patient was diagnosed with Mpox on 2010-10-12. The patient is currently under treatment.,Received Treatment
+PAT00596,,40,Female,Burns,2015-11-25,,Patient was diagnosed with Sinusitis on 2015-11-25. The patient is currently under treatment.,Did Not Receive Treatment
+PAT00597,Johnathan Foley,15,Female,Pertussis,,,Patient was diagnosed with Yellow Fever on Unknown. The patient is currently under treatment.,Received Treatment
+PAT00598,Vanessa Sutton,82,Female,MERS,1978-10-05,,Patient was diagnosed with Lassa fever on 1978-10-05. The patient is currently under treatment.,Received Treatment
+PAT00599,Kelsey Thomas,74,Female,Crohn's Disease,1991-10-03,,Patient was diagnosed with Tetanus Neonatorum on 1991-10-03. The patient is currently under treatment.,Received Treatment
+PAT00600,Dana Mendez,54,Male,Lung Cancer,2023-07-10,,Patient was diagnosed with HIV/AIDS on 2023-07-10. The patient is currently under observation.,Received Treatment
+PAT00601,Mark Baker,94,Male,Hepatitis B,2004-01-05,,Patient was diagnosed with Hypertension on 2004-01-05. The patient is currently under observation.,Did Not Receive Treatment
+PAT00602,Larry Drake,43,Female,Laryngitis,2005-08-05,,Patient was diagnosed with Typhoid Fever on 2005-08-05. The patient is currently under treatment.,Received Treatment
+PAT00603,Kristina Willis,40,Male,Lung Cancer,2021-11-27,,Patient was diagnosed with TUBERCULOSIS on 2021-11-27. The patient is currently under observation.,Not Available
+PAT00604,Nicole Roberts,38,Male,Zika Virus,2009-10-08,,Patient was diagnosed with Tetanus Neonatorum on 2009-10-08. The patient is currently under treatment.,Did Not Receive Treatment
+PAT00605,Heidi Duncan,28,Female,meningitis,1999-08-23,,Patient was diagnosed with Hypertension on 1999-08-23. The patient is currently under observation.,Received Treatment
+PAT00606,Sherri Lopez,32,Male,Multiple Sclerosis,2022-10-12,,Patient was diagnosed with Onchocerciasis on 2022-10-12. The patient is currently under treatment.,Received Treatment
+PAT00607,Christine Hill,45,Female,Influenza,1990-04-24,,Patient was diagnosed with Wound Infection on 1990-04-24. The patient is currently under treatment.,Received Treatment
+PAT00608,Clinton Chang,38,Male,Schistosomiasis,1997-10-30,,Patient was diagnosed with SARS on 1997-10-30. The patient is currently under treatment.,Received Treatment
+PAT00609,Heather Miller,72,Male,Anxiety/Depression,1959-05-05,,Patient was diagnosed with Burns on 1959-05-05. The patient is currently under treatment.,Received Treatment
+PAT00610,Luke Lara,35,Female,Osteomyelitis,,,Patient was diagnosed with Dehydration on Unknown. The patient is currently under treatment.,Received Treatment
+PAT00611,Sarah Gay,59,Male,Typhoid Fever,1983-11-11,,Patient was diagnosed with Glaucoma on 1983-11-11. The patient is currently under observation.,Received Treatment
+PAT00612,Denise Sanchez,16,Female,meningitis,2018-04-29,,Patient was diagnosed with Endometriosis on 2018-04-29. The patient is currently under treatment.,Received Treatment
+PAT00613,Catherine Poole,61,Male,Macular Degeneration,2016-07-15,,Patient was diagnosed with Leprosy on 2016-07-15. The patient is currently under treatment.,Did Not Receive Treatment
+PAT00614,Joe David,49,Female,Anaphylaxis,2020-11-13,,Patient was diagnosed with Onchocerciasis on 2020-11-13. The patient is currently under observation.,Received Treatment
+PAT00615,James Blake,43,Female,Septicemia,2002-09-26,,Patient was diagnosed with Arthritis on 2002-09-26. The patient is currently under treatment.,Received Treatment
+PAT00616,Tyler Mcmillan,36,Male,MERS,1994-03-14,1994-03-14,Patient was diagnosed with Asthma on 1994-03-14. The patient is currently under observation.,Received Treatment
+PAT00617,Barbara Ortiz,66,Female,Osteomyelitis,1980-07-31,,Patient was diagnosed with Diabetes Mellitus on 1980-07-31. The patient is currently under treatment.,Received Treatment
+PAT00618,Tonya Mitchell,71,Male,Osteomyelitis,1991-02-11,,Patient was diagnosed with MERS on 1991-02-11. The patient is currently under treatment.,Received Treatment
+PAT00619,Selena Collier,63,Female,Hypothermia,1964-01-13,1964-01-13,Patient was diagnosed with Otitis Media on 1964-01-13. The patient is currently under observation.,Did Not Receive Treatment
+PAT00620,Linda Patterson,47,Female,Peptic Ulcer Disease,1983-04-09,,Patient was diagnosed with Cholera on 1983-04-09. The patient is currently under treatment.,Received Treatment
+PAT00621,Anthony Cook,10,Male,Macular Degeneration,2024-04-22,,Patient was diagnosed with Typhoid Fever on 2024-04-22. The patient is currently under treatment.,Received Treatment
+PAT00622,Eric Rodgers,53,Male,Crohn's Disease,2008-03-20,,Patient was diagnosed with Tularemia on 2008-03-20. The patient is currently under treatment.,Not Available
+PAT00623,Gary Johnson,28,Female,Anthrax,2009-01-15,2009-01-15,Patient was diagnosed with Dengue Fever on 2009-01-15. The patient is currently under treatment.,Did Not Receive Treatment
+PAT00624,William Cox,38,Female,Fungal Infection,2002-09-20,,Patient was diagnosed with Hypertension on 2002-09-20. The patient is currently under treatment.,Did Not Receive Treatment
+PAT00625,Shelby Jimenez,56,Male,Coronary Artery Disease,2001-10-10,,Patient was diagnosed with Wound Infection on 2001-10-10. The patient is currently under treatment.,Received Treatment
+PAT00626,Jose Fields,60,Female,Scabies,1975-01-21,,Patient was diagnosed with Anaphylaxis on 1975-01-21. The patient is currently under treatment.,Received Treatment
+PAT00627,Andrew Gordon,55,Female,Filariasis,2018-04-21,,Patient was diagnosed with Monkeypox on 2018-04-21. The patient is currently under treatment.,Received Treatment
+PAT00628,Brenda Turner,58,Male,Bronchitis,2004-04-09,2004-04-09,Patient was diagnosed with Monkeypox on 2004-04-09. The patient is currently under treatment.,Received Treatment
+PAT00629,Donald Walker,93,Male,SARS,2015-10-02,,Patient was diagnosed with Tonsillitis on 2015-10-02. The patient is currently under treatment.,Received Treatment
+PAT00630,William Lee,39,Female,TUBERCULOSIS,2014-12-30,,Patient was diagnosed with Lung Cancer on 2014-12-30. The patient is currently under treatment.,Did Not Receive Treatment
+PAT00631,Albert Bowen,17,Male,Rabies,2025-02-14,,Patient was diagnosed with Macular Degeneration on 2025-02-14. The patient is currently under treatment.,Received Treatment
+PAT00632,Andrew Robbins,46,Female,Fever,1983-09-23,,Patient was diagnosed with Hepatitis C on 1983-09-23. The patient is currently under treatment.,Received Treatment
+PAT00633,Steven Phelps,24,Female,Coronary Artery Disease,2014-12-12,2014-12-12,Patient was diagnosed with Erectile Dysfunction on 2014-12-12. The patient is currently under observation.,Received Treatment
+PAT00634,Kevin Luna,0,Male,Dengue Fever,2025-11-11,,Patient was diagnosed with Ulcerative Colitis on 2025-11-11. The patient is currently under treatment.,Received Treatment
+PAT00635,Jamie Lawrence,24,Male,Dehydration,2005-10-01,,Patient was diagnosed with Arthritis on 2005-10-01. The patient is currently under treatment.,Not Available
+PAT00636,Sue Adams,86,Male,Ebola,2016-11-04,,Patient was diagnosed with Monkeypox on 2016-11-04. The patient is currently under treatment.,Received Treatment
+PAT00637,Miguel Brown,63,Male,Anemia,2019-03-12,,Patient was diagnosed with Common Cold on 2019-03-12. The patient is currently under observation.,Did Not Receive Treatment
+PAT00638,Vanessa Martinez,57,Male,Sickle Cell Disease,2005-10-24,2005-10-24,Patient was diagnosed with Interstitial Cystitis on 2005-10-24. The patient is currently under treatment.,Received Treatment
+PAT00639,Amanda Jones,99,Female,Dehydration,1980-07-29,1980-07-29,Patient was diagnosed with Erectile Dysfunction on 1980-07-29. The patient is currently under treatment.,Received Treatment
+PAT00640,Victoria Perry,11,Female,Chikungunya,2023-08-12,,Patient was diagnosed with Anemia on 2023-08-12. The patient is currently under observation.,Received Treatment
+PAT00641,Cindy Black,85,Female,Coronary Artery Disease,1977-11-08,,Patient was diagnosed with Coronary Artery Disease on 1977-11-08. The patient is currently under treatment.,Did Not Receive Treatment
+PAT00642,,12,Male,Rabies,2022-09-13,,Patient was diagnosed with Osteoporosis on 2022-09-13. The patient is currently under treatment.,Received Treatment
+PAT00643,David Gonzalez,68,Female,COVID-19,1977-02-02,,Patient was diagnosed with Fracture on 1977-02-02. The patient is currently under observation.,Received Treatment
+PAT00644,Ryan Walker,43,Female,Appendicitis,2007-05-01,,Patient was diagnosed with Chikungunya on 2007-05-01. The patient is currently under treatment.,Received Treatment
+PAT00645,Robert Jackson,86,Female,Multiple Sclerosis,1991-11-25,,Patient was diagnosed with Endometriosis on 1991-11-25. The patient is currently under observation.,Did Not Receive Treatment
+PAT00646,Alexander Madden,59,Male,Scabies,1988-12-06,,Patient was diagnosed with Multiple Sclerosis on 1988-12-06. The patient is currently under treatment.,Received Treatment
+PAT00647,Melanie Murillo,55,Female,Ebola,1985-04-21,,Patient was diagnosed with Plague on 1985-04-21. The patient is currently under treatment.,Received Treatment
+PAT00648,Michaela Jones,60,Male,Laryngitis,2012-04-20,,Patient was diagnosed with Measles on 2012-04-20. The patient is currently under treatment.,Did Not Receive Treatment
+PAT00649,Christina Chang,51,Male,Leishmaniasis,2007-02-03,,Patient was diagnosed with HEART DISEASE on 2007-02-03. The patient is currently under treatment.,Not Available
+PAT00650,Chad Walker,58,Female,Leishmaniasis,1973-11-17,,Patient was diagnosed with Breast Cancer on 1973-11-17. The patient is currently under treatment.,Received Treatment
+PAT00651,James Tanner,17,Female,Stroke,2024-06-04,,Patient was diagnosed with Appendicitis on 2024-06-04. The patient is currently under treatment.,Did Not Receive Treatment
+PAT00652,Laura Little,13,Female,Prostatitis,,,Patient was diagnosed with Peptic Ulcer Disease on Unknown. The patient is currently under treatment.,Did Not Receive Treatment
+PAT00653,Dustin James,65,Female,Bronchitis,1996-12-18,,Patient was diagnosed with Poliomyelitis on 1996-12-18. The patient is currently under treatment.,Received Treatment
+PAT00654,Jennifer Phillips,10,Female,Pneumonia,2023-06-16,,Patient was diagnosed with Sinusitis on 2023-06-16. The patient is currently under observation.,Received Treatment
+PAT00655,Abigail Davis,22,Female,Crohn's Disease,2004-07-05,,Patient was diagnosed with Obesity on 2004-07-05. The patient is currently under treatment.,Received Treatment
+PAT00656,Linda Todd,40,Male,Hypertension,1997-12-16,,Patient was diagnosed with Diabetes Mellitus on 1997-12-16. The patient is currently under treatment.,Received Treatment
+PAT00657,John Gonzales,48,Male,Polycystic Ovary Syndrome (PCOS),2004-05-08,,Patient was diagnosed with Cholera on 2004-05-08. The patient is currently under treatment.,Received Treatment
+PAT00658,Gene Lopez,83,Female,Anxiety/Depression,1994-09-26,,Patient was diagnosed with HIV/AIDS on 1994-09-26. The patient is currently under observation.,Received Treatment
+PAT00659,Jennifer Banks,57,Female,Ulcerative Colitis,1996-06-14,,Patient was diagnosed with Stroke on 1996-06-14. The patient is currently under treatment.,Did Not Receive Treatment
+PAT00660,Karen Velazquez,53,Female,HIV/AIDS,,,Patient was diagnosed with Macular Degeneration on Unknown. The patient is currently under treatment.,Received Treatment
+PAT00661,Jody Austin,34,Male,Impetigo,1991-12-23,,Patient was diagnosed with Yellow Fever on 1991-12-23. The patient is currently under observation.,Did Not Receive Treatment
+PAT00662,Jonathan Coleman,72,Female,Lice Infestation,1956-03-17,,Patient was diagnosed with Plague on 1956-03-17. The patient is currently under treatment.,Received Treatment
+PAT00663,Judy Harris,21,Female,Lung Cancer,2012-02-09,,Patient was diagnosed with Diabetes Mellitus on 2012-02-09. The patient is currently under treatment.,Did Not Receive Treatment
+PAT00664,Jesus Vasquez,71,Male,Leishmaniasis,1983-12-04,,Patient was diagnosed with Fracture on 1983-12-04. The patient is currently under observation.,Received Treatment
+PAT00665,Christine Park,91,Female,Irritable Bowel Syndrome (IBS),1965-07-09,,Patient was diagnosed with Multiple Sclerosis on 1965-07-09. The patient is currently under treatment.,Received Treatment
+PAT00666,Samuel Hampton,23,Female,Septicemia,2020-01-14,,Patient was diagnosed with Appendicitis on 2020-01-14. The patient is currently under treatment.,Received Treatment
+PAT00667,Matthew Clark,29,Female,Chikungunya,2002-02-14,,Patient was diagnosed with Fracture on 2002-02-14. The patient is currently under treatment.,Received Treatment
+PAT00668,Brooke Johnson,48,Male,Septicemia,2014-12-07,,Patient was diagnosed with Typhoid Fever on 2014-12-07. The patient is currently under treatment.,Did Not Receive Treatment
+PAT00669,Cassandra King,19,Male,Hepatitis B,2025-06-18,,Patient was diagnosed with Stroke on 2025-06-18. The patient is currently under treatment.,Did Not Receive Treatment
+PAT00670,Gregory Walton,47,Male,Fracture,1985-02-04,,Patient was diagnosed with HIV/AIDS on 1985-02-04. The patient is currently under treatment.,Not Available
+PAT00671,Thomas Clark,69,Female,Heart Failure,1966-07-26,1966-07-26,Patient was diagnosed with Influenza on 1966-07-26. The patient is currently under observation.,Received Treatment
+PAT00672,Ralph Sherman,48,Male,Erectile Dysfunction,1979-12-09,,Patient was diagnosed with Anemia on 1979-12-09. The patient is currently under treatment.,Received Treatment
+PAT00673,Melissa Mitchell,49,Male,HIV/AIDS,,,Patient was diagnosed with Lassa fever on Unknown. The patient is currently under treatment.,Received Treatment
+PAT00674,Brian Johnson,67,Male,COVID-19,1973-03-27,,Patient was diagnosed with Anemia on 1973-03-27. The patient is currently under treatment.,Received Treatment
+PAT00675,Ashley Walker,18,Female,Anaphylaxis,2011-08-21,,Patient was diagnosed with Poliomyelitis on 2011-08-21. The patient is currently under treatment.,Did Not Receive Treatment
+PAT00676,Karen Robertson,31,Female,SARS,2016-03-31,,Patient was diagnosed with Osteomyelitis on 2016-03-31. The patient is currently under observation.,Received Treatment
+PAT00677,Jessica Hartman,85,Male,Filariasis,1984-05-19,,Patient was diagnosed with Appendicitis on 1984-05-19. The patient is currently under observation.,Did Not Receive Treatment
+PAT00678,Shannon Bell,51,Male,Cellulitis,1988-10-21,,Patient was diagnosed with MERS on 1988-10-21. The patient is currently under treatment.,Received Treatment
+PAT00679,Michelle Hendrix,47,Male,Chronic Obstructive Pulmonary Disease (COPD),2008-09-05,,Patient was diagnosed with Mumps on 2008-09-05. The patient is currently under treatment.,Did Not Receive Treatment
+PAT00680,Roger Haley,6,Female,Anaphylaxis,2025-05-11,,Patient was diagnosed with Monkeypox on 2025-05-11. The patient is currently under treatment.,Received Treatment
+PAT00681,Emma Melendez,51,Male,Sickle Cell Disease,2001-08-03,,Patient was diagnosed with Lice Infestation on 2001-08-03. The patient is currently under observation.,Did Not Receive Treatment
+PAT00682,Kyle Richard,17,Male,Cholera,2019-09-04,2019-09-04,Patient was diagnosed with Shingles on 2019-09-04. The patient is currently under observation.,Received Treatment
+PAT00683,Rebecca Johnson,93,,Influenza,1952-04-26,1952-04-26,Patient was diagnosed with Typhoid Fever on 1952-04-26. The patient is currently under treatment.,Not Available
+PAT00684,John White,57,Female,Conjunctivitis,2015-09-22,2015-09-22,Patient was diagnosed with Pneumonia on 2015-09-22. The patient is currently under treatment.,Received Treatment
+PAT00685,Brooke Snyder,64,Male,Schistosomiasis,1977-02-03,,Patient was diagnosed with Tetanus Neonatorum on 1977-02-03. The patient is currently under treatment.,Received Treatment
+PAT00686,Olivia Mckenzie,26,Female,Multiple Sclerosis,2008-05-12,,Patient was diagnosed with Arthritis on 2008-05-12. The patient is currently under treatment.,Did Not Receive Treatment
+PAT00687,Michael Sims,12,Female,Anthrax,2019-01-17,2019-01-17,Patient was diagnosed with Impetigo on 2019-01-17. The patient is currently under treatment.,Received Treatment
+PAT00688,Timothy Neal,95,Female,Breast Cancer,1968-06-19,,Patient was diagnosed with HIV/AIDS on 1968-06-19. The patient is currently under treatment.,Received Treatment
+PAT00689,Haley Yoder,0,Male,Anxiety/Depression,2025-11-11,,Patient was diagnosed with HIGH BLOOD PRESSURE on 2025-11-11. The patient is currently under treatment.,Received Treatment
+PAT00690,Gina Castillo,90,Female,Chronic Obstructive Pulmonary Disease (COPD),1949-02-06,1949-02-06,Patient was diagnosed with Arthritis on 1949-02-06. The patient is currently under treatment.,Did Not Receive Treatment
+PAT00691,Natalie Jackson,10,Female,Burns,2016-02-27,,Patient was diagnosed with Anxiety/Depression on 2016-02-27. The patient is currently under treatment.,Received Treatment
+PAT00692,Sherry Pratt,38,Male,Macular Degeneration,1995-11-20,,Patient was diagnosed with Burns on 1995-11-20. The patient is currently under observation.,Received Treatment
+PAT00693,Taylor Salazar,60,Male,Otitis Media,2015-12-12,,Patient was diagnosed with Lupus on 2015-12-12. The patient is currently under observation.,Did Not Receive Treatment
+PAT00694,Steven Owens,5,Male,DIABETES,2024-02-06,,Patient was diagnosed with Yellow Fever on 2024-02-06. The patient is currently under treatment.,Did Not Receive Treatment
+PAT00695,Lynn Sherman,27,Female,Anaphylaxis,2008-03-14,,Patient was diagnosed with DIABETES on 2008-03-14. The patient is currently under treatment.,Did Not Receive Treatment
+PAT00696,Jennifer Davis,41,Female,Appendicitis,,,Patient was diagnosed with Stroke on Unknown. The patient is currently under treatment.,Received Treatment
+PAT00697,Herbert Mcfarland,87,Female,Multiple Sclerosis,,,Patient was diagnosed with Cellulitis on Unknown. The patient is currently under treatment.,Received Treatment
+PAT00698,Johnathan English,18,Female,Tetanus Neonatorum,2019-04-09,2019-04-09,Patient was diagnosed with Erectile Dysfunction on 2019-04-09. The patient is currently under treatment.,Received Treatment
+PAT00699,Andrew Harrison,15,Male,Dengue Fever,2014-09-09,,Patient was diagnosed with Lassa fever on 2014-09-09. The patient is currently under treatment.,Received Treatment
+PAT00700,Joseph Hancock,34,Female,Tularemia,2006-08-18,,Patient was diagnosed with Leprosy on 2006-08-18. The patient is currently under treatment.,Received Treatment
+PAT00701,Steven Rodriguez,7,Male,TUBERCULOSIS,2019-02-25,,Patient was diagnosed with Poliomyelitis on 2019-02-25. The patient is currently under observation.,Not Available
+PAT00702,Priscilla Davis,56,Female,Breast Cancer,2001-06-25,,Patient was diagnosed with Asthma on 2001-06-25. The patient is currently under treatment.,Did Not Receive Treatment
+PAT00703,Steven Webb,88,Female,Measles,2017-02-07,,Patient was diagnosed with Rubella on 2017-02-07. The patient is currently under treatment.,Did Not Receive Treatment
+PAT00704,Jon Russell,20,Female,Fungal Infection,2016-04-08,,Patient was diagnosed with Heart Failure on 2016-04-08. The patient is currently under treatment.,Did Not Receive Treatment
+PAT00705,Donald Mcdaniel,55,Male,Osteomyelitis,1975-08-12,1975-08-12,Patient was diagnosed with SARS on 1975-08-12. The patient is currently under observation.,Did Not Receive Treatment
+PAT00706,Joshua Mack,55,Male,Chronic Obstructive Pulmonary Disease (COPD),2022-07-01,,Patient was diagnosed with Allergies on 2022-07-01. The patient is currently under treatment.,Did Not Receive Treatment
+PAT00707,Jose Rodriguez,13,,Mumps,2021-02-17,,Patient was diagnosed with Wound Infection on 2021-02-17. The patient is currently under treatment.,Received Treatment
+PAT00708,,93,Female,Hypothermia,1954-03-01,1954-03-01,Patient was diagnosed with Tonsillitis on 1954-03-01. The patient is currently under treatment.,Received Treatment
+PAT00709,Robert Powell,98,Male,Diabetes Mellitus,1999-05-03,,Patient was diagnosed with Dehydration on 1999-05-03. The patient is currently under treatment.,Received Treatment
+PAT00710,Shaun Jones,40,Male,Lung Cancer,,,Patient was diagnosed with Filariasis on Unknown. The patient is currently under treatment.,Received Treatment
+PAT00711,Scott Allen,44,Male,Coronary Artery Disease,2024-04-30,,Patient was diagnosed with Ulcerative Colitis on 2024-04-30. The patient is currently under treatment.,Not Available
+PAT00712,,32,Male,Zika Virus,2002-12-28,,Patient was diagnosed with Typhoid Fever on 2002-12-28. The patient is currently under treatment.,Received Treatment
+PAT00713,Chad Parks,76,Female,Anemia,1951-05-20,1951-05-20,Patient was diagnosed with Diabetes Mellitus on 1951-05-20. The patient is currently under observation.,Did Not Receive Treatment
+PAT00714,Joshua Perez,51,Female,Hypertension,1981-12-25,1981-12-25,Patient was diagnosed with Anaphylaxis on 1981-12-25. The patient is currently under treatment.,Received Treatment
+PAT00715,Erica Guerrero,24,Male,Filariasis,2023-03-22,,Patient was diagnosed with Septicemia on 2023-03-22. The patient is currently under treatment.,Did Not Receive Treatment
+PAT00716,Thomas Sexton,99,Female,Anaphylaxis,2020-05-14,,Patient was diagnosed with Fracture on 2020-05-14. The patient is currently under observation.,Did Not Receive Treatment
+PAT00717,Amber Reid,3,Female,Tonsillitis,2025-04-10,,Patient was diagnosed with Dengue Fever on 2025-04-10. The patient is currently under treatment.,Did Not Receive Treatment
+PAT00718,Erica Patrick,39,Male,Prostatitis,1991-11-03,1991-11-03,Patient was diagnosed with Bronchitis on 1991-11-03. The patient is currently under treatment.,Received Treatment
+PAT00719,Amber Stewart,52,Male,Endometriosis,2020-10-25,,Patient was diagnosed with Chronic Obstructive Pulmonary Disease (COPD) on 2020-10-25. The patient is currently under observation.,Not Available
+PAT00720,Nathan Jones,8,Female,SARS,2022-01-26,,Patient was diagnosed with Endometriosis on 2022-01-26. The patient is currently under treatment.,Not Available
+PAT00721,Leah Rollins,11,Male,Leukemia,2020-08-27,2020-08-27,Patient was diagnosed with Pneumonia on 2020-08-27. The patient is currently under treatment.,Did Not Receive Treatment
+PAT00722,Benjamin Harrison,46,Female,Leishmaniasis,2016-08-28,,Patient was diagnosed with Glaucoma on 2016-08-28. The patient is currently under observation.,Received Treatment
+PAT00723,Tyler Hughes,17,Female,Laryngitis,2015-09-17,,Patient was diagnosed with Irritable Bowel Syndrome (IBS) on 2015-09-17. The patient is currently under treatment.,Received Treatment
+PAT00724,Elizabeth Hernandez,46,Female,Lung Cancer,1984-11-27,,Patient was diagnosed with Rabies on 1984-11-27. The patient is currently under observation.,Received Treatment
+PAT00725,Ivan Foster,87,Female,Coronary Artery Disease,1988-10-27,,Patient was diagnosed with Heat Stroke on 1988-10-27. The patient is currently under observation.,Did Not Receive Treatment
+PAT00726,Amanda Sellers,26,Male,Tetanus,2004-03-30,2004-03-30,Patient was diagnosed with Anaphylaxis on 2004-03-30. The patient is currently under observation.,Received Treatment
+PAT00727,Hailey Davis,41,Female,Mpox,1999-01-01,,Patient was diagnosed with Leprosy on 1999-01-01. The patient is currently under treatment.,Received Treatment
+PAT00728,Cynthia Williams,52,Female,Dengue Fever,1978-01-19,,Patient was diagnosed with Glaucoma on 1978-01-19. The patient is currently under treatment.,Received Treatment
+PAT00729,Caitlyn Savage,51,Female,TUBERCULOSIS,2001-11-24,,Patient was diagnosed with Lupus on 2001-11-24. The patient is currently under treatment.,Received Treatment
+PAT00730,Jaclyn Sanchez,89,Male,Hypertension,2022-10-28,,Patient was diagnosed with Lice Infestation on 2022-10-28. The patient is currently under treatment.,Received Treatment
+PAT00731,Jerry Gray,41,Female,Burns,1989-10-30,,Patient was diagnosed with Crohn's Disease on 1989-10-30. The patient is currently under observation.,Not Available
+PAT00732,Tanner Cordova,79,Female,Malnutrition,1954-02-19,,Patient was diagnosed with Typhoid Fever on 1954-02-19. The patient is currently under observation.,Received Treatment
+PAT00733,Denise Burke,49,Female,Tularemia,2018-12-21,2018-12-21,Patient was diagnosed with Onchocerciasis on 2018-12-21. The patient is currently under treatment.,Received Treatment
+PAT00734,Amber Gonzales,49,Female,Typhoid Fever,1981-09-15,,Patient was diagnosed with Influenza on 1981-09-15. The patient is currently under treatment.,Received Treatment
+PAT00735,Roger Reese,51,Male,Hypertension,1989-09-26,,Patient was diagnosed with NIL on 1989-09-26. The patient is currently under observation.,Received Treatment
+PAT00736,Stacey Andrews,39,Male,Lupus,2009-08-29,,Patient was diagnosed with Lupus on 2009-08-29. The patient is currently under treatment.,Received Treatment
+PAT00737,Leah Parker,24,Female,MERS,2005-04-30,2005-04-30,Patient was diagnosed with Mpox on 2005-04-30. The patient is currently under observation.,Received Treatment
+PAT00738,Stephanie Riddle,37,Female,Hepatitis B,2006-10-27,,Patient was diagnosed with Leprosy on 2006-10-27. The patient is currently under treatment.,Received Treatment
+PAT00739,Aaron Bradley,13,Female,Leukemia,2021-03-28,,Patient was diagnosed with Schistosomiasis on 2021-03-28. The patient is currently under treatment.,Did Not Receive Treatment
+PAT00740,Adam Porter,40,Female,Tularemia,2017-06-18,,Patient was diagnosed with Lice Infestation on 2017-06-18. The patient is currently under observation.,Did Not Receive Treatment
+PAT00741,Bradley Ross,63,Female,Prostate Cancer,,,Patient was diagnosed with Tetanus Neonatorum on Unknown. The patient is currently under treatment.,Received Treatment
+PAT00742,Timothy Peters,73,Male,Heat Stroke,1966-08-16,,Patient was diagnosed with Thyroid Disorder on 1966-08-16. The patient is currently under observation.,Received Treatment
+PAT00743,Theresa Hamilton,27,Male,Tetanus,2019-02-10,,Patient was diagnosed with TUBERCULOSIS on 2019-02-10. The patient is currently under treatment.,Received Treatment
+PAT00744,Angela Brown,94,Male,Lupus,1993-02-18,,Patient was diagnosed with Pneumonia on 1993-02-18. The patient is currently under treatment.,Received Treatment
+PAT00745,Daniel Rose,45,Male,Fever,2000-10-13,,Patient was diagnosed with DIABETES on 2000-10-13. The patient is currently under treatment.,Received Treatment
+PAT00746,Michelle Wade,62,Female,Hepatitis C,2017-07-05,,Patient was diagnosed with Prostate Cancer on 2017-07-05. The patient is currently under treatment.,Received Treatment
+PAT00747,Tanya Copeland,37,Male,Scabies,2010-12-13,,Patient was diagnosed with Wound Infection on 2010-12-13. The patient is currently under treatment.,Received Treatment
+PAT00748,Desiree Morgan,64,Female,Tetanus Neonatorum,,,Patient was diagnosed with NIL on Unknown. The patient is currently under treatment.,Received Treatment
+PAT00749,Jennifer Jenkins,29,Male,Wound Infection,2021-12-13,2021-12-13,Patient was diagnosed with Chronic Obstructive Pulmonary Disease (COPD) on 2021-12-13. The patient is currently under treatment.,Received Treatment
+PAT00750,Christopher Moore,51,Male,Wound Infection,2019-08-21,,Patient was diagnosed with Laryngitis on 2019-08-21. The patient is currently under treatment.,Not Available
+PAT00751,Evan Sharp,75,Female,Macular Degeneration,2021-03-24,,Patient was diagnosed with Urinary Tract Infection on 2021-03-24. The patient is currently under treatment.,Received Treatment
+PAT00752,Linda Brown,76,Female,Stroke,2025-09-10,,Patient was diagnosed with Chickenpox on 2025-09-10. The patient is currently under observation.,Received Treatment
+PAT00753,Lisa Brown,37,Male,COVID-19,1991-11-19,,Patient was diagnosed with Malnutrition on 1991-11-19. The patient is currently under observation.,Received Treatment
+PAT00754,Gary Pittman,54,Male,Impetigo,2019-04-18,2019-04-18,Patient was diagnosed with Rabies on 2019-04-18. The patient is currently under observation.,Received Treatment
+PAT00755,,27,Male,Stroke,2010-08-08,2010-08-08,Patient was diagnosed with Chronic Obstructive Pulmonary Disease (COPD) on 2010-08-08. The patient is currently under treatment.,Received Treatment
+PAT00756,Melissa Davis,55,Male,Diabetes Mellitus,1991-06-22,,Patient was diagnosed with Hepatitis B on 1991-06-22. The patient is currently under treatment.,Received Treatment
+PAT00757,Philip Burgess,53,Female,Hypothermia,1976-01-16,,Patient was diagnosed with Schistosomiasis on 1976-01-16. The patient is currently under treatment.,Received Treatment
+PAT00758,Christopher Price,19,Male,Irritable Bowel Syndrome (IBS),2015-12-23,2015-12-23,Patient was diagnosed with Fungal Infection on 2015-12-23. The patient is currently under treatment.,Received Treatment
+PAT00759,Lisa Brown,77,Male,Bronchitis,2019-12-17,,Patient was diagnosed with Measles on 2019-12-17. The patient is currently under treatment.,Received Treatment
+PAT00760,Paul Rodriguez,63,Male,Cystic Fibrosis,2022-02-07,,Patient was diagnosed with Wound Infection on 2022-02-07. The patient is currently under treatment.,Received Treatment
+PAT00761,Stacey Winters,32,Male,Common Cold,2013-12-09,2013-12-09,Patient was diagnosed with Chronic Obstructive Pulmonary Disease (COPD) on 2013-12-09. The patient is currently under treatment.,Received Treatment
+PAT00762,Dawn Aguilar,76,Male,Endometriosis,2011-12-14,,Patient was diagnosed with Osteomyelitis on 2011-12-14. The patient is currently under treatment.,Received Treatment
+PAT00763,Autumn Christensen,27,Male,Rheumatoid Arthritis,2018-01-14,,Patient was diagnosed with Hepatitis B on 2018-01-14. The patient is currently under treatment.,Received Treatment
+PAT00764,,72,Male,Pneumonia,1998-12-29,,Patient was diagnosed with Fever on 1998-12-29. The patient is currently under treatment.,Received Treatment
+PAT00765,Catherine Kennedy,38,Female,Crohn's Disease,2022-12-19,2022-12-19,Patient was diagnosed with Cystic Fibrosis on 2022-12-19. The patient is currently under treatment.,Received Treatment
+PAT00766,Lisa Moore,1,Male,Anxiety/Depression,,,Patient was diagnosed with Obesity on Unknown. The patient is currently under treatment.,Received Treatment
+PAT00767,Peter Ward,25,Male,Polycystic Ovary Syndrome (PCOS),2002-12-27,,Patient was diagnosed with MALARIA on 2002-12-27. The patient is currently under observation.,Received Treatment
+PAT00768,Vanessa Cook,37,Female,Endometriosis,2023-09-11,,Patient was diagnosed with Lung Cancer on 2023-09-11. The patient is currently under treatment.,Received Treatment
+PAT00769,Shawn Gibson,83,Female,Zika Virus,1949-03-12,,Patient was diagnosed with Tetanus on 1949-03-12. The patient is currently under treatment.,Received Treatment
+PAT00770,Steven Monroe,38,Female,Arthritis,1991-07-03,,Patient was diagnosed with Chikungunya on 1991-07-03. The patient is currently under treatment.,Received Treatment
+PAT00771,Derek Tapia,59,Male,Erectile Dysfunction,2024-05-27,2024-05-27,Patient was diagnosed with Hepatitis C on 2024-05-27. The patient is currently under treatment.,Received Treatment
+PAT00772,Loretta Boyle,94,Male,Scabies,1940-11-04,,Patient was diagnosed with Cholera on 1940-11-04. The patient is currently under treatment.,Received Treatment
+PAT00773,,6,Female,Ulcerative Colitis,2022-04-19,,Patient was diagnosed with HIV/AIDS on 2022-04-19. The patient is currently under treatment.,Did Not Receive Treatment
+PAT00774,Emily Lozano,20,Male,HIGH BLOOD PRESSURE,2009-02-10,,Patient was diagnosed with Ebola on 2009-02-10. The patient is currently under treatment.,Received Treatment
+PAT00775,Pamela Williams,16,Male,Prostate Cancer,2015-05-21,2015-05-21,Patient was diagnosed with Rheumatoid Arthritis on 2015-05-21. The patient is currently under observation.,Not Available
+PAT00776,Rachel Webb,1,Female,Ulcerative Colitis,2024-12-25,2024-12-25,Patient was diagnosed with Fever on 2024-12-25. The patient is currently under treatment.,Received Treatment
+PAT00777,Deanna Weber,53,Male,Chronic Obstructive Pulmonary Disease (COPD),1993-01-06,1993-01-06,Patient was diagnosed with Chickenpox on 1993-01-06. The patient is currently under treatment.,Did Not Receive Treatment
+PAT00778,Scott Arroyo,26,Male,Allergies,2014-02-10,2014-02-10,Patient was diagnosed with Diabetes Mellitus on 2014-02-10. The patient is currently under treatment.,Received Treatment
+PAT00779,Eric Santos,2,Female,Laryngitis,2025-06-20,,Patient was diagnosed with MERS on 2025-06-20. The patient is currently under treatment.,Received Treatment
+PAT00780,Angela Gordon,59,Female,Tetanus Neonatorum,1994-03-04,,Patient was diagnosed with Ebola on 1994-03-04. The patient is currently under treatment.,Received Treatment
+PAT00781,Angela Thomas,17,Female,Anxiety/Depression,2023-05-18,,Patient was diagnosed with Filariasis on 2023-05-18. The patient is currently under treatment.,Received Treatment
+PAT00782,Evan Melton,26,Female,Mumps,2011-09-24,,Patient was diagnosed with Osteoporosis on 2011-09-24. The patient is currently under observation.,Did Not Receive Treatment
+PAT00783,Brent Sandoval,40,Female,HIV/AIDS,2022-01-06,,Patient was diagnosed with Asthma on 2022-01-06. The patient is currently under treatment.,Received Treatment
+PAT00784,Donald Wells,10,Female,Chronic Obstructive Pulmonary Disease (COPD),2023-12-06,,Patient was diagnosed with Anaphylaxis on 2023-12-06. The patient is currently under treatment.,Received Treatment
+PAT00785,Brooke Miller,21,Female,TUBERCULOSIS,2007-08-25,,Patient was diagnosed with Osteomyelitis on 2007-08-25. The patient is currently under observation.,Received Treatment
+PAT00786,Brenda Lopez,37,Male,Uterine Fibroids,1997-03-28,,Patient was diagnosed with Septicemia on 1997-03-28. The patient is currently under treatment.,Not Available
+PAT00787,Benjamin Miranda,31,Male,Lassa fever,2021-12-13,2021-12-13,Patient was diagnosed with Common Cold on 2021-12-13. The patient is currently under treatment.,Received Treatment
+PAT00788,Darrell Hernandez,34,Male,Fungal Infection,2009-08-24,,Patient was diagnosed with Burns on 2009-08-24. The patient is currently under treatment.,Did Not Receive Treatment
+PAT00789,Megan Owens,14,Female,Septicemia,2017-01-26,2017-01-26,Patient was diagnosed with Schistosomiasis on 2017-01-26. The patient is currently under treatment.,Received Treatment
+PAT00790,Andrew Graves,82,Female,MALARIA,1977-12-19,,Patient was diagnosed with Tonsillitis on 1977-12-19. The patient is currently under treatment.,Received Treatment
+PAT00791,Oscar Martinez,57,Female,Zika Virus,2020-03-21,,Patient was diagnosed with Leukemia on 2020-03-21. The patient is currently under observation.,Received Treatment
+PAT00792,Antonio Fry,37,Female,Allergies,2024-05-20,,Patient was diagnosed with Hepatitis B on 2024-05-20. The patient is currently under treatment.,Did Not Receive Treatment
+PAT00793,Gregory Smith,8,Male,Chronic Obstructive Pulmonary Disease (COPD),2019-06-09,2019-06-09,Patient was diagnosed with Common Cold on 2019-06-09. The patient is currently under treatment.,Did Not Receive Treatment
+PAT00794,Stacey Walsh,24,Male,Anaphylaxis,2015-04-16,,Patient was diagnosed with Common Cold on 2015-04-16. The patient is currently under treatment.,Did Not Receive Treatment
+PAT00795,Wesley Hanna,36,Female,Filariasis,1991-03-12,,Patient was diagnosed with Bronchitis on 1991-03-12. The patient is currently under treatment.,Received Treatment
+PAT00796,Daniel Berry,42,Male,Heat Stroke,,,Patient was diagnosed with DIABETES on Unknown. The patient is currently under observation.,Received Treatment
+PAT00797,Leslie Patel,44,Male,Tularemia,2007-08-04,,Patient was diagnosed with Stroke on 2007-08-04. The patient is currently under observation.,Received Treatment
+PAT00798,Patricia Zimmerman,71,Male,Tetanus,1954-12-15,1954-12-15,Patient was diagnosed with Mpox on 1954-12-15. The patient is currently under treatment.,Received Treatment
+PAT00799,Holly Rose,7,Female,Onchocerciasis,2023-08-06,,Patient was diagnosed with Wound Infection on 2023-08-06. The patient is currently under observation.,Not Available
+PAT00800,Nicole Knight,2,Female,Polycystic Ovary Syndrome (PCOS),2024-07-15,,Patient was diagnosed with Pertussis on 2024-07-15. The patient is currently under treatment.,Received Treatment
+PAT00801,Kelly Caldwell,89,Female,Arthritis,1963-05-31,,Patient was diagnosed with MALARIA on 1963-05-31. The patient is currently under treatment.,Did Not Receive Treatment
+PAT00802,Erik Davies,54,Male,Lupus,2021-02-09,,Patient was diagnosed with Typhoid Fever on 2021-02-09. The patient is currently under treatment.,Received Treatment
+PAT00803,John Brown,82,Male,Yellow Fever,1969-11-26,,Patient was diagnosed with Lung Cancer on 1969-11-26. The patient is currently under treatment.,Received Treatment
+PAT00804,Joseph Buchanan,38,Male,Peptic Ulcer Disease,1994-06-28,,Patient was diagnosed with Polycystic Ovary Syndrome (PCOS) on 1994-06-28. The patient is currently under treatment.,Did Not Receive Treatment
+PAT00805,Melvin Robinson,32,Male,Filariasis,2001-09-21,,Patient was diagnosed with NIL on 2001-09-21. The patient is currently under observation.,Received Treatment
+PAT00806,Mark Ortiz,48,Female,Uterine Fibroids,2006-02-08,,Patient was diagnosed with Prostatitis on 2006-02-08. The patient is currently under observation.,Received Treatment
+PAT00807,Hannah Lee,53,Male,TUBERCULOSIS,1978-09-02,,Patient was diagnosed with Influenza on 1978-09-02. The patient is currently under treatment.,Did Not Receive Treatment
+PAT00808,Erin Burns,80,Female,Lung Cancer,1971-06-23,,Patient was diagnosed with COVID-19 on 1971-06-23. The patient is currently under treatment.,Received Treatment
+PAT00809,Rebecca Morris,58,Male,Dehydration,1970-12-06,,Patient was diagnosed with Anaphylaxis on 1970-12-06. The patient is currently under treatment.,Received Treatment
+PAT00810,Raven Lawson,25,Male,Tularemia,2018-05-17,,Patient was diagnosed with Prostate Cancer on 2018-05-17. The patient is currently under treatment.,Received Treatment
+PAT00811,Marc Wilson,33,Male,Septicemia,2000-05-21,,Patient was diagnosed with Influenza on 2000-05-21. The patient is currently under treatment.,Received Treatment
+PAT00812,Deborah Nash,19,Male,Thyroid Disorder,2007-01-13,2007-01-13,Patient was diagnosed with Burns on 2007-01-13. The patient is currently under treatment.,Received Treatment
+PAT00813,Jacqueline Arias,2,Male,MALARIA,2025-08-31,,Patient was diagnosed with Poliomyelitis on 2025-08-31. The patient is currently under treatment.,Not Available
+PAT00814,Donna West,46,Male,Sickle Cell Disease,1995-04-26,,Patient was diagnosed with Crohn's Disease on 1995-04-26. The patient is currently under treatment.,Did Not Receive Treatment
+PAT00815,Melissa Pennington,93,Female,Hepatitis C,2005-08-10,,Patient was diagnosed with Leprosy on 2005-08-10. The patient is currently under treatment.,Received Treatment
+PAT00816,Abigail Gibson,32,Male,Arthritis,2004-02-21,,Patient was diagnosed with Fever on 2004-02-21. The patient is currently under observation.,Received Treatment
+PAT00817,Jason Barr,29,Female,TUBERCULOSIS,1999-04-18,,Patient was diagnosed with Glaucoma on 1999-04-18. The patient is currently under treatment.,Received Treatment
+PAT00818,Michael Mckee,58,Female,Peptic Ulcer Disease,2012-06-15,,Patient was diagnosed with Peptic Ulcer Disease on 2012-06-15. The patient is currently under treatment.,Received Treatment
+PAT00819,Richard Diaz,58,Female,TUBERCULOSIS,1973-02-19,1973-02-19,Patient was diagnosed with Appendicitis on 1973-02-19. The patient is currently under treatment.,Received Treatment
+PAT00820,Kerry Marks,38,Male,Endometriosis,2015-05-13,,Patient was diagnosed with Cataract on 2015-05-13. The patient is currently under observation.,Received Treatment
+PAT00821,Heidi Jimenez,32,Female,Monkeypox,2016-05-20,,Patient was diagnosed with Schistosomiasis on 2016-05-20. The patient is currently under treatment.,Not Available
+PAT00822,Karen Johnson,73,Male,HEART DISEASE,2012-10-05,,Patient was diagnosed with Hypothermia on 2012-10-05. The patient is currently under treatment.,Received Treatment
+PAT00823,Catherine Castillo,56,Male,Coronary Artery Disease,1970-10-24,1970-10-24,Patient was diagnosed with Lupus on 1970-10-24. The patient is currently under treatment.,Did Not Receive Treatment
+PAT00824,Amy Rivera,8,Female,Prostatitis,2018-09-02,2018-09-02,Patient was diagnosed with Asthma on 2018-09-02. The patient is currently under treatment.,Did Not Receive Treatment
+PAT00825,Cory Smith,5,Female,Anthrax,2023-08-03,,Patient was diagnosed with Malnutrition on 2023-08-03. The patient is currently under treatment.,Received Treatment
+PAT00826,Brian Lopez,69,Female,Onchocerciasis,2017-06-17,,Patient was diagnosed with Burns on 2017-06-17. The patient is currently under treatment.,Received Treatment
+PAT00827,Richard Mcclure,20,Female,Bronchitis,,,Patient was diagnosed with Onchocerciasis on Unknown. The patient is currently under treatment.,Received Treatment
+PAT00828,Stephanie Payne,63,Male,Hypertension,1995-06-09,,Patient was diagnosed with Leishmaniasis on 1995-06-09. The patient is currently under treatment.,Did Not Receive Treatment
+PAT00829,Jacob Valenzuela,14,Female,Tetanus,2011-11-30,2011-11-30,Patient was diagnosed with Tonsillitis on 2011-11-30. The patient is currently under treatment.,Received Treatment
+PAT00830,Jillian Jones,30,Female,Ulcerative Colitis,2006-01-19,,Patient was diagnosed with Lupus on 2006-01-19. The patient is currently under observation.,Did Not Receive Treatment
+PAT00831,Kelly Olsen,52,Male,Cataract,1990-10-21,,Patient was diagnosed with Ulcerative Colitis on 1990-10-21. The patient is currently under treatment.,Received Treatment
+PAT00832,Jeremy Burgess,1,Female,Arthritis,2025-07-07,,Patient was diagnosed with Thyroid Disorder on 2025-07-07. The patient is currently under treatment.,Received Treatment
+PAT00833,Edward Cannon,87,Male,Urinary Tract Infection,1951-11-04,,Patient was diagnosed with Conjunctivitis on 1951-11-04. The patient is currently under treatment.,Received Treatment
+PAT00834,Brandi Obrien,46,Female,Ulcerative Colitis,2016-05-21,,Patient was diagnosed with Chronic Obstructive Pulmonary Disease (COPD) on 2016-05-21. The patient is currently under treatment.,Did Not Receive Treatment
+PAT00835,Andrea Miller,60,Male,Multiple Sclerosis,1969-06-28,,Patient was diagnosed with Onchocerciasis on 1969-06-28. The patient is currently under treatment.,Received Treatment
+PAT00836,Michelle Griffin,27,Male,Anemia,2025-07-20,2025-07-20,Patient was diagnosed with Mpox on 2025-07-20. The patient is currently under treatment.,Received Treatment
+PAT00837,Melissa Williams,70,Female,Hepatitis C,1956-02-08,,Patient was diagnosed with HIV/AIDS on 1956-02-08. The patient is currently under treatment.,Received Treatment
+PAT00838,Rebecca James,6,Female,Hepatitis C,,,Patient was diagnosed with Impetigo on Unknown. The patient is currently under treatment.,Received Treatment
+PAT00839,Kelly Wright,90,Female,Asthma,1943-11-23,1943-11-23,Patient was diagnosed with HIV/AIDS on 1943-11-23. The patient is currently under treatment.,Not Available
+PAT00840,Amy Wiggins,44,Female,Dengue Fever,,,Patient was diagnosed with Chikungunya on Unknown. The patient is currently under observation.,Received Treatment
+PAT00841,Bradley Jackson,16,Male,Dehydration,2012-01-16,,Patient was diagnosed with Measles on 2012-01-16. The patient is currently under treatment.,Received Treatment
+PAT00842,Susan Moore,63,Female,Rheumatoid Arthritis,1985-05-20,1985-05-20,Patient was diagnosed with Diphtheria on 1985-05-20. The patient is currently under treatment.,Did Not Receive Treatment
+PAT00843,Marc Moss,41,Female,Arthritis,2000-09-02,,Patient was diagnosed with Fracture on 2000-09-02. The patient is currently under treatment.,Did Not Receive Treatment
+PAT00844,Dalton Jackson,31,Female,Osteomyelitis,2023-10-01,,Patient was diagnosed with Leprosy on 2023-10-01. The patient is currently under treatment.,Received Treatment
+PAT00845,Randy Webb,28,Female,Scabies,2017-10-04,,Patient was diagnosed with COVID-19 on 2017-10-04. The patient is currently under treatment.,Did Not Receive Treatment
+PAT00846,Bobby Jenkins,95,Female,Wound Infection,1960-03-22,,Patient was diagnosed with Pneumonia on 1960-03-22. The patient is currently under observation.,Received Treatment
+PAT00847,Nathan Allen,18,Female,Diphtheria,2020-10-05,2020-10-05,Patient was diagnosed with Tularemia on 2020-10-05. The patient is currently under treatment.,Received Treatment
+PAT00848,Dillon Luna,82,Male,Erectile Dysfunction,1950-02-01,,Patient was diagnosed with Osteoporosis on 1950-02-01. The patient is currently under treatment.,Did Not Receive Treatment
+PAT00849,Alison Hensley,19,Female,Filariasis,2017-03-10,,Patient was diagnosed with Mumps on 2017-03-10. The patient is currently under treatment.,Received Treatment
+PAT00850,Lori Sharp,72,Female,Typhoid Fever,1968-11-15,,Patient was diagnosed with Sinusitis on 1968-11-15. The patient is currently under treatment.,Received Treatment
+PAT00851,Cheryl Bell,98,Female,Ulcerative Colitis,1955-12-19,1955-12-19,Patient was diagnosed with Tonsillitis on 1955-12-19. The patient is currently under treatment.,Received Treatment
+PAT00852,Steven Armstrong,23,Male,Impetigo,2009-12-02,2009-12-02,Patient was diagnosed with Multiple Sclerosis on 2009-12-02. The patient is currently under treatment.,Received Treatment
+PAT00853,Kelly Ewing,4,Female,Mumps,2023-04-10,,Patient was diagnosed with Arthritis on 2023-04-10. The patient is currently under treatment.,Received Treatment
+PAT00854,Kathryn Garcia,30,Female,Yellow Fever,2018-09-19,2018-09-19,Patient was diagnosed with Hypertension on 2018-09-19. The patient is currently under observation.,Received Treatment
+PAT00855,Marc Cunningham,35,Female,Glaucoma,1996-05-20,,Patient was diagnosed with Prostatitis on 1996-05-20. The patient is currently under treatment.,Received Treatment
+PAT00856,Amber Davila,99,Male,Laryngitis,2022-08-27,,Patient was diagnosed with NIL on 2022-08-27. The patient is currently under observation.,Received Treatment
+PAT00857,David Green,34,Male,Tetanus,2016-09-07,,Patient was diagnosed with Irritable Bowel Syndrome (IBS) on 2016-09-07. The patient is currently under observation.,Received Treatment
+PAT00858,Lisa Vasquez,42,Male,Poliomyelitis,2007-11-26,,Patient was diagnosed with Arthritis on 2007-11-26. The patient is currently under treatment.,Not Available
+PAT00859,Michael Martinez,50,Male,Erectile Dysfunction,,,Patient was diagnosed with Coronary Artery Disease on Unknown. The patient is currently under treatment.,Received Treatment
+PAT00860,Christopher Jensen,55,Male,Common Cold,1978-11-11,1978-11-11,Patient was diagnosed with Rabies on 1978-11-11. The patient is currently under treatment.,Received Treatment
+PAT00861,Daniel Jones,19,Female,Hypertension,2025-03-24,,Patient was diagnosed with Measles on 2025-03-24. The patient is currently under treatment.,Received Treatment
+PAT00862,Corey Bates,58,Female,Fungal Infection,,,Patient was diagnosed with Chikungunya on Unknown. The patient is currently under treatment.,Received Treatment
+PAT00863,Denise Bennett,11,Female,Common Cold,2020-06-04,,Patient was diagnosed with Zika Virus on 2020-06-04. The patient is currently under treatment.,Received Treatment
+PAT00864,Kristen Snyder,18,Female,Tetanus Neonatorum,2025-01-10,,Patient was diagnosed with Chronic Obstructive Pulmonary Disease (COPD) on 2025-01-10. The patient is currently under treatment.,Did Not Receive Treatment
+PAT00865,,0,Female,Chikungunya,2025-11-11,,Patient was diagnosed with Osteomyelitis on 2025-11-11. The patient is currently under treatment.,Not Available
+PAT00866,,84,Male,Osteoporosis,1991-03-19,1991-03-19,Patient was diagnosed with Hepatitis B on 1991-03-19. The patient is currently under treatment.,Not Available
+PAT00867,Vanessa Gentry,63,Female,Cataract,2006-01-19,,Patient was diagnosed with MALARIA on 2006-01-19. The patient is currently under observation.,Received Treatment
+PAT00868,Diane Lewis,42,Male,Thyroid Disorder,2011-08-04,2011-08-04,Patient was diagnosed with Hepatitis C on 2011-08-04. The patient is currently under treatment.,Received Treatment
+PAT00869,Joel Davis,20,Female,NIL,2006-06-17,,Patient was diagnosed with Fever on 2006-06-17. The patient is currently under observation.,Received Treatment
+PAT00870,Anna Shaw,46,Female,Bronchitis,1989-03-15,,Patient was diagnosed with Plague on 1989-03-15. The patient is currently under treatment.,Received Treatment
+PAT00871,Jim Brown,56,Female,Fungal Infection,2019-12-04,,Patient was diagnosed with COVID-19 on 2019-12-04. The patient is currently under observation.,Received Treatment
+PAT00872,Kevin Cruz,71,Female,Leprosy,1988-12-14,,Patient was diagnosed with Filariasis on 1988-12-14. The patient is currently under observation.,Received Treatment
+PAT00873,Dorothy Burgess,0,Female,Otitis Media,2025-11-11,,Patient was diagnosed with Leprosy on 2025-11-11. The patient is currently under treatment.,Did Not Receive Treatment
+PAT00874,Matthew Spencer,33,Female,Breast Cancer,2002-05-18,2002-05-18,Patient was diagnosed with Osteomyelitis on 2002-05-18. The patient is currently under treatment.,Received Treatment
+PAT00875,Dana Rodriguez,12,Female,MERS,2019-10-30,,Patient was diagnosed with meningitis on 2019-10-30. The patient is currently under treatment.,Received Treatment
+PAT00876,John Carroll,14,Male,Anxiety/Depression,2016-05-21,2016-05-21,Patient was diagnosed with Wound Infection on 2016-05-21. The patient is currently under treatment.,Received Treatment
+PAT00877,Rodney Burton,46,Male,Laryngitis,2005-04-06,,Patient was diagnosed with HIGH BLOOD PRESSURE on 2005-04-06. The patient is currently under observation.,Received Treatment
+PAT00878,Kenneth Price,5,Female,Diabetes Mellitus,2021-01-23,,Patient was diagnosed with Cholera on 2021-01-23. The patient is currently under treatment.,Received Treatment
+PAT00879,Wanda White,80,Male,Sinusitis,1990-01-04,,Patient was diagnosed with Anxiety/Depression on 1990-01-04. The patient is currently under observation.,Did Not Receive Treatment
+PAT00880,Alicia Wallace,65,Male,Tetanus Neonatorum,1988-11-25,,Patient was diagnosed with Breast Cancer on 1988-11-25. The patient is currently under treatment.,Received Treatment
+PAT00881,Michael Winters,62,Female,Coronary Artery Disease,2009-11-04,,Patient was diagnosed with Peptic Ulcer Disease on 2009-11-04. The patient is currently under treatment.,Received Treatment
+PAT00882,Tony Mack,79,Male,COVID-19,1989-11-26,,Patient was diagnosed with Pertussis on 1989-11-26. The patient is currently under treatment.,Did Not Receive Treatment
+PAT00883,Robert Stevenson,38,Female,TUBERCULOSIS,2010-03-26,,Patient was diagnosed with Lassa fever on 2010-03-26. The patient is currently under treatment.,Did Not Receive Treatment
+PAT00884,Kara Ramirez,4,Female,Thyroid Disorder,2023-06-17,,Patient was diagnosed with Ebola on 2023-06-17. The patient is currently under observation.,Not Available
+PAT00885,Shane Dunn,41,Female,Prostatitis,2011-06-15,,Patient was diagnosed with Diabetes Mellitus on 2011-06-15. The patient is currently under treatment.,Received Treatment
+PAT00886,Shannon Cohen,59,Male,DIABETES,2011-01-11,,Patient was diagnosed with Mumps on 2011-01-11. The patient is currently under treatment.,Received Treatment
+PAT00887,,100,Male,Fever,2005-11-03,,Patient was diagnosed with Laryngitis on 2005-11-03. The patient is currently under treatment.,Received Treatment
+PAT00888,Jared Pope,57,Male,Influenza,2019-01-30,,Patient was diagnosed with Shingles on 2019-01-30. The patient is currently under treatment.,Received Treatment
+PAT00889,Brian Pearson,78,Female,HEART DISEASE,1984-11-05,1984-11-05,Patient was diagnosed with Chronic Obstructive Pulmonary Disease (COPD) on 1984-11-05. The patient is currently under observation.,Did Not Receive Treatment
+PAT00890,Melissa Webb,77,Female,MERS,1966-11-04,,Patient was diagnosed with Anxiety/Depression on 1966-11-04. The patient is currently under treatment.,Received Treatment
+PAT00891,,46,Female,Sinusitis,1995-05-02,,Patient was diagnosed with Interstitial Cystitis on 1995-05-02. The patient is currently under treatment.,Received Treatment
+PAT00892,Sarah Carey,86,Male,NIL,1970-07-25,,Patient was diagnosed with HIGH BLOOD PRESSURE on 1970-07-25. The patient is currently under treatment.,Not Available
+PAT00893,Thomas Miller,61,Female,Septicemia,2024-04-14,,Patient was diagnosed with Osteoporosis on 2024-04-14. The patient is currently under treatment.,Received Treatment
+PAT00894,Madison Santos,43,Male,Prostatitis,2003-01-09,,Patient was diagnosed with TUBERCULOSIS on 2003-01-09. The patient is currently under observation.,Received Treatment
+PAT00895,Michael Moore,36,Male,Fever,2019-02-13,,Patient was diagnosed with DIABETES on 2019-02-13. The patient is currently under treatment.,Received Treatment
+PAT00896,David Miles,66,Female,MERS,2018-03-30,,Patient was diagnosed with Lung Cancer on 2018-03-30. The patient is currently under treatment.,Received Treatment
+PAT00897,Leslie Jones,38,Female,Chronic Obstructive Pulmonary Disease (COPD),1995-01-18,1995-01-18,Patient was diagnosed with Lupus on 1995-01-18. The patient is currently under treatment.,Received Treatment
+PAT00898,Elizabeth Davis,99,Male,Tularemia,1982-05-12,,Patient was diagnosed with Prostatitis on 1982-05-12. The patient is currently under treatment.,Did Not Receive Treatment
+PAT00899,Tyler Ortega,30,Female,MALARIA,2001-06-16,,Patient was diagnosed with Common Cold on 2001-06-16. The patient is currently under treatment.,Did Not Receive Treatment
+PAT00900,Joshua Jennings,0,Male,Rubella,2025-11-11,,Patient was diagnosed with Malnutrition on 2025-11-11. The patient is currently under treatment.,Received Treatment
+PAT00901,Aaron Brown,56,Male,Arthritis,1973-06-24,,Patient was diagnosed with Appendicitis on 1973-06-24. The patient is currently under treatment.,Did Not Receive Treatment
+PAT00902,,5,Female,Tonsillitis,2020-12-05,,Patient was diagnosed with Yellow Fever on 2020-12-05. The patient is currently under treatment.,Did Not Receive Treatment
+PAT00903,Brian Snyder,2,Female,Thyroid Disorder,2024-06-13,,Patient was diagnosed with Diphtheria on 2024-06-13. The patient is currently under treatment.,Not Available
+PAT00904,Cory Vasquez,9,Male,Rabies,2022-06-24,2022-06-24,Patient was diagnosed with TUBERCULOSIS on 2022-06-24. The patient is currently under treatment.,Received Treatment
+PAT00905,Tiffany Mccoy,74,Male,Leprosy,,,Patient was diagnosed with MALARIA on Unknown. The patient is currently under treatment.,Received Treatment
+PAT00906,Michael Snyder,3,Female,Allergies,2023-12-09,,Patient was diagnosed with Glaucoma on 2023-12-09. The patient is currently under treatment.,Received Treatment
+PAT00907,John Horn,40,Male,Anaphylaxis,1989-10-13,1989-10-13,Patient was diagnosed with Bronchitis on 1989-10-13. The patient is currently under treatment.,Received Treatment
+PAT00908,Ryan Myers,34,Female,Hepatitis B,1992-09-19,,Patient was diagnosed with Uterine Fibroids on 1992-09-19. The patient is currently under observation.,Received Treatment
+PAT00909,Latoya Miller,47,Male,Conjunctivitis,1982-01-24,1982-01-24,Patient was diagnosed with Monkeypox on 1982-01-24. The patient is currently under observation.,Did Not Receive Treatment
+PAT00910,Vickie Daniels,6,Female,Filariasis,2020-10-20,,Patient was diagnosed with Dehydration on 2020-10-20. The patient is currently under treatment.,Did Not Receive Treatment
+PAT00911,Jennifer Alexander,29,Male,MALARIA,2018-01-28,,Patient was diagnosed with Influenza on 2018-01-28. The patient is currently under treatment.,Received Treatment
+PAT00912,Heather Nichols,6,Male,Chronic Obstructive Pulmonary Disease (COPD),2022-05-04,,Patient was diagnosed with Lice Infestation on 2022-05-04. The patient is currently under treatment.,Received Treatment
+PAT00913,Matthew Wallace,73,Female,Hypothermia,1997-10-20,,Patient was diagnosed with Mumps on 1997-10-20. The patient is currently under treatment.,Did Not Receive Treatment
+PAT00914,Antonio James,40,Female,Mpox,2002-10-13,,Patient was diagnosed with Yellow Fever on 2002-10-13. The patient is currently under treatment.,Not Available
+PAT00915,Brian Haley,42,Male,Measles,2010-10-16,,Patient was diagnosed with meningitis on 2010-10-16. The patient is currently under treatment.,Did Not Receive Treatment
+PAT00916,Frank Wilson,20,Male,Crohn's Disease,2024-11-25,,Patient was diagnosed with Osteomyelitis on 2024-11-25. The patient is currently under treatment.,Received Treatment
+PAT00917,Amanda Kelley,4,Female,HIV/AIDS,2022-11-11,,Patient was diagnosed with Hepatitis C on 2022-11-11. The patient is currently under treatment.,Received Treatment
+PAT00918,Karen Fowler,58,Male,Lupus,1987-08-27,,Patient was diagnosed with Monkeypox on 1987-08-27. The patient is currently under treatment.,Received Treatment
+PAT00919,Mark Phelps,27,Male,Conjunctivitis,2023-11-16,,Patient was diagnosed with Diabetes Mellitus on 2023-11-16. The patient is currently under observation.,Received Treatment
+PAT00920,Robert Lester,14,Female,Chikungunya,2015-10-06,,Patient was diagnosed with Impetigo on 2015-10-06. The patient is currently under treatment.,Received Treatment
+PAT00921,Patrick Mcdaniel,53,Male,Lung Cancer,2020-08-13,,Patient was diagnosed with Conjunctivitis on 2020-08-13. The patient is currently under treatment.,Received Treatment
+PAT00922,Jamie Sharp,77,Female,Lung Cancer,2006-05-25,,Patient was diagnosed with Breast Cancer on 2006-05-25. The patient is currently under treatment.,Did Not Receive Treatment
+PAT00923,Samuel Page,32,Female,Onchocerciasis,2024-07-26,,Patient was diagnosed with Appendicitis on 2024-07-26. The patient is currently under treatment.,Did Not Receive Treatment
+PAT00924,Christine Simon,61,Female,Malnutrition,,,Patient was diagnosed with Laryngitis on Unknown. The patient is currently under observation.,Received Treatment
+PAT00925,Colin Rivera,33,Male,Burns,2002-08-03,,Patient was diagnosed with Erectile Dysfunction on 2002-08-03. The patient is currently under treatment.,Received Treatment
+PAT00926,Mary Murphy,43,Female,Anxiety/Depression,1996-01-11,1996-01-11,Patient was diagnosed with Stroke on 1996-01-11. The patient is currently under observation.,Did Not Receive Treatment
+PAT00927,Michael Walker,13,Female,Peptic Ulcer Disease,2022-11-21,,Patient was diagnosed with Cellulitis on 2022-11-21. The patient is currently under treatment.,Received Treatment
+PAT00928,Madison Wilson,15,Female,Osteomyelitis,2019-04-25,,Patient was diagnosed with Interstitial Cystitis on 2019-04-25. The patient is currently under observation.,Received Treatment
+PAT00929,Derek Daniels,54,Female,Thyroid Disorder,1975-10-14,1975-10-14,Patient was diagnosed with meningitis on 1975-10-14. The patient is currently under observation.,Received Treatment
+PAT00930,Henry Vasquez,15,Female,Schistosomiasis,2021-01-09,,Patient was diagnosed with Typhoid Fever on 2021-01-09. The patient is currently under treatment.,Received Treatment
+PAT00931,Rebekah Ryan,78,Female,Burns,,,Patient was diagnosed with Measles on Unknown. The patient is currently under observation.,Received Treatment
+PAT00932,Dawn Sanders,38,Female,Pneumonia,2019-11-01,,Patient was diagnosed with Yellow Fever on 2019-11-01. The patient is currently under treatment.,Received Treatment
+PAT00933,Frank West,25,Female,Plague,2023-12-02,,Patient was diagnosed with Plague on 2023-12-02. The patient is currently under treatment.,Received Treatment
+PAT00934,Hannah Mitchell,30,Male,Pertussis,2020-09-06,,Patient was diagnosed with Osteoporosis on 2020-09-06. The patient is currently under treatment.,Received Treatment
+PAT00935,Andrea Page,22,Male,Shingles,,,Patient was diagnosed with Multiple Sclerosis on Unknown. The patient is currently under treatment.,Received Treatment
+PAT00936,Michael Crawford,11,Male,Impetigo,2022-02-08,2022-02-08,Patient was diagnosed with Yellow Fever on 2022-02-08. The patient is currently under treatment.,Did Not Receive Treatment
+PAT00937,Robert Atkinson,2,Female,Anxiety/Depression,2025-03-24,,Patient was diagnosed with TUBERCULOSIS on 2025-03-24. The patient is currently under observation.,Received Treatment
+PAT00938,Robert Peterson,16,Male,Septicemia,2015-12-28,,Patient was diagnosed with NIL on 2015-12-28. The patient is currently under observation.,Received Treatment
+PAT00939,Amy Gomez,38,Male,Uterine Fibroids,1999-03-12,1999-03-12,Patient was diagnosed with Plague on 1999-03-12. The patient is currently under treatment.,Not Available
+PAT00940,Robert Pierce,9,Male,Chikungunya,2020-10-18,,Patient was diagnosed with Interstitial Cystitis on 2020-10-18. The patient is currently under treatment.,Received Treatment
+PAT00941,Tiffany Wyatt,11,Female,Fungal Infection,2025-04-21,2025-04-21,Patient was diagnosed with Lassa fever on 2025-04-21. The patient is currently under treatment.,Received Treatment
+PAT00942,Michael Ross,33,Male,Rabies,,,Patient was diagnosed with Hypothermia on Unknown. The patient is currently under treatment.,Did Not Receive Treatment
+PAT00943,,94,Male,Lupus,1986-12-09,,Patient was diagnosed with Allergies on 1986-12-09. The patient is currently under treatment.,Received Treatment
+PAT00944,Barbara Owens,48,Female,Rabies,2022-08-13,2022-08-13,Patient was diagnosed with Leprosy on 2022-08-13. The patient is currently under observation.,Not Available
+PAT00945,Eric Hampton,19,Female,MERS,2023-04-28,,Patient was diagnosed with Irritable Bowel Syndrome (IBS) on 2023-04-28. The patient is currently under treatment.,Not Available
+PAT00946,,43,Male,Erectile Dysfunction,1995-09-19,,Patient was diagnosed with Sickle Cell Disease on 1995-09-19. The patient is currently under treatment.,Did Not Receive Treatment
+PAT00947,Jonathan Ibarra,59,Female,Dengue Fever,1977-02-18,,Patient was diagnosed with Bronchitis on 1977-02-18. The patient is currently under treatment.,Did Not Receive Treatment
+PAT00948,Erica Hill,68,Male,NIL,2024-07-16,2024-07-16,Patient was diagnosed with Monkeypox on 2024-07-16. The patient is currently under observation.,Did Not Receive Treatment
+PAT00949,,67,Male,TUBERCULOSIS,1964-02-24,,Patient was diagnosed with Thyroid Disorder on 1964-02-24. The patient is currently under treatment.,Received Treatment
+PAT00950,Justin Taylor,5,Male,Monkeypox,,,Patient was diagnosed with Plague on Unknown. The patient is currently under treatment.,Did Not Receive Treatment
+PAT00951,Yvonne Crawford,7,Male,Otitis Media,2020-07-06,,Patient was diagnosed with Breast Cancer on 2020-07-06. The patient is currently under treatment.,Not Available
+PAT00952,Ariel Miller,93,Male,Heart Failure,1952-10-01,,Patient was diagnosed with Ulcerative Colitis on 1952-10-01. The patient is currently under treatment.,Did Not Receive Treatment
+PAT00953,James Donovan,63,Female,Multiple Sclerosis,2013-03-29,,Patient was diagnosed with Malnutrition on 2013-03-29. The patient is currently under treatment.,Received Treatment
+PAT00954,Elizabeth Collins,92,Male,Filariasis,2021-05-13,,Patient was diagnosed with HEART DISEASE on 2021-05-13. The patient is currently under treatment.,Received Treatment
+PAT00955,Stephanie Palmer,39,Female,Cataract,2001-06-26,,Patient was diagnosed with Anemia on 2001-06-26. The patient is currently under treatment.,Received Treatment
+PAT00956,Michael Alexander,59,Male,Wound Infection,1989-02-22,,Patient was diagnosed with Schistosomiasis on 1989-02-22. The patient is currently under treatment.,Received Treatment
+PAT00957,Felicia Warner,28,Male,HIV/AIDS,2008-09-09,,Patient was diagnosed with Influenza on 2008-09-09. The patient is currently under treatment.,Did Not Receive Treatment
+PAT00958,Mike Jones,5,Male,MERS,2021-12-14,2021-12-14,Patient was diagnosed with Hepatitis B on 2021-12-14. The patient is currently under treatment.,Received Treatment
+PAT00959,James Phillips,55,Male,DIABETES,1985-08-18,1985-08-18,Patient was diagnosed with Anxiety/Depression on 1985-08-18. The patient is currently under treatment.,Did Not Receive Treatment
+PAT00960,Michael Roberts,27,Male,Ebola,2009-01-10,2009-01-10,Patient was diagnosed with SARS on 2009-01-10. The patient is currently under observation.,Received Treatment
+PAT00961,Hannah Moore,55,Female,Sinusitis,1981-09-04,,Patient was diagnosed with Filariasis on 1981-09-04. The patient is currently under treatment.,Not Available
+PAT00962,Brittany Grant,35,Male,Prostatitis,,,Patient was diagnosed with Diphtheria on Unknown. The patient is currently under treatment.,Received Treatment
+PAT00963,,44,Female,HEART DISEASE,2019-04-19,,Patient was diagnosed with Arthritis on 2019-04-19. The patient is currently under treatment.,Did Not Receive Treatment
+PAT00964,Robert Wright,51,Female,Endometriosis,2011-11-12,,Patient was diagnosed with Obesity on 2011-11-12. The patient is currently under observation.,Received Treatment
+PAT00965,Kayla Aguilar,24,Male,Endometriosis,2022-06-06,2022-06-06,Patient was diagnosed with Diphtheria on 2022-06-06. The patient is currently under treatment.,Received Treatment
+PAT00966,Daniel Taylor,35,Female,COVID-19,2005-01-02,2005-01-02,Patient was diagnosed with Mumps on 2005-01-02. The patient is currently under treatment.,Received Treatment
+PAT00967,Lori Mcmahon,0,Male,Malnutrition,2025-11-11,,Patient was diagnosed with Crohn's Disease on 2025-11-11. The patient is currently under treatment.,Received Treatment
+PAT00968,Kristen Simmons,15,Female,Burns,2017-03-20,,Patient was diagnosed with Impetigo on 2017-03-20. The patient is currently under treatment.,Received Treatment
+PAT00969,Russell Morales,15,,Dengue Fever,2014-11-06,,Patient was diagnosed with MALARIA on 2014-11-06. The patient is currently under treatment.,Received Treatment
+PAT00970,Jessica Fox,75,Female,Impetigo,1962-08-31,1962-08-31,Patient was diagnosed with Tetanus on 1962-08-31. The patient is currently under treatment.,Received Treatment
+PAT00971,John Williams,7,Female,Tularemia,2021-12-14,,Patient was diagnosed with Stroke on 2021-12-14. The patient is currently under treatment.,Received Treatment
+PAT00972,Bridget Harrison,9,Male,Hypothermia,2022-08-22,2022-08-22,Patient was diagnosed with Anthrax on 2022-08-22. The patient is currently under observation.,Not Available
+PAT00973,Ashley Bishop,82,Male,Anemia,2018-09-08,,Patient was diagnosed with meningitis on 2018-09-08. The patient is currently under treatment.,Received Treatment
+PAT00974,Alice Doyle,29,Female,Leprosy,2023-06-23,,Patient was diagnosed with Asthma on 2023-06-23. The patient is currently under treatment.,Did Not Receive Treatment
+PAT00975,,12,Male,Anemia,2019-11-19,,Patient was diagnosed with Burns on 2019-11-19. The patient is currently under observation.,Received Treatment
+PAT00976,Jennifer Dyer,8,Female,Malnutrition,2018-12-20,,Patient was diagnosed with Chronic Obstructive Pulmonary Disease (COPD) on 2018-12-20. The patient is currently under treatment.,Received Treatment
+PAT00977,Misty Newton,8,Female,Typhoid Fever,2024-02-12,,Patient was diagnosed with Cystic Fibrosis on 2024-02-12. The patient is currently under observation.,Did Not Receive Treatment
+PAT00978,Traci Miller,72,Male,MALARIA,,,Patient was diagnosed with Heat Stroke on Unknown. The patient is currently under treatment.,Received Treatment
+PAT00979,Jessica Johnston,5,Male,Cellulitis,2023-07-05,,Patient was diagnosed with Obesity on 2023-07-05. The patient is currently under treatment.,Received Treatment
+PAT00980,James Perkins,78,Male,Interstitial Cystitis,2001-11-02,,Patient was diagnosed with Irritable Bowel Syndrome (IBS) on 2001-11-02. The patient is currently under treatment.,Received Treatment
+PAT00981,Cheyenne Cherry,46,Female,Diphtheria,2021-01-14,,Patient was diagnosed with TUBERCULOSIS on 2021-01-14. The patient is currently under treatment.,Received Treatment
+PAT00982,Edward Stein,36,Female,Rheumatoid Arthritis,1993-08-26,,Patient was diagnosed with Lupus on 1993-08-26. The patient is currently under treatment.,Received Treatment
+PAT00983,Kathleen Williams,97,Female,Onchocerciasis,1975-12-26,,Patient was diagnosed with Mpox on 1975-12-26. The patient is currently under treatment.,Received Treatment
+PAT00984,Holly Deleon,62,Female,Hepatitis C,1998-09-04,,Patient was diagnosed with Scabies on 1998-09-04. The patient is currently under treatment.,Received Treatment
+PAT00985,Chelsea Barrett,27,Male,Burns,2022-09-23,,Patient was diagnosed with Malnutrition on 2022-09-23. The patient is currently under treatment.,Received Treatment
+PAT00986,Megan Daniels,25,Male,Cholera,2003-09-12,,Patient was diagnosed with Zika Virus on 2003-09-12. The patient is currently under treatment.,Did Not Receive Treatment
+PAT00987,Jamie Fields,41,Female,Rheumatoid Arthritis,1995-07-09,,Patient was diagnosed with Hypothermia on 1995-07-09. The patient is currently under treatment.,Received Treatment
+PAT00988,Andrew Morris,50,Male,MALARIA,2023-07-20,,Patient was diagnosed with Macular Degeneration on 2023-07-20. The patient is currently under treatment.,Received Treatment
+PAT00989,Lauren Mullins,83,Male,Anaphylaxis,1962-12-07,,Patient was diagnosed with Leukemia on 1962-12-07. The patient is currently under treatment.,Received Treatment
+PAT00990,Paul Brooks,32,Female,COVID-19,2021-07-07,,Patient was diagnosed with Leprosy on 2021-07-07. The patient is currently under treatment.,Received Treatment
+PAT00991,Holly Miranda,37,Male,Hepatitis B,1993-05-17,,Patient was diagnosed with MALARIA on 1993-05-17. The patient is currently under treatment.,Received Treatment
+PAT00992,Stephanie Figueroa,48,Male,Glaucoma,2004-03-20,,Patient was diagnosed with Common Cold on 2004-03-20. The patient is currently under observation.,Received Treatment
+PAT00993,Brian Brown,47,Female,Uterine Fibroids,1997-12-11,,Patient was diagnosed with Tetanus Neonatorum on 1997-12-11. The patient is currently under observation.,Received Treatment
+PAT00994,Robert Howard,62,Male,Pneumonia,1972-05-10,1972-05-10,Patient was diagnosed with Pertussis on 1972-05-10. The patient is currently under observation.,Received Treatment
+PAT00995,Brady Ramirez,10,Female,Thyroid Disorder,2024-11-19,,Patient was diagnosed with MALARIA on 2024-11-19. The patient is currently under treatment.,Received Treatment
+PAT00996,Steven Brady,18,,Anemia,2013-12-16,2013-12-16,Patient was diagnosed with Glaucoma on 2013-12-16. The patient is currently under treatment.,Did Not Receive Treatment
+PAT00997,,83,Male,Stroke,1963-07-18,1963-07-18,Patient was diagnosed with Chikungunya on 1963-07-18. The patient is currently under treatment.,Did Not Receive Treatment
+PAT00998,Michael Schmitt,21,Female,Scabies,2017-01-03,,Patient was diagnosed with Wound Infection on 2017-01-03. The patient is currently under treatment.,Did Not Receive Treatment
+PAT00999,Brian Logan,36,Female,Shingles,2022-06-25,,Patient was diagnosed with Dehydration on 2022-06-25. The patient is currently under treatment.,Not Available
+PAT01000,Wendy Zhang,0,Female,Osteomyelitis,2025-11-11,,Patient was diagnosed with Urinary Tract Infection on 2025-11-11. The patient is currently under treatment.,Received Treatment
