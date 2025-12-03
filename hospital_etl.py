@@ -20,14 +20,19 @@ def extract_data(file_name):
         # Give feedback if path is not found
         else:
             print(f"File {file_name} not found in the data folder.")
+            return None 
 
     # Give error feedback if extraction fails
     except Exception as e:
         print("error exttracting data as{e}")
+        return None
 
 # coming up next is transformation.....
 
 # STEP 2: TRANSFORMATION
+
+def transform_data(data):
+    data.drop('patient_name', axis=1, inplace=True)
 
 
 
