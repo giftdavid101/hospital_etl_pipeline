@@ -1,0 +1,386 @@
+age,gender,treatment_status
+9,Female,Did Not Receive Treatment
+13,Male,Received Treatment
+12,Female,Received Treatment
+50,Female,Received Treatment
+2,Male,Not Available
+41,Female,Received Treatment
+69,Female,Did Not Receive Treatment
+51,Female,Did Not Receive Treatment
+2,Female,Did Not Receive Treatment
+3,Male,Received Treatment
+28,Female,Not Available
+36,Male,Not Available
+48,Female,Not Available
+44,Male,Received Treatment
+80,Female,Received Treatment
+34,Female,Received Treatment
+38,Female,Received Treatment
+28,Male,Received Treatment
+19,Female,Received Treatment
+48,Male,Received Treatment
+62,Female,Received Treatment
+26,Male,Received Treatment
+61,Male,Received Treatment
+14,Female,Received Treatment
+9,Male,Did Not Receive Treatment
+70,Female,Received Treatment
+42,Male,Received Treatment
+19,Female,Did Not Receive Treatment
+54,Female,Received Treatment
+79,Female,Did Not Receive Treatment
+55,Male,Received Treatment
+67,Female,Received Treatment
+55,Female,Received Treatment
+18,Female,Received Treatment
+35,Male,Did Not Receive Treatment
+28,Female,Did Not Receive Treatment
+97,Male,Received Treatment
+85,Male,Did Not Receive Treatment
+73,Male,Received Treatment
+58,Male,Did Not Receive Treatment
+52,Female,Received Treatment
+93,Female,Did Not Receive Treatment
+48,Female,Received Treatment
+43,Female,Received Treatment
+51,Female,Received Treatment
+20,Male,Received Treatment
+74,Male,Received Treatment
+24,Male,Did Not Receive Treatment
+37,Female,Received Treatment
+10,Male,Received Treatment
+31,Female,Did Not Receive Treatment
+17,Female,Received Treatment
+59,Male,Received Treatment
+25,Male,Did Not Receive Treatment
+5,Male,Received Treatment
+28,Female,Received Treatment
+78,Female,Received Treatment
+35,Male,Received Treatment
+50,Male,Received Treatment
+47,Male,Received Treatment
+68,Male,Received Treatment
+86,Male,Did Not Receive Treatment
+11,Male,Received Treatment
+39,Male,Received Treatment
+95,Male,Not Available
+44,Female,Received Treatment
+32,Female,Not Available
+76,Male,Received Treatment
+69,Male,Received Treatment
+8,Female,Received Treatment
+29,Female,Not Available
+43,Male,Not Available
+60,Male,Not Available
+61,Female,Received Treatment
+32,Male,Did Not Receive Treatment
+24,Female,Received Treatment
+40,Male,Received Treatment
+22,Female,Received Treatment
+21,Male,Received Treatment
+36,Female,Did Not Receive Treatment
+52,Male,Received Treatment
+3,Female,Not Available
+30,Male,Received Treatment
+53,Female,Received Treatment
+64,Female,Not Available
+90,Female,Received Treatment
+94,Female,Received Treatment
+7,Female,Not Available
+14,Male,Received Treatment
+25,Male,Not Available
+71,Male,Received Treatment
+42,Male,Did Not Receive Treatment
+36,Female,Received Treatment
+31,Female,Received Treatment
+1,Female,Received Treatment
+67,Male,Did Not Receive Treatment
+63,Female,Received Treatment
+2,Female,Not Available
+46,Female,Received Treatment
+84,Female,Received Treatment
+74,Female,Received Treatment
+6,Male,Received Treatment
+4,Male,Did Not Receive Treatment
+6,Female,Received Treatment
+97,Female,Not Available
+75,Male,Received Treatment
+16,Female,Received Treatment
+86,Male,Received Treatment
+59,Female,Received Treatment
+88,Female,Received Treatment
+20,Female,Received Treatment
+75,Female,Received Treatment
+53,Female,Did Not Receive Treatment
+40,Male,Not Available
+72,Male,Did Not Receive Treatment
+10,Male,Did Not Receive Treatment
+7,Female,Did Not Receive Treatment
+60,Female,Received Treatment
+40,Female,Received Treatment
+96,Male,Did Not Receive Treatment
+29,Male,Received Treatment
+39,Female,Did Not Receive Treatment
+85,Female,Received Treatment
+57,Female,Received Treatment
+18,Female,Not Available
+9,Male,Received Treatment
+60,Male,Did Not Receive Treatment
+77,Male,Received Treatment
+95,Male,Received Treatment
+77,Female,Received Treatment
+30,Female,Received Treatment
+15,Female,Received Treatment
+2,Male,Received Treatment
+92,Male,Received Treatment
+24,Male,Received Treatment
+17,Female,Not Available
+36,Female,Not Available
+46,Male,Received Treatment
+26,Male,Did Not Receive Treatment
+29,Female,Received Treatment
+79,Female,Received Treatment
+75,Male,Did Not Receive Treatment
+62,Male,Received Treatment
+45,Male,Received Treatment
+60,Male,Received Treatment
+7,Male,Not Available
+16,Male,Received Treatment
+36,Male,Received Treatment
+45,Female,Not Available
+23,Male,Received Treatment
+15,Male,Received Treatment
+33,Male,Received Treatment
+0,Male,Received Treatment
+35,Female,Did Not Receive Treatment
+57,Male,Received Treatment
+96,Male,Received Treatment
+78,Male,Received Treatment
+53,Male,Received Treatment
+99,Male,Received Treatment
+85,Male,Received Treatment
+96,Female,Received Treatment
+12,Male,Not Available
+11,Female,Received Treatment
+1,Male,Did Not Receive Treatment
+23,Female,Did Not Receive Treatment
+18,Male,Did Not Receive Treatment
+21,Female,Did Not Receive Treatment
+22,Male,Received Treatment
+41,Female,Did Not Receive Treatment
+69,Female,Received Treatment
+71,Female,Received Treatment
+4,Female,Did Not Receive Treatment
+33,Male,Did Not Receive Treatment
+58,Female,Did Not Receive Treatment
+10,Female,Received Treatment
+7,Male,Received Treatment
+34,Male,Received Treatment
+31,Male,Received Treatment
+45,Female,Received Treatment
+31,Male,Not Available
+0,Female,Did Not Receive Treatment
+86,Male,Not Available
+42,Female,Received Treatment
+49,Male,Not Available
+41,Male,Received Treatment
+84,Female,Did Not Receive Treatment
+26,Female,Received Treatment
+32,Female,Received Treatment
+46,Female,Did Not Receive Treatment
+59,Male,Not Available
+44,Female,Not Available
+24,Female,Did Not Receive Treatment
+100,Male,Received Treatment
+72,Female,Did Not Receive Treatment
+77,Female,Did Not Receive Treatment
+93,Male,Received Treatment
+68,Female,Received Treatment
+94,Male,Not Available
+81,Male,Not Available
+83,Female,Did Not Receive Treatment
+9,Female,Not Available
+13,Male,Did Not Receive Treatment
+17,Male,Received Treatment
+74,Male,Not Available
+52,Male,Not Available
+43,Male,Did Not Receive Treatment
+37,Male,Received Treatment
+29,Male,Did Not Receive Treatment
+20,Female,Did Not Receive Treatment
+76,Female,Did Not Receive Treatment
+82,Female,Did Not Receive Treatment
+51,Male,Did Not Receive Treatment
+4,Female,Not Available
+38,Female,Did Not Receive Treatment
+43,Female,Not Available
+39,Female,Received Treatment
+18,Male,Received Treatment
+27,Female,Not Available
+89,Female,Received Treatment
+5,Female,Received Treatment
+51,Male,Not Available
+84,Male,Received Treatment
+81,Male,Received Treatment
+54,Female,Did Not Receive Treatment
+55,Male,Not Available
+13,Female,Received Treatment
+49,Female,Received Treatment
+8,Male,Received Treatment
+86,Female,Received Treatment
+47,Female,Received Treatment
+92,Male,Not Available
+67,Male,Received Treatment
+84,Male,Not Available
+9,Female,Received Treatment
+19,Male,Received Treatment
+21,Female,Received Treatment
+80,Female,Not Available
+88,Male,Received Treatment
+47,Male,Not Available
+16,Male,Did Not Receive Treatment
+50,Male,Not Available
+28,Male,Did Not Receive Treatment
+38,Male,Did Not Receive Treatment
+37,Female,Not Available
+70,Male,Received Treatment
+72,Male,Received Treatment
+77,Male,Not Available
+94,Male,Did Not Receive Treatment
+64,Male,Received Treatment
+66,Female,Received Treatment
+3,Female,Did Not Receive Treatment
+63,Male,Not Available
+18,Male,Not Available
+59,Female,Did Not Receive Treatment
+49,Male,Received Treatment
+52,Female,Not Available
+56,Male,Did Not Receive Treatment
+6,Male,Did Not Receive Treatment
+8,Female,Not Available
+23,Female,Not Available
+12,Female,Did Not Receive Treatment
+25,Male,Received Treatment
+92,Female,Received Treatment
+12,Male,Received Treatment
+96,Female,Did Not Receive Treatment
+1,Male,Not Available
+52,Male,Did Not Receive Treatment
+80,Male,Received Treatment
+56,Male,Not Available
+73,Female,Received Treatment
+35,Female,Received Treatment
+54,Male,Received Treatment
+4,Male,Received Treatment
+13,Female,Not Available
+32,Male,Received Treatment
+35,Male,Not Available
+64,Female,Received Treatment
+0,Female,Received Treatment
+98,Female,Received Treatment
+8,Male,Did Not Receive Treatment
+8,Male,Not Available
+5,Male,Not Available
+41,Female,Not Available
+58,Female,Received Treatment
+65,Male,Not Available
+21,Female,Not Available
+83,Male,Did Not Receive Treatment
+43,Male,Received Treatment
+46,Male,Did Not Receive Treatment
+19,Female,Not Available
+38,Male,Received Treatment
+0,Male,Did Not Receive Treatment
+32,Female,Did Not Receive Treatment
+49,Female,Did Not Receive Treatment
+20,Male,Did Not Receive Treatment
+100,Male,Did Not Receive Treatment
+2,Female,Received Treatment
+76,Female,Received Treatment
+66,Male,Received Treatment
+86,Female,Did Not Receive Treatment
+63,Female,Did Not Receive Treatment
+94,Female,Did Not Receive Treatment
+15,Female,Did Not Receive Treatment
+40,Female,Did Not Receive Treatment
+82,Female,Received Treatment
+61,Male,Did Not Receive Treatment
+53,Male,Not Available
+56,Male,Received Treatment
+58,Male,Received Treatment
+24,Male,Not Available
+63,Male,Did Not Receive Treatment
+99,Female,Received Treatment
+85,Female,Did Not Receive Treatment
+17,Female,Did Not Receive Treatment
+13,Female,Did Not Receive Treatment
+65,Female,Received Treatment
+83,Female,Received Treatment
+57,Female,Did Not Receive Treatment
+34,Male,Did Not Receive Treatment
+72,Female,Received Treatment
+91,Female,Received Treatment
+23,Female,Received Treatment
+48,Male,Did Not Receive Treatment
+19,Male,Did Not Receive Treatment
+18,Female,Did Not Receive Treatment
+51,Male,Received Treatment
+47,Male,Did Not Receive Treatment
+26,Female,Did Not Receive Treatment
+95,Female,Received Treatment
+90,Female,Did Not Receive Treatment
+5,Male,Did Not Receive Treatment
+27,Female,Did Not Receive Treatment
+87,Female,Received Treatment
+56,Female,Did Not Receive Treatment
+88,Female,Did Not Receive Treatment
+55,Male,Did Not Receive Treatment
+93,Female,Received Treatment
+98,Male,Received Treatment
+44,Male,Not Available
+99,Female,Did Not Receive Treatment
+11,Male,Did Not Receive Treatment
+87,Female,Did Not Receive Treatment
+89,Male,Received Treatment
+27,Male,Received Treatment
+94,Male,Received Treatment
+63,Male,Received Treatment
+1,Male,Received Treatment
+6,Female,Did Not Receive Treatment
+16,Male,Not Available
+53,Male,Did Not Receive Treatment
+37,Male,Not Available
+37,Female,Did Not Receive Treatment
+89,Female,Did Not Receive Treatment
+82,Male,Received Treatment
+8,Female,Did Not Receive Treatment
+30,Female,Did Not Receive Treatment
+87,Male,Received Treatment
+90,Female,Not Available
+82,Male,Did Not Receive Treatment
+4,Female,Received Treatment
+42,Male,Not Available
+0,Female,Not Available
+56,Female,Received Treatment
+33,Female,Received Treatment
+80,Male,Did Not Receive Treatment
+65,Male,Received Treatment
+79,Male,Did Not Receive Treatment
+78,Female,Did Not Receive Treatment
+99,Male,Did Not Receive Treatment
+5,Female,Did Not Receive Treatment
+3,Female,Received Treatment
+73,Female,Did Not Receive Treatment
+40,Female,Not Available
+43,Female,Did Not Receive Treatment
+25,Female,Received Treatment
+38,Male,Not Available
+68,Male,Did Not Receive Treatment
+93,Male,Did Not Receive Treatment
+55,Female,Not Available
+44,Female,Did Not Receive Treatment
+7,Female,Received Treatment
+9,Male,Not Available
+29,Female,Did Not Receive Treatment
+97,Female,Received Treatment
+83,Male,Received Treatment
